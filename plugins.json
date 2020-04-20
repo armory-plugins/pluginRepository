@@ -28,5 +28,20 @@
           "url": "https://github.com/armory-plugins/policy-engine/releases/download/v1.0.0/policy-engine-v1.0.0.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.WaitForStableManifest",
+      "description": "Enables you to specify the timeout when waiting for a manifest.",
+      "provider": "https://github.com/armory-plugins",
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2020-04-20T18:21:37.561Z",
+          "requires": "orca>=0.0.0",
+          "sha512sum": "94bfafee12e73930bb9fc0938904893f91246cf62da13ab6c5f310e8dcfceeb5b4fe7e3e81452394c3c97223b109dcbb98f68ceffc37010ae3722d71b1308b1d",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/waitForStableManifest/releases/download/v1.0.0/waitForStableManifest-v1.0.0.zip"
+        }
+      ]
     }
   ]
