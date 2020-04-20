@@ -1,3 +1,17 @@
 [
-
+    {
+      "id": "Armory.DatadogEventListener",
+      "description": "A plugin that provides a Datadog event listener.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2020-04-20T17:49:36.017Z",
+          "requires": "echo>=0.0.0",
+          "sha512sum": "8eabc9076197280fb23c87a3b9029549aaa59e681f96417694ac199d7c546c673b6b95acaf2eb3f2bef3e66b85593063d5683a342f0c56b0c864f1cc3dc047cb",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.0/datadogEventListener-v1.0.0.zip"
+        }
+      ]
+    }
   ]
