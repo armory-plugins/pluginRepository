@@ -1,0 +1,50 @@
+name: On Plugin Dep Update Failure
+
+on:
+  repository_dispatch:
+    types: onPluginDepUpdateFailure
+
+jobs:
+  build:
+    name: Notify On Repeated Failures
+    runs-on: ubuntu-latest
+    steps:
+      - name: get update action workflow id
+        id: get_update_action_workflow_id
+        run: |
+          echo ::set-output name=workflow::$(curl -XGET -u "${{ secrets.USERNAME }}:${{ secrets.TOKEN }}" https://api.github.com/repos/${{ github.event.client_payload.repo }}/actions/workflows | jq '.workflows[] | select(.name=="${{ github.event.client_payload.workflow }}") | .id')
+      - name: get update action status history
+        id: get_update_action_status_history
+        run: |
+          echo ::set-output name=status::$(curl -XGET -u "${{ secrets.USERNAME }}:${{ secrets.TOKEN }}" https://api.github.com/repos/${{ github.event.client_payload.repo }}/actions/workflows/${{ steps.get_update_action_workflow_id.outputs.workflow }}/runs?page=1\&per_page=4 | jq '[.workflow_runs[].conclusion]' | tr -d '\040\011\012\015')
+      - name: echo status
+        run: |
+          echo "${{ steps.get_update_action_status_history.outputs.status }}"
+      - name: notify slack for update dep failure
+        if: steps.get_update_action_status_history.outputs.status == '["failure","failure","failure","success"]'
+        uses: 8398a7/action-slack@v2
+        with:
+          status: custom
+          payload: |
+            {
+              "text": "Failed to update plugin dependency.",
+              "attachments": [{
+                "author_name": "${{ github.event.client_payload.repo }}",
+                "author_link": "https://github.com/${{ github.event.client_payload.repo }}",
+                "color": "danger",
+                "fields": [{
+                    "title": "dependency",
+                    "value": "${{ github.event.client_payload.dependency }}",
+                    "short": true
+                  },
+                  {
+                    "title": "version",
+                    "value": "${{ github.event.client_payload.version }}",
+                    "short": true
+                  }
+                ]
+              }]
+            }
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
