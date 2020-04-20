@@ -14,5 +14,5 @@ spinnaker:
               defaultMaxWaitTime: 60
     repositories:
       example-repo:
-        url: https://raw.githubusercontent.com/spinnaker-plugin-examples/examplePluginRepository/master/repositories.json
+        url: https://raw.githubusercontent.com/armory-plugins/pluginRepository/master/repositories.json
 ```
