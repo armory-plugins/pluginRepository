@@ -5,13 +5,13 @@ Adding the following to your orca.yml config will load and start the latest Rand
 spinnaker:
   extensibility:
     plugins:
-      Armory.RandomWaitPlugin:
+      Armory.DatadogEventListener:
         enabled: true
         extensions:
-          armory.randomWaitStage:
+          armory.dataDogEventListener:
             enabled: true
             config:
-              defaultMaxWaitTime: 60
+              apiKey: 'key'
     repositories:
       example-repo:
         url: https://raw.githubusercontent.com/armory-plugins/pluginRepository/master/repositories.json
