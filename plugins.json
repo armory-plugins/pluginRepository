@@ -6,9 +6,9 @@
       "releases": [
         {
           "version": "1.0.0",
-          "date": "2020-04-20T17:49:36.017Z",
+          "date": "2020-04-27T16:34:54.378Z",
           "requires": "echo>=0.0.0",
-          "sha512sum": "8eabc9076197280fb23c87a3b9029549aaa59e681f96417694ac199d7c546c673b6b95acaf2eb3f2bef3e66b85593063d5683a342f0c56b0c864f1cc3dc047cb",
+          "sha512sum": "c43c2dde4893d988348dfb15f5a65ce3956b031780d9b319c98894e60c3e1b5c41a33f7f0906c1570300e26c9ae5cb8a9807d591451f54c219e0b44467917091",
           "state": "RELEASE",
           "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.0/datadogEventListener-v1.0.0.zip"
         }
