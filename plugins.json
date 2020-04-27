@@ -15,21 +15,6 @@
       ]
     },
     {
-      "id": "Armory.PolicyEngine",
-      "description": "This plugin provides support for validating pipelines with the policy engine.",
-      "provider": "https://github.com/claymccoy",
-      "releases": [
-        {
-          "version": "1.0.0",
-          "date": "2020-04-20T18:20:57.103Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "30a7394eb73ae25ded0b89c5c6ac8fc142eab3003798b3e4d1c472804c4687d8df2b421ba7dec2bb6f8c5df1b1798419a07406f0d49bc1eb7cc6b8e8026b3685",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/policy-engine/releases/download/v1.0.0/policy-engine-v1.0.0.zip"
-        }
-      ]
-    },
-    {
       "id": "Armory.WaitForStableManifest",
       "description": "Enables you to specify the timeout when waiting for a manifest.",
       "provider": "https://github.com/armory-plugins",
