@@ -28,5 +28,20 @@
           "url": "https://github.com/armory-plugins/waitForStableManifest/releases/download/v1.0.0/waitForStableManifest-v1.0.0.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.PolicyEngine",
+      "description": "This plugin provides support for validating pipelines with the policy engine.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+        {
+          "version": "0.0.1",
+          "date": "2020-04-27T16:31:33.783Z",
+          "requires": "front50>=0.0.0,orca>=0.0.0",
+          "sha512sum": "87a1689953098eaabe0f2a1f7439f818e528cc9cd1c2d37f8ffffcae0030066d0abccc939586eb8aa0cdc329d8fec5fba35aacedb5eb9665237687cce661f6fa",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.1/policy-engine-v0.0.1.zip"
+        }
+      ]
     }
   ]
