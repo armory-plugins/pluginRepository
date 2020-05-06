@@ -5,6 +5,14 @@
       "provider": "https://github.com/claymccoy",
       "releases": [
         {
+          "version": "1.0.1",
+          "date": "2020-05-06T20:36:20.877Z",
+          "requires": "echo>=0.0.0",
+          "sha512sum": "e9033bdaad24b5b874f5fcc7b56b067adce6bb298fc2a5d04fa27e5c0a864105fd5369ca6d6751af40ea72e39de3654cd62a5bc19c67605276bbbdde2c7804fe",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.1/datadogEventListener-v1.0.1.zip"
+        },
+        {
           "version": "1.0.0",
           "date": "2020-04-27T16:34:54.378Z",
           "requires": "echo>=0.0.0",
