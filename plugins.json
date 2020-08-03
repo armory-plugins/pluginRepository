@@ -83,5 +83,20 @@
           "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.1/policy-engine-v0.0.1.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.PreConfiguredJobPlugin.RunScript",
+      "description": "An Armory plugin that provides a Run Script stage as a pre-configured job.",
+      "provider": "https://github.com/armory-io",
+      "releases": [
+        {
+          "version": "0.0.5",
+          "date": "2020-08-03T16:30:32.764Z",
+          "requires": "orca>=0.0.0",
+          "sha512sum": "082438d6049e3473e1e2f7eebd14449459884fb24e03853ca9a8f143fdaaaf790c32472ef5df4ba150c2adde2f62af1c58639808b3edb17cec770914696ddf57",
+          "state": "RELEASE",
+          "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.5/run-script-plugin-v0.0.5.zip"
+        }
+      ]
     }
   ]
