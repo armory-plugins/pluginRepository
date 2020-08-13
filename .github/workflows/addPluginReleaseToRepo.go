@@ -57,7 +57,7 @@ func main() {
     encodeErr := enc.Encode(updatedPlugins)
     check(encodeErr)
     var indentBuffer bytes.Buffer
-    indentErr := json.Indent(&indentBuffer, encodeBuffer.Bytes(), "  ", "  ")
+    indentErr := json.Indent(&indentBuffer, encodeBuffer.Bytes(), "", "  ")
     check(indentErr)
 
     pluginsJsonWriteErr := ioutil.WriteFile("plugins.json", indentBuffer.Bytes(), 0644)
