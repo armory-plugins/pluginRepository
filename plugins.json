@@ -1,110 +1,118 @@
 [
-    {
-      "id": "Armory.DatadogEventListener",
-      "description": "A plugin that provides a Datadog event listener.",
-      "provider": "https://github.com/claymccoy",
-      "releases": [
-        {
-          "version": "1.0.3",
-          "date": "2020-05-18T20:14:50.230Z",
-          "requires": "echo>=0.0.0",
-          "sha512sum": "2c2021a66d31b9a5162f71702ef36ed5ab0ed7e69c21dc503819c15f94009948905fcddfdd23cc570cec3994317764d1682763c7d1f77a4e95b173a1118d293e",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.3/datadogEventListener-v1.0.3.zip"
-        },
-        {
-          "version": "1.0.2",
-          "date": "2020-05-06T20:37:07.230Z",
-          "requires": "echo>=0.0.0",
-          "sha512sum": "bca1ea73016075b6e14b0360a0f9f04f6253e434413ba4b5d1bb083fa05bb6a8a583c9a5a050c25b9a8f77351f4028be137b98b5269f869a8ea11797ad8e2ac8",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.2/datadogEventListener-v1.0.2.zip"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2020-05-06T20:36:20.877Z",
-          "requires": "echo>=0.0.0",
-          "sha512sum": "e9033bdaad24b5b874f5fcc7b56b067adce6bb298fc2a5d04fa27e5c0a864105fd5369ca6d6751af40ea72e39de3654cd62a5bc19c67605276bbbdde2c7804fe",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.1/datadogEventListener-v1.0.1.zip"
-        },
-        {
-          "version": "1.0.0",
-          "date": "2020-04-27T16:34:54.378Z",
-          "requires": "echo>=0.0.0",
-          "sha512sum": "c43c2dde4893d988348dfb15f5a65ce3956b031780d9b319c98894e60c3e1b5c41a33f7f0906c1570300e26c9ae5cb8a9807d591451f54c219e0b44467917091",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.0/datadogEventListener-v1.0.0.zip"
-        }
-      ]
-    },
-    {
-      "id": "Armory.WaitForStableManifest",
-      "description": "Enables you to specify the timeout when waiting for a manifest.",
-      "provider": "https://github.com/armory-plugins",
-      "releases": [
-        {
-          "version": "1.0.0",
-          "date": "2020-04-20T18:21:37.561Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "94bfafee12e73930bb9fc0938904893f91246cf62da13ab6c5f310e8dcfceeb5b4fe7e3e81452394c3c97223b109dcbb98f68ceffc37010ae3722d71b1308b1d",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/waitForStableManifest/releases/download/v1.0.0/waitForStableManifest-v1.0.0.zip"
-        }
-      ]
-    },
-    {
-      "id": "Armory.PolicyEngine",
-      "description": "This plugin provides support for validating pipelines with the policy engine.",
-      "provider": "https://github.com/claymccoy",
-      "releases": [
-        {
-          "version": "0.0.6",
-          "date": "2020-05-05T16:51:39.366Z",
-          "requires": "front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "d8081fc10b38b549890dff60928a829ed3d3c5675b3ee0f696d1f338ef01d4535db424a874e8b18507a101d3344db8d5a5f336848f9b940d7c40ddc9aa6cf132",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.0.6/policy-engine-releases-v0.0.6.zip"
-        },
-        {
-          "version": "1.0.0",
-          "date": "2020-05-05T15:28:03.195Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "8164031d3ed5e4391490685401d0b1c247e9ed39ad509d6e5e053f4820aa3d6011084a5b702c77a1909233e6646ef80d846b8a39ff1b69d4878bc04f5e7b3fdd",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/policy-engine/releases/download/v1.0.0/policy-engine-v1.0.0.zip"
-        },
-        {
-          "version": "0.0.1",
-          "date": "2020-04-27T16:31:33.783Z",
-          "requires": "front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "87a1689953098eaabe0f2a1f7439f818e528cc9cd1c2d37f8ffffcae0030066d0abccc939586eb8aa0cdc329d8fec5fba35aacedb5eb9665237687cce661f6fa",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.1/policy-engine-v0.0.1.zip"
-        }
-      ]
-    },
-    {
-      "id": "Armory.PreConfiguredJobPlugin.RunScript",
-      "description": "An Armory plugin that provides a Run Script stage as a pre-configured job.",
-      "provider": "https://github.com/armory-io",
-      "releases": [
-        {
-          "version": "0.0.6",
-          "date": "2020-08-11T14:55:40.574Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "b2d46a0cffad4dd0da0ff9cc4911ea702444301328202ab50ac03651aad209f5ca9181c30843703871bee92c0ca36489c127086565ae7354a7006dbb3d23f904",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.6/run-script-plugin-v0.0.6.zip"
-        },
-        {
-          "version": "0.0.5",
-          "date": "2020-08-03T16:30:32.764Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "082438d6049e3473e1e2f7eebd14449459884fb24e03853ca9a8f143fdaaaf790c32472ef5df4ba150c2adde2f62af1c58639808b3edb17cec770914696ddf57",
-          "state": "RELEASE",
-          "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.5/run-script-plugin-v0.0.5.zip"
-        }
-      ]
-    }
-  ]
+  {
+    "id": "Armory.DatadogEventListener",
+    "description": "A plugin that provides a Datadog event listener.",
+    "provider": "https://github.com/claymccoy",
+    "releases": [
+      {
+        "version": "1.0.3",
+        "date": "2020-05-18T20:14:50.230Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "2c2021a66d31b9a5162f71702ef36ed5ab0ed7e69c21dc503819c15f94009948905fcddfdd23cc570cec3994317764d1682763c7d1f77a4e95b173a1118d293e",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.3/datadogEventListener-v1.0.3.zip"
+      },
+      {
+        "version": "1.0.2",
+        "date": "2020-05-06T20:37:07.230Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "bca1ea73016075b6e14b0360a0f9f04f6253e434413ba4b5d1bb083fa05bb6a8a583c9a5a050c25b9a8f77351f4028be137b98b5269f869a8ea11797ad8e2ac8",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.2/datadogEventListener-v1.0.2.zip"
+      },
+      {
+        "version": "1.0.1",
+        "date": "2020-05-06T20:36:20.877Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "e9033bdaad24b5b874f5fcc7b56b067adce6bb298fc2a5d04fa27e5c0a864105fd5369ca6d6751af40ea72e39de3654cd62a5bc19c67605276bbbdde2c7804fe",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.1/datadogEventListener-v1.0.1.zip"
+      },
+      {
+        "version": "1.0.0",
+        "date": "2020-04-27T16:34:54.378Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "c43c2dde4893d988348dfb15f5a65ce3956b031780d9b319c98894e60c3e1b5c41a33f7f0906c1570300e26c9ae5cb8a9807d591451f54c219e0b44467917091",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/datadogEventListener/releases/download/v1.0.0/datadogEventListener-v1.0.0.zip"
+      }
+    ]
+  },
+  {
+    "id": "Armory.WaitForStableManifest",
+    "description": "Enables you to specify the timeout when waiting for a manifest.",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "2020-04-20T18:21:37.561Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "94bfafee12e73930bb9fc0938904893f91246cf62da13ab6c5f310e8dcfceeb5b4fe7e3e81452394c3c97223b109dcbb98f68ceffc37010ae3722d71b1308b1d",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/waitForStableManifest/releases/download/v1.0.0/waitForStableManifest-v1.0.0.zip"
+      }
+    ]
+  },
+  {
+    "id": "Armory.PolicyEngine",
+    "description": "This plugin provides support for validating pipelines with the policy engine.",
+    "provider": "https://github.com/claymccoy",
+    "releases": [
+      {
+        "version": "0.0.6",
+        "date": "2020-05-05T16:51:39.366Z",
+        "requires": "front50>=0.0.0,orca>=0.0.0",
+        "sha512sum": "d8081fc10b38b549890dff60928a829ed3d3c5675b3ee0f696d1f338ef01d4535db424a874e8b18507a101d3344db8d5a5f336848f9b940d7c40ddc9aa6cf132",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.0.6/policy-engine-releases-v0.0.6.zip"
+      },
+      {
+        "version": "1.0.0",
+        "date": "2020-05-05T15:28:03.195Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "8164031d3ed5e4391490685401d0b1c247e9ed39ad509d6e5e053f4820aa3d6011084a5b702c77a1909233e6646ef80d846b8a39ff1b69d4878bc04f5e7b3fdd",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/policy-engine/releases/download/v1.0.0/policy-engine-v1.0.0.zip"
+      },
+      {
+        "version": "0.0.1",
+        "date": "2020-04-27T16:31:33.783Z",
+        "requires": "front50>=0.0.0,orca>=0.0.0",
+        "sha512sum": "87a1689953098eaabe0f2a1f7439f818e528cc9cd1c2d37f8ffffcae0030066d0abccc939586eb8aa0cdc329d8fec5fba35aacedb5eb9665237687cce661f6fa",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.1/policy-engine-v0.0.1.zip"
+      }
+    ]
+  },
+  {
+    "id": "Armory.PreConfiguredJobPlugin.RunScript",
+    "description": "An Armory plugin that provides a Run Script stage as a pre-configured job.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.8",
+        "date": "2020-10-12T14:16:21.878Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "1bc4cb64e25dae53d1c0cf9310c598b5b7b36e4b838d5a6b621ce3cf2a2533aaa1521553bd0ce9341ae03814a650aea0b5604e2472ca6c33694bb5ab7ddd0582",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.8/run-script-plugin-v0.0.8.zip"
+      },
+      {
+        "version": "0.0.6",
+        "date": "2020-08-11T14:55:40.574Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "b2d46a0cffad4dd0da0ff9cc4911ea702444301328202ab50ac03651aad209f5ca9181c30843703871bee92c0ca36489c127086565ae7354a7006dbb3d23f904",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.6/run-script-plugin-v0.0.6.zip"
+      },
+      {
+        "version": "0.0.5",
+        "date": "2020-08-03T16:30:32.764Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "082438d6049e3473e1e2f7eebd14449459884fb24e03853ca9a8f143fdaaaf790c32472ef5df4ba150c2adde2f62af1c58639808b3edb17cec770914696ddf57",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.5/run-script-plugin-v0.0.5.zip"
+      }
+    ]
+  }
+]
