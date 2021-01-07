@@ -90,6 +90,13 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
+        "version": "0.0.11",
+        "date": "2021-01-07T18:05:02.892451Z",
+        "requires": "orca>=0.0.0",
+        "sha512sum": "ea8061786017cbd5f5a63ccf019709db0ad9c32c61e8fc7322582d0f4262bbe14459c46fadb6fb57e754ade7060c4e6e8c60b9cb332a9fdca510380a089cb81b",
+        "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.11/run-script-plugin-v0.0.11.zip"
+      },
+      {
         "version": "0.0.8",
         "date": "2020-10-12T14:16:21.878Z",
         "requires": "orca>=0.0.0",
