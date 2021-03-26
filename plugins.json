@@ -121,5 +121,19 @@
         "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.5/run-script-plugin-v0.0.5.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.EvaluateArtifactsPlugin",
+    "description": "An plugin that evaluates artifacts of a pipeline stage.",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+      {
+        "version": "0.0.8",
+        "date": "2021-03-26T18:48:06.275842Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "5415d7d3a15b39333d82b3ff9334d19e692699062251e009fab576f7d0539179a57840038018d6321fe6c50f210f93f5a2c242a1fb7dba69419f9b5b24836f9f",
+        "url": "https://github.com//releases/download/v0.0.8/evaluate-artifacts-v0.0.8.zip"
+      }
+    ]
   }
 ]
