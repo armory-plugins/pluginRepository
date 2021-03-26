@@ -132,14 +132,14 @@
         "date": "2021-03-26T19:01:19.643851Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b1e50d3d5f15aacd1a160594042114d89f58f21abae56ff95399960ce87c18a8b87af8965e9e814cf99025a62483535e680c0ef2896530ab9da567ad1f0eef4e",
-        "url": "https://github.com//releases/download/v0.0.9/evaluate-artifacts-v0.0.9.zip"
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.9/evaluate-artifacts-v0.0.9.zip"
       },
       {
         "version": "0.0.8",
         "date": "2021-03-26T18:48:06.275842Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "5415d7d3a15b39333d82b3ff9334d19e692699062251e009fab576f7d0539179a57840038018d6321fe6c50f210f93f5a2c242a1fb7dba69419f9b5b24836f9f",
-        "url": "https://github.com//releases/download/v0.0.8/evaluate-artifacts-v0.0.8.zip"
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.8/evaluate-artifacts-v0.0.8.zip"
       }
     ]
   }
