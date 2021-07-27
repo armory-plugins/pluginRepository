@@ -142,5 +142,19 @@
         "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.8/evaluate-artifacts-v0.0.8.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.ArmoryHeader",
+    "description": "A plugin that overrides Spinnaker Header",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2021-07-27T19:59:20.180179Z",
+        "requires": "deck>=0.0.0",
+        "sha512sum": "31dce068e09ba4d9a64d118ecc22786be21e47f644e10be462eced7dad12f69c38819de1a5deecbea0e7ab124117ae2e9be3148ffca1f3458d84f342baaa1cb7",
+        "url": "https://github.com//releases/download/v0.0.1/armory-header-v0.0.1.zip"
+      }
+    ]
   }
 ]
