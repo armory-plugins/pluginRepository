@@ -54,37 +54,6 @@
     ]
   },
   {
-    "id": "Armory.PolicyEngine",
-    "description": "This plugin provides support for validating pipelines with the policy engine.",
-    "provider": "https://github.com/claymccoy",
-    "releases": [
-      {
-        "version": "0.0.6",
-        "date": "2020-05-05T16:51:39.366Z",
-        "requires": "front50>=0.0.0,orca>=0.0.0",
-        "sha512sum": "d8081fc10b38b549890dff60928a829ed3d3c5675b3ee0f696d1f338ef01d4535db424a874e8b18507a101d3344db8d5a5f336848f9b940d7c40ddc9aa6cf132",
-        "state": "RELEASE",
-        "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.0.6/policy-engine-releases-v0.0.6.zip"
-      },
-      {
-        "version": "1.0.0",
-        "date": "2020-05-05T15:28:03.195Z",
-        "requires": "orca>=0.0.0",
-        "sha512sum": "8164031d3ed5e4391490685401d0b1c247e9ed39ad509d6e5e053f4820aa3d6011084a5b702c77a1909233e6646ef80d846b8a39ff1b69d4878bc04f5e7b3fdd",
-        "state": "RELEASE",
-        "url": "https://github.com/armory-plugins/policy-engine/releases/download/v1.0.0/policy-engine-v1.0.0.zip"
-      },
-      {
-        "version": "0.0.1",
-        "date": "2020-04-27T16:31:33.783Z",
-        "requires": "front50>=0.0.0,orca>=0.0.0",
-        "sha512sum": "87a1689953098eaabe0f2a1f7439f818e528cc9cd1c2d37f8ffffcae0030066d0abccc939586eb8aa0cdc329d8fec5fba35aacedb5eb9665237687cce661f6fa",
-        "state": "RELEASE",
-        "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.1/policy-engine-v0.0.1.zip"
-      }
-    ]
-  },
-  {
     "id": "Armory.PreConfiguredJobPlugin.RunScript",
     "description": "An Armory plugin that provides a Run Script stage as a pre-configured job.",
     "provider": "https://github.com/armory-io",
