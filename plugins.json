@@ -285,22 +285,37 @@
   },
   {
     "id": "Armory.EvaluateArtifactsPlugin",
-    "description": "An plugin that evaluates artifacts of a pipeline stage.",
+    "description": "This plugin provides support for evaluating SpEL expressions embedded in artifacts.",
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
-        "version": "0.0.9",
-        "date": "2021-03-26T19:01:19.643851Z",
+        "version": "0.1.1",
+        "date": "2021-11-01T20:47:11.285511Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "b1e50d3d5f15aacd1a160594042114d89f58f21abae56ff95399960ce87c18a8b87af8965e9e814cf99025a62483535e680c0ef2896530ab9da567ad1f0eef4e",
-        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.9/evaluate-artifacts-v0.0.9.zip"
+        "sha512sum": "50880d76d5da9f9b05d46d338b34e0d66fb9f1f6bfd78bc9cb39ba3fd8bb8d3e7c325955e48295252b3a360cc245d35ac35c253796e2ff643b32121066909bfa",
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.1.1/evaluate-artifacts-v0.1.1.zip"
       },
       {
-        "version": "0.0.8",
-        "date": "2021-03-26T18:48:06.275842Z",
+        "version": "0.1.0",
+        "date": "2021-03-31T16:20:01.406187Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "5415d7d3a15b39333d82b3ff9334d19e692699062251e009fab576f7d0539179a57840038018d6321fe6c50f210f93f5a2c242a1fb7dba69419f9b5b24836f9f",
-        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.8/evaluate-artifacts-v0.0.8.zip"
+        "sha512sum": "081a481abc29db4772a5355d6110844c7fa396262fcc5de03653097405d31a99023b7952cfe6db66d33cfe2bf389e9c07f946537effc1d2c8b41057c7f515e6d",
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.1.0/evaluate-artifacts-v0.1.0.zip"
+      },
+      {
+        "version": "0.0.10",
+        "date": "2021-03-26T20:32:16.079948Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "dc64aa83af994eb4247a27d69243c08754a0ed25d17de1ef484ed9dbf14a2328339dd61a20d9e00259bb21ff291ef95be570092068675f8d79e7e48a8064c7a6",
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.10/evaluate-artifacts-v0.0.10.zip"
+      },
+      {
+        "version": "0.0.4",
+        "date": "2021-03-18T20:14:57.850534Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "616c7471175a68116077c0926128314888594b94b12b3230f4e30f4b8ecda31fea488953d78e6abf593b92376e2711b9acb1e968c3d84a5f41caa602c5f0ca1a",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.4/evaluate-artifacts-v0.0.4.zip"
       }
     ]
   },
