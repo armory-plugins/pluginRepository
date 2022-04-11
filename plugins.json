@@ -346,5 +346,156 @@
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.0.1/armory-header-v0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.CRDCheck",
+    "description": "A plugin to validate a manifest is stable in kubernetes",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "date": "2020-11-19T00:12:14.659834Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "cb1f74203f4a12de6171c59f9dceea3e978bfb56c3d11d6d712a8623ee5ca5b4dea7809d69a3223415c4816429e15f0071667f612cc47edbc99f0d2e11ab203f",
+        "state": "",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.2.0/armory-crdcheck-plugin-v0.2.0.zip"
+      },
+      {
+        "version": "0.1.3",
+        "date": "2020-09-03T16:54:17.021Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "b44ca1e71e03e093ed5f8b09031a42d83711547e71af6e66540b82e8d4ca69fdbade73cbabde094b61e6a2c495a6cc6c870a6c52aa8dab68f8e5f03d3e41d3e3",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.1.3/armory-crdcheck-plugin-v0.1.3.zip"
+      },
+      {
+        "version": "0.0.19",
+        "date": "2020-09-03T16:45:10.377Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "1ddc0dc22b0c54b08738ef026962957deeb82850ee3e8d1b66554d766404bc3050d2ec8b4efc4a7797241026d547ec4b97f2314272443f608f3c6b1d05e3df44",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.19/armory-crdcheck-plugin-v0.0.19.zip"
+      },
+      {
+        "version": "0.0.18",
+        "date": "2020-09-03T16:40:43.694Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "250292829e0bb7c6b2533e2145fc08287172967e8e9cdd4c4a7e536086b44001db13e28852992b02bd8358571eff9f7db800623a3a2c7232b579893130f96296",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.18/armory-crdcheck-plugin-v0.0.18.zip"
+      },
+      {
+        "version": "0.1.2",
+        "date": "2020-07-17T12:58:33.846Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "c7b9c44620e571307102c91310b101160c92d05a36586b010577096d280a5b5942df5fd8105012de4d6db9138cf73eb3e3ddd79fbc5d3b0cb07507a87eb7a8d2",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.1.2/armory-crdcheck-plugin-v0.1.2.zip"
+      },
+      {
+        "version": "0.0.17",
+        "date": "2020-06-30T17:14:07.667Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "7b5c22f911c97582b2c8163611840c0ea2580ca3eee44937c6b571f5926f87d8fcbe4b747097de7f638a8da421c0c5670f1c69b20bd3ddb6491d8a7da6ad1dbe",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.17/armory-crdcheck-plugin-v0.0.17.zip"
+      },
+      {
+        "version": "0.0.16",
+        "date": "2020-06-26T22:57:37.349Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "ce2476366dd1a98bd6c9394716b251ee993ef73e886b29bb86c8f243d28dc8864e5a5116308f1a563f87eca83dd1bc9d9b949a675f420f23069ad93e1e7bf688",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.16/armory-crdcheck-plugin-v0.0.16.zip"
+      },
+      {
+        "version": "0.0.15",
+        "date": "2020-06-26T22:28:31.347Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "959bd73188cdeda3d25003f45e2dba967b5b3958b012b1a2d0c925523629107dd358d7b5d2e0cc32b38c5f81f3bb643c187418d32581c0c3f15003f92cd10c55",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.15/armory-crdcheck-plugin-v0.0.15.zip"
+      },
+      {
+        "version": "0.0.14",
+        "date": "2020-06-26T21:41:47.479Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "b4bbea19371422a0c9ac7200d75266018beda2c8956d668c302aa97f1fa309b79a650748f0b855eda2a191dc3561069cfa3f009038dc0c966973caf5c5f7cb7b",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.14/armory-crdcheck-plugin-v0.0.14.zip"
+      },
+      {
+        "version": "0.0.13",
+        "date": "2020-06-26T21:21:26.694Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "5edcc94c0aa3a5b8981cce0a258a4932c08324ee57d326177111f033dc98caebfbfa7dceeaa356375cba6bc21c0994ed2a9108cea2c5a51cffe18d4d42be453b",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.13/armory-crdcheck-plugin-v0.0.13.zip"
+      },
+      {
+        "version": "0.0.12",
+        "date": "2020-06-26T17:36:55.322Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "eda9f27750c263b54475213f27a4b6e4568ce13e5839fb7905e789ea0b7d9a1d8d51ed58a0f1668b209a6b09283534a6c9632fd1cb8226c7d8d83695da14c32b",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.12/armory-crdcheck-plugin-v0.0.12.zip"
+      },
+      {
+        "version": "0.0.11",
+        "date": "2020-06-26T00:33:36.885Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "59bbc721f3207ca3f8d1f5af2aa500cd234de34fd49c1d3c8690cb421172cdc47d104ea6bed8c89bc40acaf51237aa60f559e80ef401a2b976e161fe664301ff",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.11/armory-crdcheck-plugin-v0.0.11.zip"
+      },
+      {
+        "version": "0.0.10",
+        "date": "2020-06-25T20:53:14.425Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "98f6836673a7aedee50533ecc8cb4d1c96bc8ce2d26a2c10f1341ed62cc5b25d64ca55775dd0c4d5ff13b006291127d1760a6987ae9d175be16fd65554becdca",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.10/armory-crdcheck-plugin-v0.0.10.zip"
+      },
+      {
+        "version": "0.0.9",
+        "date": "2020-06-25T17:05:09.956Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "bad52741dcef926279a5634c5a5af62c7da8a34cba53ff327bdd0b6f430514746a5a8b8081ce39b0ccf87a90ebf0bd7c0d6e06a4192521fab56dab0d56b0ce01",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.9/armory-crdcheck-plugin-v0.0.9.zip"
+      },
+      {
+        "version": "0.0.7",
+        "date": "2020-06-25T01:20:24.016Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "855947a5566ab1777f6431e6d4ab12696917f2ca54babbb0cd48481f7c0e573dc84e0e15d409d2b977eb72cb27b3874f88fde63376897b3bf5d5910cb42af787",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.7/armory-crdcheck-plugin-v0.0.7.zip"
+      },
+      {
+        "version": "0.0.6",
+        "date": "2020-06-24T22:49:37.830Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "bd92463a4cc4dd039a4c27e4e35535ab2621ccd8d8b42bd7d1ea7da6e7d678da39071fbbfce94670f5db042eac0aa4622b4c9d6e0f2d0fb176f44bc9782fccb4",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.0.6/armory-crdcheck-plugin-v0.0.6.zip"
+      },
+      {
+        "version": "0.0.5",
+        "date": "2020-06-24T22:07:27.657Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "96ae976b03e31fdfa8a36e388def736f06666bfa6021aefa874ea456664fb3401916996bbcc8cf05865bfab3055a9356ff6f4d5399aa687614aa1d8ec6073e51",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin-releases/releases/download/v0.0.5/armory-crdcheck-plugin-v0.0.5.zip"
+      },
+      {
+        "version": "0.0.4",
+        "date": "2020-06-24T16:03:11.215Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "29f7db7ab165dc82de4621a683fa4241049cb484691793612e47542232ebf4118f5a6246b9d68951f21b443fee780f12be7dfd4f6644351d99147577d02bfdb0",
+        "state": "RELEASE",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin-releases/releases/download/v0.0.4/armory-crdcheck-plugin-v0.0.4.zip"
+      }
+    ]
   }
 ]
