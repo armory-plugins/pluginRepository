@@ -497,5 +497,68 @@
         "url": "https://github.com/armory-plugins/armory-crdcheck-plugin-releases/releases/download/v0.0.4/armory-crdcheck-plugin-v0.0.4.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.InstanceRegistration",
+    "description": "An Armory plugin that checks whether a Spinnaker instance is registered with us.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.10",
+        "date": "2021-10-29T22:03:15.627990Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "cd312574899b4605d1ef9d5092cd2e9a3ebbdcc7c4d9fe03eb482d9570f84049f71bb99c91aa907c90f719811cdfa58b8858535077d2f7b048d605fd2c9fb84d",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.10/instance-registration-v0.0.10.zip"
+      },
+      {
+        "version": "0.0.9",
+        "date": "2021-08-13T13:21:43.820751Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "20b1c4e859f897ce04908a4d72c6e0995e0857d1c169e592225d06d743c63e097ac225984fa4a01d1eab1a4f34c122beb4e3f13cfaa617c3970c24f21404f3d7",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.9/instance-registration-v0.0.9.zip"
+      },
+      {
+        "version": "0.0.8",
+        "date": "2021-08-13T13:21:01.642984Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "b8f97652fbfaeb94c4743fe53caa7969d971cf94db299f0bce4b6b42e56cd793feb7921ad218a9efd38de17e7e19f84899b784e5bd9d88155c451e7bf6ed0c4a",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.8/instance-registration-v0.0.8.zip"
+      },
+      {
+        "version": "0.0.7",
+        "date": "2021-08-12T17:53:21.410448Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "8a137360845050fbce40060c824bfdd00b3b1a59d41c6c28fbdaa7e8a7d1213953bc44144ea069b19553e2a361756353e4f17a72a6a26a57d750bb185f1293c8",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.7/instance-registration-v0.0.7.zip"
+      },
+      {
+        "version": "0.0.6",
+        "date": "2021-08-06T19:55:49.186293Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "3a167fdd57fe25efc3794a68f24da16fcb60614155c503f06b57508badf9fcadd37e9112af487f8ea0452eb41cbaba5f452e2b413e70b0b87cadd5ec96e052de",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.6/instance-registration-v0.0.6.zip"
+      },
+      {
+        "version": "0.0.5",
+        "date": "2021-08-06T13:45:53.669085Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "a7b28d44a8324fcf508beef7a6f6baff04f596a2d7f7b6c82976231c43a53f05ab73c1e6e405ac060c6a1e63fc8c6dca424f8da060adcd2dc8c03712b80bde09",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.5/instance-registration-v0.0.5.zip"
+      },
+      {
+        "version": "0.0.4",
+        "date": "2021-07-29T15:17:33.247762Z",
+        "requires": "gate>=0.0.0",
+        "sha512sum": "ce4f8573962b4754cd676bb705b819374d263c88d6b411437a362284be9f1bc7d496fa414469a9ea76c900acc1803dcc36d7b6e29d3a189d0fac17497038f29d",
+        "state": "",
+        "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.4/instance-registration-v0.0.4.zip"
+      }
+    ]
   }
 ]
