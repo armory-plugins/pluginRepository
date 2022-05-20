@@ -1,5 +1,30 @@
 [
   {
+    "id": "Armory.AppNamePlugin",
+    "description": "Custom application name format for Spinnaker applications.",
+    "provider": "https://github.com/armory-plugins",
+    "releases": [
+      {
+        "version": "0.2.0",
+        "date": "2021-10-29T15:14:07.344629Z",
+        "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "b028db5f70f6537009ea2dfa98aab45643054c1356e5460b2d025c24467d442e2129e6aea25204b466afeaae634e2ef3876c389d7a72eeb65d5bceea29870934",
+        "preferred": true,
+        "compatibility": [
+        ],
+        "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.2.0/appNamePlugin-0.2.0.zip"
+      },
+      {
+        "version": "0.1.0",
+        "date": "2020-10-09T22:46:14.696794Z",
+        "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "80291b152f65fbd2d921df35f07b32dd5ab3e62f99b221d81130697a70f1b23bd8a530f95922057589a3c922c94386072af05cdbb0068afc58023ec8d00f23a1",
+        "preferred": false,
+        "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.1.0/appNamePlugin-0.1.0.zip"
+      }
+    ]
+  },
+  {
     "id": "Armory.PolicyEngine",
     "description": "This plugin provides support for validating pipelines with the policy engine.",
     "provider": "https://github.com/armory-io",
