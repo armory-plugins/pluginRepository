@@ -9,9 +9,6 @@
         "date": "2021-10-29T15:14:07.344629Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b028db5f70f6537009ea2dfa98aab45643054c1356e5460b2d025c24467d442e2129e6aea25204b466afeaae634e2ef3876c389d7a72eeb65d5bceea29870934",
-        "preferred": true,
-        "compatibility": [
-        ],
         "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.2.0/appNamePlugin-0.2.0.zip"
       },
       {
@@ -19,7 +16,6 @@
         "date": "2020-10-09T22:46:14.696794Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "80291b152f65fbd2d921df35f07b32dd5ab3e62f99b221d81130697a70f1b23bd8a530f95922057589a3c922c94386072af05cdbb0068afc58023ec8d00f23a1",
-        "preferred": false,
         "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.1.0/appNamePlugin-0.1.0.zip"
       }
     ]
@@ -349,6 +345,13 @@
     "description": "A plugin that overrides Spinnaker Header",
     "provider": "https://github.com/armory-plugins",
     "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2022-06-07T12:31:21.142461Z",
+        "requires": "deck>=0.0.0",
+        "sha512sum": "9602c31defaaab2c51346fc7691d1100098b69004fd12ef6f4f2e3b082f16f1782664c75d97d57a3e32678f59a41b354b19f4108478b97628f37b6a60a93755f",
+        "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.1.0/armory-header-v0.1.0.zip"
+      },
       {
         "version": "0.0.3",
         "date": "2021-11-04T18:58:58.015864Z",
