@@ -16,7 +16,7 @@
         "date": "2021-01-22T16:38:50.836569Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "a7baab9d3f3507ecbec0e63db8acc91df8764906b66682790139560386ec3e5cc948f8e8cd926069f549ab5d277497b971c53f1ec5dd447f0c694d8ce8202563",
-        "url": "file:///opt/spinnaker/lib/local-plugins/eap/0.1.1/eap-0.1.1.zip"
+        "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.1.1/eap-0.1.1.zip"
       },
       {
         "version": "0.1.2",
