@@ -652,5 +652,19 @@
         "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.4/instance-registration-v0.0.4.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Ext",
+    "description": "This plugin adds the core Armory functionality to Spinnaker.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.2",
+        "date": "2022-08-03T02:05:42.637546Z",
+        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+        "sha512sum": "f58f024f64f4b1fb8ccd8345f9b5dcee3027478508c63bced6fd838ba42b019a10a2297c952a615f53ba43647a290f68854aec5c515f5aa0206978b0a1d4361b",
+        "url": "https://github.com/armory-plugins/armoryExt/releases/download/v0.0.2/armoryExt-v0.0.2.zip"
+      }
+    ]
   }
 ]
