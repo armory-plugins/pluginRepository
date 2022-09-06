@@ -652,5 +652,19 @@
         "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.4/instance-registration-v0.0.4.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.K8sCRDStatusCheck",
+    "description": "A plugin to validate a CRD manifest is stable in kubernetes",
+    "provider": "kubernetes",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "2022-09-06T21:34:02.461605Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "25f6972bff088188514cc1c04ec994ab6ad7f66b266fa1b13df992463cda4de1d31b53b2f8daacbcf94a7072501699b8954c42c1ff2cfbd8fc7cddb5808480ca",
+        "url": "https://github.com/armory-plugins/k8s-crd-status-check/releases/download/v1.0.0/k8s-crd-status-check-v1.0.0.zip"
+      }
+    ]
   }
 ]
