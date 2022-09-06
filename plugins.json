@@ -9,6 +9,7 @@
         "date": "2020-12-16T15:50:07.761125Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "594ab1712264d1b41490932ea78ffd4025ab4353d14c7efb39083a21b5857629e2b7674ca79dabda32def081e79785c0b4c1304b0a93bc994a17f6a13cf3cbe7",
+        "state": "",
         "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.1.0/eap-0.1.0.zip"
       },
       {
@@ -16,6 +17,7 @@
         "date": "2021-01-22T16:38:50.836569Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "a7baab9d3f3507ecbec0e63db8acc91df8764906b66682790139560386ec3e5cc948f8e8cd926069f549ab5d277497b971c53f1ec5dd447f0c694d8ce8202563",
+        "state": "",
         "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.1.1/eap-0.1.1.zip"
       },
       {
@@ -23,6 +25,7 @@
         "date": "2021-07-28T19:00:28.427778Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "7e35825d8c87b739eeb90c61408a147085ac60735a22c0f484f79de480ad110206bb89f16529eebe5257c4f78ac1cac26da420e84d5512631ee582677968b20c",
+        "state": "",
         "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.1.2/eap-0.1.2.zip"
       },
       {
@@ -30,6 +33,7 @@
         "date": "2021-11-01T17:28:30.007231Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "ba79a4a7619d4d2b9d3d5a1539b3c75803260a512f080e030956f8afaf724edf7762ad41fb2fbec1d5639037890e712683a7089fe8a444d0c28492350b96f821",
+        "state": "",
         "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.2.0/eap-0.2.0.zip"
       },
       {
@@ -37,6 +41,7 @@
         "date": "2022-04-29T18:30:59.292120Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "26bccf74d1fa3dba4e69615145c1c03e62308e370624a7b9b6af28ed47517ac42fc66e10cac568a1505d3dc8c1347783b50b898837556e2fd5f8327caddab1e3",
+        "state": "",
         "url": "https://github.com/armory-plugins/external-accounts/releases/download/v0.3.0/eap-0.3.0.zip"
       }
     ]
@@ -51,6 +56,7 @@
         "date": "2021-10-29T15:14:07.344629Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b028db5f70f6537009ea2dfa98aab45643054c1356e5460b2d025c24467d442e2129e6aea25204b466afeaae634e2ef3876c389d7a72eeb65d5bceea29870934",
+        "state": "",
         "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.2.0/appNamePlugin-0.2.0.zip"
       },
       {
@@ -58,6 +64,7 @@
         "date": "2020-10-09T22:46:14.696794Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "80291b152f65fbd2d921df35f07b32dd5ab3e62f99b221d81130697a70f1b23bd8a530f95922057589a3c922c94386072af05cdbb0068afc58023ec8d00f23a1",
+        "state": "",
         "url": "https://armory.jfrog.io/artifactory/plugins/appname/0.1.0/appNamePlugin-0.1.0.zip"
       }
     ]
@@ -72,6 +79,7 @@
         "date": "2022-06-17T20:26:55.829917Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b7879c16d5a5f9e04b98a4ead7dc1ad7e6875c8f8554c3fb9d355d0cb07c98994ac83d553cafa9de2399514f52174cbcd9e97b0d2f167e9aad2299ca1962f09b",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.2.2-policy-engine/policy-engine-v0.2.2.zip"
       },
       {
@@ -79,6 +87,7 @@
         "date": "2022-03-14T19:24:41.321852Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "408f35ee9d1483d10942d4f29ff61ca715c02c9334227291feaa8f8fa4a8bb099650887bb74bbfa9c2a3d2f68a4a1f93e20a82608fa4b130ec6ffbe97d082079",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.2.1-policy-engine/policy-engine-v0.2.1.zip"
       },
       {
@@ -86,6 +95,7 @@
         "date": "2022-03-09T20:27:49.491693Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "3c095045e4688ddb5150d13dd5decea69faf15aa8e6d96fb57afe38ec1e73857ee889d4d1a421461571acb479524c484eb7ebb0036ae91b2eac78e780dca122d",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.2.1-rc/policy-engine-v0.2.1-rc.zip"
       },
       {
@@ -93,6 +103,7 @@
         "date": "2021-11-10T22:24:59.183404Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "fc88f347690760a9efad123a7a7700eed998388e34f715c33af0b52b620de1ac0280cbfec3a4ca0bd2bb112fbbd86d512b32d8e512854afdc5e666ca02067ed3",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.2.0/policy-engine-v0.2.0.zip"
       },
       {
@@ -100,6 +111,7 @@
         "date": "2021-11-05T15:53:56.591789Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "eac695bb5034d36dbd252a7fc81987e992106f7bc9fb1c19f0b49ab8f2a8bbfdc71c901f227df1d88fb2f7811822fc8cf8697ad129cab663acc144ea53a8876e",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.2.0-rc/policy-engine-v0.2.0-rc.zip"
       },
       {
@@ -107,6 +119,7 @@
         "date": "2021-06-21T14:15:36.393922Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "9a8e3638c6976b5ea18c47670c5ef39dafbc1c5d18615d8df0ae7883794fe97d33c01076d03b10816e6d11dd50a9eab680b0940f2e12a58e481edab677098fa7",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.1.6/policy-engine-v0.1.6.zip"
       },
       {
@@ -114,6 +127,7 @@
         "date": "2021-06-11T20:17:10.172959Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b1eda2a786fd84cd4edcdc71197723481c2cd14f55e4b9661f9184c94d41b10f72c95c1c3ffe03042126f57f3cd93dad199a8c8e5722294992b2c6f4b11b0aa4",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.1.5/policy-engine-v0.1.5.zip"
       },
       {
@@ -121,6 +135,7 @@
         "date": "2021-06-02T20:51:23.314652Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "f8071845d1a09c5e674179ae885e8bbee6818ae868093abe408aaf9dd30ce739952d81a7de6a612d3935876553ac42f0371962df25b525b89fc4ddee141c434d",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.1.4/policy-engine-v0.1.4.zip"
       },
       {
@@ -128,6 +143,7 @@
         "date": "2021-05-28T16:57:56.414206Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "7f21e489ed4f828dfb25e0303d855262cca839e426471fd28be88f5df69d8daaf9946ebfff7341b33d89e0d05f1dcacbf9da5be774f8c6bad293a9d06874f600",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.1.3/policy-engine-v0.1.3.zip"
       },
       {
@@ -135,6 +151,7 @@
         "date": "2021-05-27T20:36:10.256138Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "6a2e5d941807e91027607769fefda12193806964640646c5d3b1bb9dd5322c46a07b3ca759e949ce321f972239f58eccd0f3e582a24b48a79be9818be26e0d79",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.1.2/policy-engine-v0.1.2.zip"
       },
       {
@@ -142,6 +159,7 @@
         "date": "2021-05-26T16:55:33.198107Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "cbdf66a4cd192cde7caed9c7f91c1ce97466c4c8baa05b10e1aa2d25f8a9a2ea079989792b8efaaeb132557069105a98ddc214e5afbd91ebee620e9a153ed56d",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.1.1/policy-engine-v0.1.1.zip"
       },
       {
@@ -149,6 +167,7 @@
         "date": "2021-05-21T20:38:19.871895Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "c279430c0e637d157b6c17eaab2c6c029dd599f9ddce96979b530aba12e0b625528127cfccf8665634a433fbccd4a6a6e4ff13c71a7baa098da3658185179058",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.1.0/policy-engine-v0.1.0.zip"
       },
       {
@@ -156,6 +175,7 @@
         "date": "2021-05-19T14:33:59.114156Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "cf0d7a32d950eef84c4a09926adfcfc6f2028b805fef0d31243f635d42993412ddca361f5d2f605090b385fa6721e6220108a08fa2cd1b4a87bc2a399490b716",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.27/policy-engine-v0.0.27.zip"
       },
       {
@@ -163,6 +183,7 @@
         "date": "2021-05-05T17:44:05.044225Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0",
         "sha512sum": "c1e9c07e1e42ecc2e3c54ba30c9a6fc06f0b7efd0680f38bca899bae8a741163b85ab4d2bd51eeb03bd29e5fc94928989b1ff582c167d0ff2f53830b587a33e5",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.25/policy-engine-v0.0.25.zip"
       },
       {
@@ -170,6 +191,7 @@
         "date": "2021-05-04T22:17:08.855147Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0",
         "sha512sum": "b02be7ec6e8c5f8df93ee8fe558937eb427eec9abda68efc4863db8f070e14fed21051ef836b2cc82d0c9598bd5bf6c7104ce5a6e84f6cb47c451d51d66428d8",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.0.24/policy-engine-v0.0.24.zip"
       },
       {
@@ -318,6 +340,7 @@
         "date": "2021-11-03T17:40:14.814299Z",
         "requires": "orca>=0.0.0",
         "sha512sum": "ed6de8df2ff32dd54bfb19174ad615126f15a3b705626159ca8a9b168a912b8162759c353407d2ce121a2358a869bea491b3240f6a5476fd78c7edad1d7d87e0",
+        "state": "",
         "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.1.0/run-script-plugin-v0.1.0.zip"
       },
       {
@@ -325,6 +348,7 @@
         "date": "2021-01-07T18:05:02.892451Z",
         "requires": "orca>=0.0.0",
         "sha512sum": "ea8061786017cbd5f5a63ccf019709db0ad9c32c61e8fc7322582d0f4262bbe14459c46fadb6fb57e754ade7060c4e6e8c60b9cb332a9fdca510380a089cb81b",
+        "state": "",
         "url": "https://github.com/armory-plugins/run-script-plugin/releases/download/v0.0.11/run-script-plugin-v0.0.11.zip"
       },
       {
@@ -363,6 +387,7 @@
         "date": "2021-11-01T20:47:11.285511Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "50880d76d5da9f9b05d46d338b34e0d66fb9f1f6bfd78bc9cb39ba3fd8bb8d3e7c325955e48295252b3a360cc245d35ac35c253796e2ff643b32121066909bfa",
+        "state": "",
         "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.1.1/evaluate-artifacts-v0.1.1.zip"
       },
       {
@@ -370,6 +395,7 @@
         "date": "2021-03-31T16:20:01.406187Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "081a481abc29db4772a5355d6110844c7fa396262fcc5de03653097405d31a99023b7952cfe6db66d33cfe2bf389e9c07f946537effc1d2c8b41057c7f515e6d",
+        "state": "",
         "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.1.0/evaluate-artifacts-v0.1.0.zip"
       },
       {
@@ -377,6 +403,7 @@
         "date": "2021-03-26T20:32:16.079948Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "dc64aa83af994eb4247a27d69243c08754a0ed25d17de1ef484ed9dbf14a2328339dd61a20d9e00259bb21ff291ef95be570092068675f8d79e7e48a8064c7a6",
+        "state": "",
         "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.0.10/evaluate-artifacts-v0.0.10.zip"
       },
       {
@@ -399,6 +426,7 @@
         "date": "2022-06-15T16:35:59.207757Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "06752a8784f51d1d09854e9c7344d6f59360903f5cb1d30416a54a6003c669658e4690ba123a59a9d4cba4d21e68d776e377ed7112bfbc5115b20c3d852e990f",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.0.4/armory-header-v0.0.4.zip"
       },
       {
@@ -406,6 +434,7 @@
         "date": "2022-06-07T12:31:21.142461Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "9602c31defaaab2c51346fc7691d1100098b69004fd12ef6f4f2e3b082f16f1782664c75d97d57a3e32678f59a41b354b19f4108478b97628f37b6a60a93755f",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.1.0/armory-header-v0.1.0.zip"
       },
       {
@@ -413,6 +442,7 @@
         "date": "2021-11-04T18:58:58.015864Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "dc342d627ba488596e31721d0446fd93769b907916afcd8ab699b77445c1796a6b3e9eb33477270bc0c17bdba22cdfdcd15908a45ba3c256c7bdadb30f01af0f",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.0.3/armory-header-v0.0.3.zip"
       },
       {
@@ -420,6 +450,7 @@
         "date": "2021-08-06T21:33:30.698340Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "b29032cf37598b6ef24622e9294d8799a51c13d7021d8ab36ead1c4de7239eb84f6b1c786e248d62a98f8d0d742a07bf7a01f1a9d2a606854e255c6a64386021",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.0.2/armory-header-v0.0.2.zip"
       },
       {
@@ -427,6 +458,7 @@
         "date": "2021-07-27T19:59:20.180179Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "31dce068e09ba4d9a64d118ecc22786be21e47f644e10be462eced7dad12f69c38819de1a5deecbea0e7ab124117ae2e9be3148ffca1f3458d84f342baaa1cb7",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.0.1/armory-header-v0.0.1.zip"
       }
     ]
@@ -650,6 +682,21 @@
         "sha512sum": "ce4f8573962b4754cd676bb705b819374d263c88d6b411437a362284be9f1bc7d496fa414469a9ea76c900acc1803dcc36d7b6e29d3a189d0fac17497038f29d",
         "state": "",
         "url": "https://github.com/armory-plugins/instance-registration-releases/releases/download/v0.0.4/instance-registration-v0.0.4.zip"
+      }
+    ]
+  },
+  {
+    "id": "Armory.K8sCRDStatusCheck",
+    "description": "A plugin to validate a CRD manifest is stable in kubernetes",
+    "provider": "kubernetes",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "date": "2022-09-06T21:34:02.461605Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "25f6972bff088188514cc1c04ec994ab6ad7f66b266fa1b13df992463cda4de1d31b53b2f8daacbcf94a7072501699b8954c42c1ff2cfbd8fc7cddb5808480ca",
+        "state": "",
+        "url": "https://github.com/armory-plugins/k8s-crd-status-check/releases/download/v1.0.0/k8s-crd-status-check-v1.0.0.zip"
       }
     ]
   }
