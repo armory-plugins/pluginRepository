@@ -75,12 +75,12 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
-          "version": "0.3.0-snapshot.master.b1bdd2d",
-          "date": "2022-09-15T16:38:19.386035Z",
-          "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "2fb70e8cc5f34879d63d7c08449c7083f2d76678ecf4aafb50e78278546683bc8b9f791fa3fed428b272734f454f2eb4f30735063752570874e854d611b9adad",
-          "state": "",
-          "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.3.0-snapshot.master.b1bdd2d/policy-engine-0.3.0-snapshot.master.b1bdd2d.zip"
+        "version": "0.3.0-snapshot.master.b1bdd2d",
+        "date": "2022-09-15T16:38:19.386035Z",
+        "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "2fb70e8cc5f34879d63d7c08449c7083f2d76678ecf4aafb50e78278546683bc8b9f791fa3fed428b272734f454f2eb4f30735063752570874e854d611b9adad",
+        "state": "",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.3.0-snapshot.master.b1bdd2d/policy-engine-0.3.0-snapshot.master.b1bdd2d.zip"
       },
       {
         "version": "0.2.2",
@@ -705,6 +705,20 @@
         "sha512sum": "25f6972bff088188514cc1c04ec994ab6ad7f66b266fa1b13df992463cda4de1d31b53b2f8daacbcf94a7072501699b8954c42c1ff2cfbd8fc7cddb5808480ca",
         "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v1.0.0-k8s-crd-status-check/k8s-crd-status-check-v1.0.0.zip"
+      }
+    ]
+  },
+  {
+    "id": "Armory.Ext",
+    "description": "This plugin adds the core Armory functionality to Spinnaker.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.3",
+        "date": "2022-09-21T18:20:46.753950Z",
+        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+        "sha512sum": "3556b91b4545e11495b2cdb97e1ea904e2e1a5450370e810abc88481af348b04fd0105724f5bf5cef86245c6c3f9d6eb0aec9883c391d3341af33279c5bbcf77",
+        "url": "https://github.com/armory-plugins/armoryExt/releases/download/v0.0.3/armoryExt-v0.0.3.zip"
       }
     ]
   }
