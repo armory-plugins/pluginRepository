@@ -728,5 +728,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-cache-aws-agents-on-event/cache-aws-agents-on-event-v0.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.K8sCustomResourceStatus",
+    "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
+    "provider": "kubernetes",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "date": "2022-10-28T21:29:15.811605Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "9aef8c43c6d178e982a96c958ecbb94778eeba79b4803586f2c610aff04bb0770ba495ffd06e7d5fb5e43d22515d019ba09271b0a8cff852051ffb7a1dfcfc36",
+        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v2.0.0/k8s-custom-resource-status-v2.0.0.zip"
+      }
+    ]
   }
 ]
