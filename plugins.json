@@ -434,6 +434,7 @@
         "date": "2022-09-30T18:03:14.426330Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "9a2788091e434b8d46bd9f1ce1e2a3c49d1758c88e7eaba2126f03b580eb2587f8e1d5505dda42423c0feb3873ee006a0c389cca03f634baf55abfd61f040f70",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.1.2/armory-header-v0.1.2.zip"
       },
       {
@@ -725,6 +726,7 @@
         "date": "2022-10-06T22:22:20.804685Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
         "sha512sum": "6ec4ecba2c65910db131666e46e26a165f30de827f2af474a4efd3cd45c840d0e60f146ff06ff45bb225697f877133b512da35dff75bc72aad964639a6cfe23b",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-cache-aws-agents-on-event/cache-aws-agents-on-event-v0.1.0.zip"
       }
     ]
@@ -739,6 +741,7 @@
         "date": "2022-10-28T21:29:15.811605Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "9aef8c43c6d178e982a96c958ecbb94778eeba79b4803586f2c610aff04bb0770ba495ffd06e7d5fb5e43d22515d019ba09271b0a8cff852051ffb7a1dfcfc36",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.0.0-k8s-custom-resource-status/k8s-custom-resource-status-v2.0.0.zip"
       }
     ]
