@@ -16,7 +16,7 @@
       "service" : "rosco",
       "version" : "2022.08.23.15.48.11.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -256,7 +256,7 @@
       "service" : "kayenta",
       "version" : "2022.08.19.04.13.29.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -343,7 +343,7 @@
       "service" : "igor",
       "version" : "2022.08.19.03.10.49.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -424,7 +424,7 @@
       "service" : "gate",
       "version" : "2022.08.19.03.10.44.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -646,7 +646,7 @@
       "service" : "fiat",
       "version" : "2022.08.03.03.06.22.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -742,7 +742,7 @@
       "service" : "echo",
       "version" : "2022.08.19.03.10.53.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -829,7 +829,7 @@
       "service" : "clouddriver",
       "version" : "2022.08.19.03.29.51.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.28.1-rc1" ],
       "platforms" : [ "1.28.1", "1.28.0" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
