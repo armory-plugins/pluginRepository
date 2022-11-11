@@ -3,6 +3,18 @@
   "releases" : [ {
     "commit" : "476542b68343c8f23546dba224a1aecd28fc75c2",
     "versions" : [ "0.0.3" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2022.11.08.17.42.51.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ "2.28.1-rc3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.11.08.18.20.28.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9422038048",
+      "startedAt" : "2022-11-10T20:34:26Z"
+    } ]
   } ]
 }
