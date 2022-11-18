@@ -722,6 +722,13 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.1.1",
+        "date": "2022-11-18T17:13:30.367137Z",
+        "requires": "clouddriver>=0.0.0,gate>=0.0.0",
+        "sha512sum": "07010e4ecc67ee6f17d1195c3de4b78a33aa17d810c3aea694b0864af10dcdafc50de5f8533024cdaa153607c6efd1a866b898f8956e55cfb671cf5530ebcb33",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.1/cache-aws-agents-on-event-v0.1.1.zip"
+      },
+      {
         "version": "0.1.0",
         "date": "2022-10-06T22:22:20.804685Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
