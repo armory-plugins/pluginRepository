@@ -182,7 +182,7 @@
       "version" : "2022.11.23.15.54.32.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2022.11.27.20.28.36.release-2.27.x"
@@ -317,7 +317,7 @@
       "version" : "2022.12.01.22.29.56.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9840895799",
       "startedAt" : "2022-12-02T07:04:11Z"
@@ -407,7 +407,7 @@
       "version" : "2022.11.29.21.52.13.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "igor-armory",
         "version" : "2022.11.29.22.27.51.release-2.27.x"
@@ -506,7 +506,7 @@
       "version" : "2022.12.01.19.38.20.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2022.12.01.20.21.08.release-2.27.x"
@@ -632,7 +632,7 @@
       "version" : "2022.12.01.21.15.09.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9840896286",
       "startedAt" : "2022-12-02T07:04:16Z"
@@ -749,7 +749,7 @@
       "version" : "2022.11.18.19.29.05.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9840896160",
       "startedAt" : "2022-12-02T07:04:13Z"
@@ -884,7 +884,7 @@
       "version" : "2022.11.29.21.47.09.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "echo-armory",
         "version" : "2022.11.29.22.26.13.release-2.27.x"
@@ -968,7 +968,7 @@
       "version" : "2022.11.29.22.19.50.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.27.2" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
         "version" : "2022.11.29.23.17.27.release-2.27.x"
