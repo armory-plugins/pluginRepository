@@ -765,7 +765,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.27.3", "1.27.2" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2022.12.13.21.05.24.release-2.27.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9984180919",
       "startedAt" : "2022-12-09T03:14:40Z"
     }, {
