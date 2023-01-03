@@ -75,6 +75,13 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
+        "version": "0.3.0",
+        "date": "2023-01-03T19:42:14.370052Z",
+        "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "f6a9c014b514341d2c22c8019fd4746b7bd17e34f632af3bbadc7c61d1801818b082570f6e549c96c572977ae5ee09c6a0955df5f4f452f75e3afba954a7bbe1",
+        "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.3.0/policy-engine-v0.3.0.zip"
+      },
+      {
         "version": "0.3.0-snapshot.master.b1bdd2d",
         "date": "2022-09-15T16:38:19.386035Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
