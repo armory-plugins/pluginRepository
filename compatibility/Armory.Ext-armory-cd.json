@@ -146,6 +146,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "rosco-armory",
+        "version" : "2023.01.11.00.14.21.release-2.29.x"
+      }, {
+        "name" : "rosco-armory",
         "version" : "2022.07.20.21.06.26.master"
       }, {
         "name" : "rosco-armory",
@@ -457,6 +460,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.29.0" ],
       "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.01.11.00.09.03.release-2.29.x"
+      }, {
         "name" : "igor-armory",
         "version" : "2022.09.14.16.39.54.master"
       } ],
