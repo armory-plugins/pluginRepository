@@ -1022,6 +1022,9 @@
       "platforms" : [ "1.29.0" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
+        "version" : "2023.01.11.00.07.37.release-2.29.x"
+      }, {
+        "name" : "clouddriver-armory",
         "version" : "2022.09.14.17.01.20.master"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9984183038",
