@@ -1,4 +1,74 @@
 {
   "id" : "Armory.InstanceRegistrationPlugin",
-  "releases" : [ ]
+  "releases" : [ {
+    "commit" : "11549e37eba377bb46d2d01c02d664557ffc35d6",
+    "versions" : [ "0.0.10" ],
+    "compatibility" : [ {
+      "service" : "gate",
+      "version" : "2022.12.01.19.38.20.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.6-rc2", "2.27.6-rc1", "2.27.5-rc1", "2.27.5" ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2022.12.01.20.21.08.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/10827925129",
+      "startedAt" : "2023-01-23T16:59:16Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.11.29.21.51.30.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.2-rc1", "2.28.2" ],
+      "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2022.12.01.03.50.54.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/10827938065",
+      "startedAt" : "2023-01-23T16:57:50Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.10.19.20.00.40.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ "2.28.1-rc4" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2022.11.17.22.26.09.release-2.28.x"
+      }, {
+        "name" : "gate-armory",
+        "version" : "2022.11.10.23.04.42.release-2.28.x"
+      }, {
+        "name" : "gate-armory",
+        "version" : "2022.10.19.20.15.53.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/10827939621",
+      "startedAt" : "2023-01-23T16:57:55Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.08.19.03.10.44.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ "2.28.1-rc3", "2.28.1-rc2", "2.28.1-rc1", "2.28.1" ],
+      "platforms" : [ "1.28.1", "1.28.0" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2022.08.19.03.36.22.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/10827932976",
+      "startedAt" : "2023-01-23T16:57:37Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.08.17.22.14.22.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.4-rc3", "2.27.4-rc2", "2.27.4" ],
+      "platforms" : [ "1.27.1" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2022.08.17.22.38.33.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/10827928749",
+      "startedAt" : "2023-01-23T16:57:26Z"
+    } ]
+  } ]
 }
