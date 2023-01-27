@@ -500,6 +500,15 @@
       "startedAt" : "2023-01-27T03:54:45Z"
     }, {
       "service" : "gate",
+      "version" : "2022.09.14.16.00.42.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/10920375912",
+      "startedAt" : "2023-01-27T04:10:44Z"
+    }, {
+      "service" : "gate",
       "version" : "2022.08.19.03.10.44.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ "2.28.1-rc3", "2.28.1-rc2", "2.28.1-rc1", "2.28.1" ],
