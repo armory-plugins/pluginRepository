@@ -7,7 +7,7 @@
       "service" : "clouddriver",
       "version" : "2023.01.20.18.19.32.release-1.27.x",
       "outcome" : "failure",
-      "stacks" : [ "2.27.6-rc2" ],
+      "stacks" : [ "2.27.6-rc2", "2.27.6" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
