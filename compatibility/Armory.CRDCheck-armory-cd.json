@@ -1,8 +1,4 @@
 {
   "id" : "Armory.CRDCheck",
-  "releases" : [ {
-    "commit" : "6643d521a9c83f9518d07d1dbe4244e386779e3e",
-    "versions" : [ "0.3.0" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
