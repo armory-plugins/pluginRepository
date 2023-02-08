@@ -5,6 +5,18 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.02.03.15.10.20.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.7-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.02.08.03.06.01.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11205822436",
+      "startedAt" : "2023-02-08T19:25:36Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.12.06.21.24.35.release-1.29.x",
       "outcome" : "failure",
       "stacks" : [ ],
@@ -390,6 +402,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11185108844",
       "startedAt" : "2023-02-08T03:35:46Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.01.27.17.41.53.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.7-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.01.27.18.06.25.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11205822958",
+      "startedAt" : "2023-02-08T19:25:40Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.01.20.18.19.32.release-1.27.x",
