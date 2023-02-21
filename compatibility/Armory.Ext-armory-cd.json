@@ -16,7 +16,7 @@
       "service" : "rosco",
       "version" : "2022.12.08.21.17.26.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.4", "2.28.3", "2.28.2" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.4", "2.28.3", "2.28.2" ],
       "platforms" : [ "1.28.4" ],
       "extensions" : [ {
         "name" : "rosco-armory",
@@ -154,7 +154,7 @@
       "service" : "orca",
       "version" : "2023.02.03.15.05.56.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -286,7 +286,7 @@
       "service" : "kayenta",
       "version" : "2022.12.05.19.06.46.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.4", "2.28.3" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.4", "2.28.3" ],
       "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
@@ -361,7 +361,7 @@
       "service" : "igor",
       "version" : "2022.11.29.21.52.31.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.2-rc1", "2.28.4", "2.28.3", "2.28.2" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.2-rc1", "2.28.4", "2.28.3", "2.28.2" ],
       "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
       "extensions" : [ {
         "name" : "igor-armory",
@@ -460,7 +460,7 @@
       "service" : "gate",
       "version" : "2022.11.29.21.51.30.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.2-rc1", "2.28.4", "2.28.3", "2.28.2" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.2-rc2", "2.28.2-rc1", "2.28.4", "2.28.3", "2.28.2" ],
       "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -544,7 +544,7 @@
       "service" : "front50",
       "version" : "2022.11.29.21.48.45.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.4", "2.28.3", "2.28.2" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.3-rc1", "2.28.2-rc3", "2.28.4", "2.28.3", "2.28.2" ],
       "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -625,7 +625,7 @@
       "service" : "fiat",
       "version" : "2023.02.07.18.42.05.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -715,7 +715,7 @@
       "service" : "echo",
       "version" : "2023.01.20.14.47.47.release-1.28.x",
       "outcome" : "success",
-      "stacks" : [ "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.4", "2.28.3" ],
+      "stacks" : [ "2.28.5-rc2", "2.28.5-rc1", "2.28.4-rc1", "2.28.3-rc2", "2.28.4", "2.28.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "echo-armory",
@@ -828,6 +828,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11185106762",
       "startedAt" : "2023-02-08T03:35:37Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.02.15.21.39.25.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ "2.28.5-rc2" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.02.15.21.56.07.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11372778844",
+      "startedAt" : "2023-02-15T22:07:03Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.01.30.18.47.09.release-1.28.x",
