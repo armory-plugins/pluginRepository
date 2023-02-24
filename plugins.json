@@ -759,5 +759,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.0.0-k8s-custom-resource-status/k8s-custom-resource-status-v2.0.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.ConfigurationManagement",
+    "description": "Configure and manage the Armory services provided",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.0.2",
+        "date": "2023-02-24T13:31:32.714778Z",
+        "requires": "front50>=0.0.0,deck>=0.0.0",
+        "sha512sum": "677d130f9b5eb9cc6cca6e91b8cfe591dda3d85d0fa0507f73add80d291e2fb8d891bc4eb0ca99a2185d557b09cf4c337fdb03def51bdd56e71baea1edc4eef6",
+        "url": "https://github.com/armory-plugins/configuration-management-releases/releases/download/v0.0.2/configuration-management-v0.0.2.zip"
+      }
+    ]
   }
 ]
