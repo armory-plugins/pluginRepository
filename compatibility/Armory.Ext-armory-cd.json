@@ -179,6 +179,15 @@
       "startedAt" : "2023-02-23T00:43:03Z"
     }, {
       "service" : "kayenta",
+      "version" : "2022.12.06.22.22.40.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.2", "1.29.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11590974934",
+      "startedAt" : "2023-02-25T01:14:22Z"
+    }, {
+      "service" : "kayenta",
       "version" : "2022.12.05.19.06.46.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
