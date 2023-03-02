@@ -3,6 +3,18 @@
   "releases" : [ {
     "commit" : "11549e37eba377bb46d2d01c02d664557ffc35d6",
     "versions" : [ "0.0.10" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "gate",
+      "version" : "2023.02.28.19.18.24.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.02.28.19.34.47.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/11665915055",
+      "startedAt" : "2023-02-28T19:35:50Z"
+    } ]
   } ]
 }
