@@ -17,6 +17,15 @@
       "startedAt" : "2023-02-28T19:35:50Z"
     }, {
       "service" : "gate",
+      "version" : "2022.12.06.21.14.18.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.2", "1.29.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/11726789155",
+      "startedAt" : "2023-03-02T20:02:26Z"
+    }, {
+      "service" : "gate",
       "version" : "2022.12.01.19.38.20.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ "2.27.7-rc1", "2.27.6-rc2", "2.27.6-rc1", "2.27.5-rc1", "2.27.7", "2.27.6", "2.27.5" ],
@@ -57,6 +66,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/11726468507",
       "startedAt" : "2023-03-02T19:48:18Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.09.14.16.00.42.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/11726787062",
+      "startedAt" : "2023-03-02T20:02:19Z"
     }, {
       "service" : "gate",
       "version" : "2022.08.19.03.10.44.release-1.28.x",
