@@ -3,6 +3,51 @@
   "releases" : [ {
     "commit" : "d3dc7897a0bdbf9c7877dd31348cf18a8f919ab3",
     "versions" : [ "0.2.0" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2023.02.28.19.23.37.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.02.28.19.38.44.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/11665915468",
+      "startedAt" : "2023-02-28T19:35:54Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.02.28.19.18.24.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.02.28.19.34.47.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/11665914709",
+      "startedAt" : "2023-02-28T19:35:50Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.02.28.17.42.01.release-1.27.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.02.28.17.55.33.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/11663474606",
+      "startedAt" : "2023-02-28T17:54:44Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.02.28.19.32.28.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/11666217024",
+      "startedAt" : "2023-02-28T19:49:27Z"
+    } ]
   } ]
 }
