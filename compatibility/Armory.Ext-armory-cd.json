@@ -535,6 +535,15 @@
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11726455010",
       "startedAt" : "2023-03-02T19:47:12Z"
     }, {
+      "service" : "fiat",
+      "version" : "2022.10.19.18.21.52.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11726783871",
+      "startedAt" : "2023-03-02T20:02:14Z"
+    }, {
       "service" : "echo",
       "version" : "2023.02.28.19.16.55.release-1.27.x",
       "outcome" : "success",
