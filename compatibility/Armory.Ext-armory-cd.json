@@ -888,7 +888,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.27.4" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.03.02.21.53.00.release-2.27.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/11666216523",
       "startedAt" : "2023-02-28T19:49:25Z"
     }, {
