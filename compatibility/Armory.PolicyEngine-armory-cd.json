@@ -3,6 +3,60 @@
   "releases" : [ {
     "commit" : "b1bdd2db82652ecb0c179d35912bda9d3bab141f",
     "versions" : [ "0.3.0" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2023.02.28.19.23.37.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.02.28.19.38.44.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11665915686",
+      "startedAt" : "2023-02-28T19:35:53Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.02.28.19.18.24.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.02.28.19.34.47.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11665915123",
+      "startedAt" : "2023-02-28T19:35:52Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.02.28.19.17.06.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11665914725",
+      "startedAt" : "2023-02-28T19:35:51Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.02.28.17.42.01.release-1.27.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.02.28.17.55.33.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11663474933",
+      "startedAt" : "2023-02-28T17:54:46Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.02.28.19.32.28.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/11666216841",
+      "startedAt" : "2023-02-28T19:49:26Z"
+    } ]
   } ]
 }
