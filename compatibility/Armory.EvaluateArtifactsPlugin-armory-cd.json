@@ -5,6 +5,18 @@
     "versions" : [ "0.1.1" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.03.06.21.28.04.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.3" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.06.21.41.27.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/11804982506",
+      "startedAt" : "2023-03-06T21:38:14Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.03.02.21.24.49.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
