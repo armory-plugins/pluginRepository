@@ -62,6 +62,18 @@
       "startedAt" : "2023-03-15T02:14:36Z"
     }, {
       "service" : "orca",
+      "version" : "2022.11.23.15.54.32.release-1.27.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.3", "1.27.2" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.11.27.20.28.36.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/12007450769",
+      "startedAt" : "2023-03-15T02:14:51Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.09.14.16.14.23.master",
       "outcome" : "success",
       "stacks" : [ ],
