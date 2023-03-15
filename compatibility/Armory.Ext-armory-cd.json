@@ -259,6 +259,15 @@
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12007451011",
       "startedAt" : "2023-03-15T02:14:53Z"
     }, {
+      "service" : "kayenta",
+      "version" : "2022.09.14.17.16.02.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12007469053",
+      "startedAt" : "2023-03-15T02:16:12Z"
+    }, {
       "service" : "igor",
       "version" : "2023.03.06.21.19.48.release-1.29.x",
       "outcome" : "success",
@@ -411,6 +420,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12007446055",
       "startedAt" : "2023-03-15T02:14:31Z"
+    }, {
+      "service" : "gate",
+      "version" : "2022.09.14.16.00.42.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12007469471",
+      "startedAt" : "2023-03-15T02:16:08Z"
     }, {
       "service" : "front50",
       "version" : "2023.03.06.21.20.09.release-1.29.x",
