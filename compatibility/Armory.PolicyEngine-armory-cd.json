@@ -3,6 +3,39 @@
   "releases" : [ {
     "commit" : "b1bdd2db82652ecb0c179d35912bda9d3bab141f",
     "versions" : [ "0.3.0" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "fiat",
+      "version" : "2023.03.06.18.29.25.release-1.29.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.3" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.06.18.41.41.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/12007446820",
+      "startedAt" : "2023-03-15T02:14:38Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.02.19.37.20.release-1.28.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.5" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.02.20.07.45.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/12007448939",
+      "startedAt" : "2023-03-15T02:14:43Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2022.10.19.18.21.52.release-1.28.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.4", "1.28.3", "1.28.2" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/12007445286",
+      "startedAt" : "2023-03-15T02:14:30Z"
+    } ]
   } ]
 }
