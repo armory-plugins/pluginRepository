@@ -31,7 +31,7 @@
       "service" : "orca",
       "version" : "2023.02.28.19.23.37.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.8-rc2", "2.27.8-rc1" ],
+      "stacks" : [ "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1" ],
       "platforms" : [ "1.27.4" ],
       "extensions" : [ {
         "name" : "orca-armory",
