@@ -31,7 +31,7 @@
       "service" : "orca",
       "version" : "2023.02.28.19.23.37.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.8-rc2", "2.27.8-rc1" ],
+      "stacks" : [ "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1" ],
       "platforms" : [ "1.27.4" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -169,7 +169,7 @@
       "service" : "gate",
       "version" : "2023.02.28.19.18.24.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.8-rc2", "2.27.8-rc1" ],
+      "stacks" : [ "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1" ],
       "platforms" : [ "1.27.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -277,7 +277,7 @@
       "service" : "front50",
       "version" : "2022.12.01.21.15.09.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.8-rc2", "2.27.8-rc1", "2.27.7-rc1", "2.27.6-rc2", "2.27.6-rc1", "2.27.7", "2.27.6" ],
+      "stacks" : [ "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1", "2.27.7-rc1", "2.27.6-rc2", "2.27.6-rc1", "2.27.7", "2.27.6" ],
       "platforms" : [ "1.27.3", "1.27.2" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -330,6 +330,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/12009296368",
       "startedAt" : "2023-03-15T04:33:41Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.16.17.57.42.release-1.27.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.27.8-rc3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.16.18.14.54.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/12060360910",
+      "startedAt" : "2023-03-16T18:24:41Z"
     }, {
       "service" : "fiat",
       "version" : "2023.03.06.18.29.25.release-1.29.x",
@@ -457,7 +469,7 @@
       "service" : "clouddriver",
       "version" : "2023.02.28.19.32.28.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.8-rc2", "2.27.8-rc1" ],
+      "stacks" : [ "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1" ],
       "platforms" : [ "1.27.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
