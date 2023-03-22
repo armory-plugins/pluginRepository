@@ -773,5 +773,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-configuration-management/configuration-management-v0.0.2.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.PipelineAsACode",
+    "description": "Pipeline as a code",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-03-22T09:53:15.716524Z",
+        "requires": "gate>=0.0.0,gate>=0.0.0",
+        "sha512sum": "85125ae093c6c4f6548db0f9bd1c0bfa1847a069d3930d3844ae1aba53b065eeec7748d4c01ff86d9a68bec73d530baa7bd56343b4aa216527826b2c5730df40",
+        "url": "https://github.com/armory-plugins/pipeline-as-a-code/releases/download/v0.0.1/pipeline-as-a-code-v0.0.1.zip"
+      }
+    ]
   }
 ]
