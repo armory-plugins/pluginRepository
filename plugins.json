@@ -780,6 +780,13 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.0.4",
+        "date": "2023-03-24T17:47:50.535866Z",
+        "requires": "echo>=0.0.0,gate>=0.0.0",
+        "sha512sum": "76a4a23afcb0fcfe2eeafb3e88300bc388bde4bc08e6da60f7678e55ae2fb91721d35c16e966993c84f4ec5d32763da85d123d0887cd4e1af12c5f560e29cfff",
+        "url": "https://github.com/armory-plugins/pipeline-as-a-code/releases/download/v0.0.4/pipeline-as-a-code-v0.0.4.zip"
+      },
+      {
         "version": "0.0.3",
         "date": "2023-03-24T15:24:05.941871Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
