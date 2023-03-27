@@ -5,6 +5,15 @@
     "versions" : [ "0.0.3" ],
     "compatibility" : [ {
       "service" : "rosco",
+      "version" : "2023.03.22.02.16.59.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12311598714",
+      "startedAt" : "2023-03-27T18:32:19Z"
+    }, {
+      "service" : "rosco",
       "version" : "2023.03.06.18.30.36.release-1.29.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -1014,6 +1023,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12270430868",
       "startedAt" : "2023-03-25T06:01:24Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.17.23.12.08.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12311598696",
+      "startedAt" : "2023-03-27T18:32:22Z"
     }, {
       "service" : "fiat",
       "version" : "2023.03.16.17.57.42.release-1.27.x",
