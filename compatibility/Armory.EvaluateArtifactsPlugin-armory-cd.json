@@ -5,6 +5,18 @@
     "versions" : [ "0.1.1" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.03.24.23.17.31.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.24.23.32.15.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/12311599309",
+      "startedAt" : "2023-03-27T18:32:21Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.03.06.21.28.04.release-1.29.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -197,6 +209,18 @@
     "commit" : "1f05b33c58d217e4aa4f3b00e3f994fea6d384e7",
     "versions" : [ "0.0.10" ],
     "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2023.03.24.23.17.31.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.24.23.32.15.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/12311599361",
+      "startedAt" : "2023-03-27T18:32:21Z"
+    }, {
       "service" : "orca",
       "version" : "2023.03.06.21.28.04.release-1.29.x",
       "outcome" : "failure",
