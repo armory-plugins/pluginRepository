@@ -5,6 +5,18 @@
     "versions" : [ "0.2.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.03.28.15.33.24.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.28.16.03.21.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12339341696",
+      "startedAt" : "2023-03-28T15:54:02Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.03.28.15.32.53.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -216,6 +228,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12270428206",
       "startedAt" : "2023-03-25T06:01:12Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.03.27.19.25.10.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12313192163",
+      "startedAt" : "2023-03-27T19:36:29Z"
     }, {
       "service" : "gate",
       "version" : "2023.03.27.19.10.16.release-1.28.x",
@@ -591,6 +612,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12270430850",
       "startedAt" : "2023-03-25T06:01:23Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.03.28.15.52.04.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12340240828",
+      "startedAt" : "2023-03-28T16:26:58Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.03.27.19.24.21.release-1.28.x",
