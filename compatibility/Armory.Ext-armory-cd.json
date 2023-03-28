@@ -1103,6 +1103,18 @@
       "startedAt" : "2023-03-22T05:40:18Z"
     }, {
       "service" : "fiat",
+      "version" : "2023.03.16.17.55.44.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.16.18.09.25.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12346764300",
+      "startedAt" : "2023-03-28T20:50:22Z"
+    }, {
+      "service" : "fiat",
       "version" : "2023.03.06.18.29.25.release-1.29.x",
       "outcome" : "success",
       "stacks" : [ ],
