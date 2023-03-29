@@ -3,6 +3,201 @@
   "releases" : [ {
     "commit" : "476542b68343c8f23546dba224a1aecd28fc75c2",
     "versions" : [ "0.0.3" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "rosco",
+      "version" : "2023.03.22.02.16.59.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12311598714",
+      "startedAt" : "2023-03-27T18:32:19Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.03.28.15.33.24.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.28.16.03.21.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12339342053",
+      "startedAt" : "2023-03-28T15:54:14Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.03.28.15.32.53.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.03.28.16.03.03.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12339342098",
+      "startedAt" : "2023-03-28T15:53:47Z"
+    }, {
+      "service" : "kayenta",
+      "version" : "2023.03.28.21.44.07.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12348453275",
+      "startedAt" : "2023-03-28T22:06:57Z"
+    }, {
+      "service" : "kayenta",
+      "version" : "2023.03.28.19.09.35.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.03.28.19.39.02.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12344961744",
+      "startedAt" : "2023-03-28T19:34:42Z"
+    }, {
+      "service" : "igor",
+      "version" : "2023.03.27.19.23.59.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.03.27.19.34.45.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313192654",
+      "startedAt" : "2023-03-27T19:36:29Z"
+    }, {
+      "service" : "igor",
+      "version" : "2023.03.27.19.09.31.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.03.27.19.22.09.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12312798439",
+      "startedAt" : "2023-03-27T19:19:35Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.03.27.19.25.10.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313192386",
+      "startedAt" : "2023-03-27T19:36:27Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.03.27.19.10.16.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.03.27.19.21.48.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12312797932",
+      "startedAt" : "2023-03-27T19:19:34Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.03.27.19.21.48.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313192054",
+      "startedAt" : "2023-03-27T19:36:27Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.03.27.19.08.11.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12312797847",
+      "startedAt" : "2023-03-27T19:19:33Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.17.23.12.08.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12311598696",
+      "startedAt" : "2023-03-27T18:32:22Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.16.17.56.45.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.16.18.09.49.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12350019276",
+      "startedAt" : "2023-03-28T23:36:32Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2023.03.16.17.55.44.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.03.16.18.09.25.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12346764300",
+      "startedAt" : "2023-03-28T20:50:22Z"
+    }, {
+      "service" : "echo",
+      "version" : "2023.03.27.19.24.44.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2023.03.27.19.34.24.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313191702",
+      "startedAt" : "2023-03-27T19:36:25Z"
+    }, {
+      "service" : "echo",
+      "version" : "2023.03.27.19.10.41.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2023.03.27.19.27.26.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313191717",
+      "startedAt" : "2023-03-27T19:36:25Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.03.28.15.52.04.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12340241146",
+      "startedAt" : "2023-03-28T16:26:58Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.03.27.19.24.21.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.6" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.03.27.19.40.10.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12313546417",
+      "startedAt" : "2023-03-27T19:52:16Z"
+    } ]
   } ]
 }
