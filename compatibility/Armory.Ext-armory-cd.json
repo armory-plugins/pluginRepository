@@ -152,6 +152,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "rosco-armory",
+        "version" : "2023.03.30.16.11.22.release-2.30.x"
+      }, {
+        "name" : "rosco-armory",
         "version" : "2023.01.11.00.14.21.release-2.29.x"
       }, {
         "name" : "rosco-armory",
