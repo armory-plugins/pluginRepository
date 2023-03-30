@@ -1,8 +1,4 @@
 {
   "id" : "Armory.InstanceRegistrationPlugin",
-  "releases" : [ {
-    "commit" : "11549e37eba377bb46d2d01c02d664557ffc35d6",
-    "versions" : [ "0.0.10" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
