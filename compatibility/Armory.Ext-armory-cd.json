@@ -494,6 +494,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2023.04.01.02.03.52.release-2.27.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2023.02.28.21.43.52.release-2.27.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12353169885",
@@ -1036,6 +1039,9 @@
       "stacks" : [ "2.27.8-rc4", "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1", "2.27.7-rc1", "2.27.6-rc2", "2.27.6-rc1", "2.27.7", "2.27.6" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2023.04.01.02.04.16.release-2.27.x"
+      }, {
         "name" : "front50-armory",
         "version" : "2022.12.09.13.31.46.release-2.27.x"
       } ],
