@@ -444,7 +444,10 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.30.1" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.04.12.06.29.33.release-2.30.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12536634855",
       "startedAt" : "2023-04-05T11:50:07Z"
     }, {
