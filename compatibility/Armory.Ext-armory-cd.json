@@ -648,7 +648,10 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.30.1" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.04.12.05.59.58.release-2.30.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12583127742",
       "startedAt" : "2023-04-07T01:46:59Z"
     }, {
