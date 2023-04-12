@@ -1038,7 +1038,13 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.30.1" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2023.04.12.23.40.25.release-2.30.x"
+      }, {
+        "name" : "front50-armory",
+        "version" : "2023.04.12.23.34.39.release-2.30.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12583126374",
       "startedAt" : "2023-04-07T01:46:53Z"
     }, {
