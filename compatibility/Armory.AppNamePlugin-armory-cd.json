@@ -284,6 +284,9 @@
       "platforms" : [ "1.28.6" ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2023.04.13.18.44.50.release-2.28.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2023.03.27.19.21.48.release-2.28.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/12312798323",
@@ -508,6 +511,9 @@
       "stacks" : [ "2.28.6-rc1" ],
       "platforms" : [ "1.28.6" ],
       "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2023.04.13.18.43.53.release-2.28.x"
+      }, {
         "name" : "fiat-armory",
         "version" : "2023.03.16.18.09.25.release-2.28.x"
       } ],
