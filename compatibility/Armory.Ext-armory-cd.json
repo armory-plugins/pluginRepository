@@ -221,6 +221,9 @@
       "platforms" : [ "1.30.1" ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2023.04.13.18.28.28.release-2.30.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2023.04.07.02.11.43.release-2.30.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12583448931",
@@ -232,6 +235,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.29.4" ],
       "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.04.13.18.28.35.release-2.29.x"
+      }, {
         "name" : "orca-armory",
         "version" : "2023.03.28.16.03.21.release-2.29.x"
       } ],
@@ -652,6 +658,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.30.1" ],
       "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.04.13.18.27.20.release-2.30.x"
+      }, {
         "name" : "igor-armory",
         "version" : "2023.04.12.05.59.58.release-2.30.x"
       } ],
@@ -1244,6 +1253,9 @@
       "platforms" : [ "1.30.1" ],
       "extensions" : [ {
         "name" : "fiat-armory",
+        "version" : "2023.04.13.18.27.26.release-2.30.x"
+      }, {
+        "name" : "fiat-armory",
         "version" : "2023.04.12.06.29.33.release-2.30.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/12536635056",
@@ -1486,6 +1498,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.30.1" ],
       "extensions" : [ {
+        "name" : "echo-armory",
+        "version" : "2023.04.13.18.27.07.release-2.30.x"
+      }, {
         "name" : "echo-armory",
         "version" : "2023.04.07.01.41.59.release-2.30.x"
       } ],
