@@ -61,7 +61,7 @@
       "service" : "clouddriver",
       "version" : "2023.03.21.20.22.35.release-1.27.x",
       "outcome" : "failure",
-      "stacks" : [ "2.27.8-rc4" ],
+      "stacks" : [ "2.27.8-rc4", "2.27.8" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
