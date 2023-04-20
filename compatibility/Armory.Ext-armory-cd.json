@@ -44,6 +44,9 @@
       "platforms" : [ "1.28.6", "1.28.5" ],
       "extensions" : [ {
         "name" : "rosco-armory",
+        "version" : "2023.04.20.21.58.55.release-2.28.x"
+      }, {
+        "name" : "rosco-armory",
         "version" : "2023.04.13.18.48.22.release-2.28.x"
       }, {
         "name" : "rosco-armory",
@@ -709,6 +712,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.28.6" ],
       "extensions" : [ {
+        "name" : "igor-armory",
+        "version" : "2023.04.20.21.55.48.release-2.28.x"
+      }, {
         "name" : "igor-armory",
         "version" : "2023.04.13.18.44.24.release-2.28.x"
       }, {
