@@ -512,6 +512,9 @@
       "platforms" : [ "1.28.6" ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2023.04.20.22.10.17.release-2.28.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2023.04.17.18.27.19.release-2.28.x"
       }, {
         "name" : "kayenta-armory",
