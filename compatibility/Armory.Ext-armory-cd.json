@@ -488,6 +488,24 @@
       "startedAt" : "2023-04-27T21:45:08Z"
     }, {
       "service" : "kayenta",
+      "version" : "2023.04.13.23.42.23.release-1.30.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.30.0-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.20.10.20.36.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.20.52.24.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.13.35.33.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/13105675955",
+      "startedAt" : "2023-04-28T16:45:18Z"
+    }, {
+      "service" : "kayenta",
       "version" : "2023.04.07.02.46.00.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ ],
