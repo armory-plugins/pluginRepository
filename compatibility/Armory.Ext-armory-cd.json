@@ -3,6 +3,24 @@
   "releases" : [ {
     "commit" : "476542b68343c8f23546dba224a1aecd28fc75c2",
     "versions" : [ "0.0.3" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "kayenta",
+      "version" : "2023.04.13.23.42.23.release-1.30.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.30.0-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.20.10.20.36.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.20.52.24.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
+        "version" : "2023.04.19.13.35.33.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/13105675955",
+      "startedAt" : "2023-04-28T16:45:18Z"
+    } ]
   } ]
 }
