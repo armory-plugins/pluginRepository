@@ -494,6 +494,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2023.05.03.13.06.24.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2023.04.20.10.20.36.release-2.30.x"
       }, {
         "name" : "kayenta-armory",
