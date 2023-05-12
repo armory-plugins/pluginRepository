@@ -500,6 +500,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "kayenta-armory",
+        "version" : "2023.05.12.15.39.01.release-2.30.x"
+      }, {
+        "name" : "kayenta-armory",
         "version" : "2023.05.08.15.56.39.release-2.30.x"
       }, {
         "name" : "kayenta-armory",
