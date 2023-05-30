@@ -750,7 +750,7 @@
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "223fa78aaa2d39470db1e6d90a404672ae59f2c70d3727ada60401a68c21b3e7812522f2ea489b46caf73e56535b6a9f5fdf9ac617fd04bd158466f12b9877ef",
         "state": "",
-        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v2.0.2/k8s-custom-resource-status-v2.0.2.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.0.2-k8s-custom-resource-status/k8s-custom-resource-status-v2.0.2.zip"
       },
       {
         "version": "2.0.1",
