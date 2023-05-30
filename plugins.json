@@ -79,6 +79,7 @@
         "date": "2023-01-03T19:42:14.370052Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "f6a9c014b514341d2c22c8019fd4746b7bd17e34f632af3bbadc7c61d1801818b082570f6e549c96c572977ae5ee09c6a0955df5f4f452f75e3afba954a7bbe1",
+        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.3.0/policy-engine-v0.3.0.zip"
       },
       {
@@ -733,6 +734,7 @@
         "date": "2022-11-30T05:18:03.145235Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
         "sha512sum": "08c1e6d2d2dfd080767b5903e472bd4a187d0795bb58f21cf69d694b178be7f3e4459f8f2ecca060a1d305f4f8d9db4f2c677fb128a79955173d45b47f219774",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-cache-aws-agents-on-event/cache-aws-agents-on-event-v0.1.0.zip"
       }
     ]
@@ -747,7 +749,8 @@
         "date": "2023-05-30T20:24:56.150880Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "223fa78aaa2d39470db1e6d90a404672ae59f2c70d3727ada60401a68c21b3e7812522f2ea489b46caf73e56535b6a9f5fdf9ac617fd04bd158466f12b9877ef",
-        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v2.0.2/k8s-custom-resource-status-v2.0.2.zip"
+        "state": "",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.0.2-k8s-custom-resource-status/k8s-custom-resource-status-v2.0.2.zip"
       },
       {
         "version": "2.0.1",
@@ -777,6 +780,7 @@
         "date": "2023-02-24T13:31:32.714778Z",
         "requires": "front50>=0.0.0,deck>=0.0.0",
         "sha512sum": "677d130f9b5eb9cc6cca6e91b8cfe591dda3d85d0fa0507f73add80d291e2fb8d891bc4eb0ca99a2185d557b09cf4c337fdb03def51bdd56e71baea1edc4eef6",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-configuration-management/configuration-management-v0.0.2.zip"
       }
     ]
@@ -791,6 +795,7 @@
         "date": "2023-03-27T14:40:53.919651Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
         "sha512sum": "6fc9864a477116558eb3212631a8bffb95d188ac298cf6690ebdd78baf2d1d46871a486ffd2d5d0502e61d2de5137a60d030e85265e7d151158ea07fa346375d",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.5-pipeline-as-a-code/pipeline-as-a-code-v0.0.5.zip"
       },
       {
@@ -798,6 +803,7 @@
         "date": "2023-03-24T15:24:05.941871Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
         "sha512sum": "130665da5ee0f770c41cc76dff473e9d78acc584f35d3337bf81462dd9148854836d93b70273556ff36b4b7dd9b589795ae6b928256e4434b05e42bb48ead0dd",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.3-pipeline-as-a-code/pipeline-as-a-code-v0.0.3.zip"
       },
       {
@@ -805,6 +811,7 @@
         "date": "2023-03-24T14:46:36.609363Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
         "sha512sum": "d340cacb478b334048f2d182e2dd265234b08d6373f402877c7a1c373016ef0b24cb9e4b49c2020ea3eea8ecfd346a0ed18f9b4d3288f96c6f298a8ba445b6df",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-pipeline-as-a-code/pipeline-as-a-code-v0.0.2.zip"
       },
       {
@@ -812,6 +819,7 @@
         "date": "2023-03-22T09:53:15.716524Z",
         "requires": "gate>=0.0.0,echo>=0.0.0",
         "sha512sum": "c3be32958e6e0cbdd7982b70061a7a9e8f3108e1cc6bb6a5ea5c4e1fd06a1c9c2b93b1c8a3d4ca54f6806d9e2bacfe82396c203d9e0ec7c8ec6f0d6409e6fc88",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.1-pipeline-as-a-code/pipeline-as-a-code-v0.0.1.zip"
       }
     ]
