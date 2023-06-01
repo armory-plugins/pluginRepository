@@ -8,7 +8,7 @@
       "version" : "2023.05.18.14.27.05.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.30.2" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2023.05.18.14.39.29.release-2.30.x"
@@ -287,7 +287,7 @@
       "version" : "2023.04.07.01.27.28.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5", "2.30.0-rc4", "2.30.0-rc3", "2.30.0-rc2", "2.30.0-rc1" ],
-      "platforms" : [ "1.30.1" ],
+      "platforms" : [ "1.30.2", "1.30.1" ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2023.05.12.15.24.13.release-2.30.x"
@@ -308,7 +308,7 @@
       "version" : "2023.03.27.19.25.10.release-1.29.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.29.4" ],
+      "platforms" : [ "1.29.5", "1.29.4" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/13139278032",
       "startedAt" : "2023-05-01T05:42:44Z"
@@ -491,7 +491,7 @@
       "version" : "2023.04.05.11.36.40.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5", "2.30.0-rc4", "2.30.0-rc3", "2.30.0-rc2", "2.30.0-rc1" ],
-      "platforms" : [ "1.30.1" ],
+      "platforms" : [ "1.30.2", "1.30.1" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2023.05.12.15.23.21.release-2.30.x"
@@ -539,7 +539,7 @@
       "version" : "2023.03.16.17.56.45.release-1.29.x",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.29.4" ],
+      "platforms" : [ "1.29.5", "1.29.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2023.04.17.16.44.07.release-2.29.x"
@@ -752,13 +752,25 @@
       "version" : "2023.05.30.19.45.40.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.0-rc7" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.30.2" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
         "version" : "2023.05.30.20.03.51.release-2.30.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/13872438755",
       "startedAt" : "2023-05-30T20:07:24Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.05.30.19.45.30.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.5" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.05.30.20.03.57.release-2.29.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/13872437965",
+      "startedAt" : "2023-05-30T20:07:25Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.05.30.19.45.25.release-1.28.x",
