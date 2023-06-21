@@ -956,6 +956,18 @@
       "startedAt" : "2023-06-09T20:48:05Z"
     }, {
       "service" : "gate",
+      "version" : "2023.06.05.20.11.44.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.31.0" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.06.05.20.25.21.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/14427437267",
+      "startedAt" : "2023-06-21T06:24:53Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.04.07.01.27.28.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.0", "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5", "2.30.0-rc4", "2.30.0-rc3", "2.30.0-rc2", "2.30.0-rc1" ],
