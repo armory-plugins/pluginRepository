@@ -854,6 +854,15 @@
       "startedAt" : "2023-06-28T07:06:30Z"
     }, {
       "service" : "front50",
+      "version" : "2022.12.06.21.12.49.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.2", "1.29.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/14614478397",
+      "startedAt" : "2023-06-28T07:20:33Z"
+    }, {
+      "service" : "front50",
       "version" : "2022.12.01.21.15.09.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ "2.27.8-rc4", "2.27.8-rc3", "2.27.8-rc2", "2.27.8-rc1", "2.27.7-rc1", "2.27.6-rc2", "2.27.6-rc1", "2.27.8", "2.27.7", "2.27.6" ],
