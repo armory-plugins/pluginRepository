@@ -831,5 +831,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.1-pipeline-as-a-code/pipeline-as-a-code-v0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Fips",
+    "description": "Enables FIPS AWS endpoints",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2023-06-29T22:33:00.353769Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "e95fa76aa3fbe695e7475b90b9e2b55dda98949bd72119803b83c6ecffba708db5077777f95c021eed4e352cc69bdc7b820febd70c152c589ae170300d434593",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-armory-fips/armory-fips-v0.1.0.zip"
+      }
+    ]
   }
 ]
