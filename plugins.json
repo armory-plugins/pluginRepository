@@ -845,5 +845,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-armory-fips/armory-fips-v0.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.DeckPlugin",
+    "description": "Armory Deck Plugin",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-07-06T14:38:49.548506Z",
+        "requires": "deck>=0.0.0",
+        "sha512sum": "d4ec18a13ff93f2c4e6363df91e5badea8c5d774d080f3709c52235a8a8120fece85473e8aa611f51c4f7aa8917e7873499cd0eda7244e577192afcd0bc0e1e0",
+        "url": "https://github.com/armory-plugins/armory-deck/releases/download/v0.0.1/armory-deck-v0.0.1.zip"
+      }
+    ]
   }
 ]
