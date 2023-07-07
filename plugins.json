@@ -845,5 +845,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-armory-fips/armory-fips-v0.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Terraformer",
+    "description": "This plugin adds the terraformer functionality to Spinnaker.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.1.17",
+        "date": "2023-07-07T08:08:50.095230Z",
+        "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "a229d2d6cf54622efd35be57fdb0d46f97432ea77cfa0c25c7e16664495d7c570ac7b70346d639614ac05980c114e327e5ca4e0f0787b822e66a5d729c422981",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/terraformer-v0.1.17/terraformer-terraformer-v0.1.17.zip"
+      }
+    ]
   }
 ]
