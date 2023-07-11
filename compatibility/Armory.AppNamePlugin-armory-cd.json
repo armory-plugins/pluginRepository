@@ -5,6 +5,18 @@
     "versions" : [ "0.2.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.06.29.14.44.25.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ "2.30.0-rc8" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.06.29.21.06.18.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/14954561851",
+      "startedAt" : "2023-07-11T17:25:09Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.06.05.20.25.26.master",
       "outcome" : "success",
       "stacks" : [ ],
