@@ -803,7 +803,7 @@
         "date": "2023-07-13T04:53:02.588724Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
         "sha512sum": "ad2f6a763e34d52084b2d4de1799da1519494cf27f7e168531c0d439162f23710d7b09243c882c378700e77f34fb8a61d66e3511913bd167373db1acba3c8b21",
-        "url": "https://github.com/armory-plugins/pipeline-as-a-code/releases/download/v1.0.0/pipeline-as-a-code-v1.0.0.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v1.0.0-pipeline-as-a-code/pipeline-as-a-code-v1.0.0.zip"
       },
       {
         "version": "0.0.5",
