@@ -866,5 +866,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/terraformer-v0.0.1/terraformer-v0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.DiagnosticSupport",
+    "description": "This plugin adds the diagnostic support functionality to Spinnaker.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-07-14T16:37:50.998115Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "b2ca5372bb008bdce98fe0be09e68f7b53c69566a8180fa9f8f01f9767562905b1a43b240df37f1a1d1632f212df2e35cee55dea6b5a0efe631ca988c5e85487",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/diagnostic-support-0.0.1/diagnostic-support-0.0.1.zip"
+      }
+    ]
   }
 ]
