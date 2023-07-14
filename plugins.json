@@ -859,6 +859,13 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
+        "version": "0.0.2",
+        "date": "2023-07-14T17:01:00.877664Z",
+        "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "ecb9a8bb48d80623fe60aff06ca71724d864b4a97a7a22fed40c6dfb02f2ced5cab6fc0ce25b2668bc8e8cd852f9da6791e7d4071d246a403e6be5cde1608a3f",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/terraformer-0.0.2/terraformer-0.0.2.zip"
+      },
+      {
         "version": "0.0.1",
         "date": "2023-07-07T08:34:41.159328Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
