@@ -887,5 +887,19 @@
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/diagnostic-support-0.0.1/diagnostic-support-0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Essentials",
+    "description": "This plugin includes the External Accounts, Evaluate Artifacts, Support Diagnostics, and Deployment functionality to Spinnaker.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "",
+        "date": "2023-07-27T16:57:34.427346UTC",
+        "requires": "echo>=0.0.0,clouddriver>=0.0.0,orca>=0.0.0,gate>=0.0.0,deck>=0.0.0",
+        "sha512sum": "9a87b9d6d33679b7d2bba2031d668005b90e1d27787c2eab366903328e4fef37c43667515276042a46c268f7a42d833ee5103df672293c5fa3776f79f8e15917  ./essentials.zip",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/essentials-0.0.1/essentials-0.0.1.pack"
+      }
+    ]
   }
 ]
