@@ -887,5 +887,19 @@
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/diagnostic-support-0.0.1/diagnostic-support-0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Deployments",
+    "description": "This plugin adds new stages to Spinnaker to enable new cloud deployment UXs with Armorys Deployments API..",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "cfa83dd",
+        "date": "2023-07-27T14:55:32.998446Z",
+        "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "3fbe7c5aec1cda1fd9a7241181626c79f5d135fd8e42ba0ebc21077fd321ab0fb166a2e7d012cfe3a81f5cbb037818b1002433c0ae2889513c7c4789ef03ded0",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/essentials-0.0.1/essentials-0.0.1.pack"
+      }
+    ]
   }
 ]
