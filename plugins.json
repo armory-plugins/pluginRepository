@@ -901,5 +901,19 @@
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/essentials-0.0.1/essentials-0.0.1.pack"
       }
     ]
+  },
+  {
+    "id": "Armory.EventFilter",
+    "description": "This plugin adds echo event filter capabilities.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-07-31T06:55:10.527967Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "bbea79b91cfc66e9945f3011856a4211e050d7c26cd4f8a01858ce20a276dfc6a48f07cc1f0f731c55c33d6306fc0eba2ea2e502f19141e871b211538d9b6f26",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v.0.0.1-event-filter/event-filter-v0.0.1.zip"
+      }
+    ]
   }
 ]
