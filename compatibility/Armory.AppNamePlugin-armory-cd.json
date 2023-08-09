@@ -7,7 +7,7 @@
       "service" : "orca",
       "version" : "2023.07.21.15.42.20.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.0-rc9" ],
+      "stacks" : [ "2.30.0", "2.30.0-rc9" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -331,7 +331,7 @@
       "service" : "gate",
       "version" : "2023.04.07.01.27.28.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.0-rc9", "2.30.0-rc8", "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5", "2.30.0-rc4", "2.30.0-rc3", "2.30.0-rc2", "2.30.0-rc1" ],
+      "stacks" : [ "2.30.0", "2.30.0-rc9", "2.30.0-rc8", "2.30.0-rc7", "2.30.0-rc6", "2.30.0-rc5", "2.30.0-rc4", "2.30.0-rc3", "2.30.0-rc2", "2.30.0-rc1" ],
       "platforms" : [ "1.30.2", "1.30.1" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -523,7 +523,7 @@
       "service" : "fiat",
       "version" : "2023.07.21.15.45.35.release-1.30.x",
       "outcome" : "failure",
-      "stacks" : [ "2.30.0-rc9" ],
+      "stacks" : [ "2.30.0", "2.30.0-rc9" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -805,7 +805,7 @@
       "service" : "clouddriver",
       "version" : "2023.05.30.19.45.40.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.0-rc9", "2.30.0-rc8", "2.30.0-rc7" ],
+      "stacks" : [ "2.30.0", "2.30.0-rc9", "2.30.0-rc8", "2.30.0-rc7" ],
       "platforms" : [ "1.30.2" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
