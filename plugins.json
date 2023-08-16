@@ -922,5 +922,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v.0.0.1-event-filter/event-filter-v0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.RunMultiplePipelines",
+    "description": "This plugin adds a new custom stage to Spinnaker to trigger multiple child pipelines.",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "1.1.2",
+        "date": "2023-08-16T14:32:04.783427Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "478075de68ea11a16e7092b965c6cf0410cbf951985a232689fcd8fae92347e26e43dbe57ccab08189e147ebfbfe18ada6c789debdf2cac6455aaf331050d837",
+        "url": "https://github.com/armory-plugins/spinnaker-multiple-pipelines/releases/download/v1.1.2/spinnaker-multiple-pipelines-v1.1.2.zip"
+      }
+    ]
   }
 ]
