@@ -1,8 +1,4 @@
 {
   "id" : "Armory.PolicyEngine",
-  "releases" : [ {
-    "commit" : "b1bdd2db82652ecb0c179d35912bda9d3bab141f",
-    "versions" : [ "0.3.0" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
