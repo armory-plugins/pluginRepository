@@ -493,6 +493,13 @@
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
+        "version": "0.4.0",
+        "date": "2023-08-23T17:25:45.821542Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "feac9fa3ffaf13bf7932c62725fe50c66ef6759f826e36ea6781caa588de01d7ebea8419534ccd2598eb12086ddf3a73c8c4509b51bcdd8712265919919a3ca8",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.4.0/armory-crdcheck-plugin-v0.4.0.zip"
+      },
+      {
         "version": "0.3.0",
         "date": "2022-06-13T02:30:00.320813Z",
         "requires": "clouddriver>=0.0.0",
