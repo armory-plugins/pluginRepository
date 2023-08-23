@@ -490,8 +490,16 @@
   {
     "id": "Armory.CRDCheck",
     "description": "A plugin to validate a manifest is stable in kubernetes",
-    "provider": "https://github.com/armory-plugins",
+    "provider": "TODO",
     "releases": [
+      {
+        "version": "0.4.0",
+        "date": "2023-08-23T17:25:45.821542Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "feac9fa3ffaf13bf7932c62725fe50c66ef6759f826e36ea6781caa588de01d7ebea8419534ccd2598eb12086ddf3a73c8c4509b51bcdd8712265919919a3ca8",
+        "state": "",
+        "url": "https://github.com/armory-plugins/armory-crdcheck-plugin/releases/download/v0.4.0/armory-crdcheck-plugin-v0.4.0.zip"
+      },
       {
         "version": "0.3.0",
         "date": "2022-06-13T02:30:00.320813Z",
@@ -803,6 +811,7 @@
         "date": "2023-07-13T04:53:02.588724Z",
         "requires": "echo>=0.0.0,gate>=0.0.0",
         "sha512sum": "ad2f6a763e34d52084b2d4de1799da1519494cf27f7e168531c0d439162f23710d7b09243c882c378700e77f34fb8a61d66e3511913bd167373db1acba3c8b21",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v1.0.0-pipeline-as-a-code/pipeline-as-a-code-v1.0.0.zip"
       },
       {
@@ -849,6 +858,7 @@
         "date": "2023-06-29T22:33:00.353769Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "e95fa76aa3fbe695e7475b90b9e2b55dda98949bd72119803b83c6ecffba708db5077777f95c021eed4e352cc69bdc7b820febd70c152c589ae170300d434593",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-armory-fips/armory-fips-v0.1.0.zip"
       }
     ]
@@ -863,6 +873,7 @@
         "date": "2023-07-14T17:01:00.877664Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "ecb9a8bb48d80623fe60aff06ca71724d864b4a97a7a22fed40c6dfb02f2ced5cab6fc0ce25b2668bc8e8cd852f9da6791e7d4071d246a403e6be5cde1608a3f",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/terraformer-0.0.2/terraformer-0.0.2.zip"
       },
       {
@@ -870,6 +881,7 @@
         "date": "2023-07-07T08:34:41.159328Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "05e7689e7e8f3e4942578e69b23bb82fb1041ccc2bb2d090c65f63b2e9b4c67f33e8ce3e973659bc6fc5074baa4e4eb2e4984721ebfdb1dfa28a887cb89b5367",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/terraformer-v0.0.1/terraformer-v0.0.1.zip"
       }
     ]
@@ -884,6 +896,7 @@
         "date": "2023-07-14T16:37:50.998115Z",
         "requires": "echo>=0.0.0",
         "sha512sum": "b2ca5372bb008bdce98fe0be09e68f7b53c69566a8180fa9f8f01f9767562905b1a43b240df37f1a1d1632f212df2e35cee55dea6b5a0efe631ca988c5e85487",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/diagnostic-support-0.0.1/diagnostic-support-0.0.1.zip"
       }
     ]
@@ -898,6 +911,7 @@
         "date": "2023-07-28T12:24:11.815831Z",
         "requires": "echo>=0.0.0,clouddriver>=0.0.0,orca>=0.0.0,gate>=0.0.0,deck>=0.0.0",
         "sha512sum": "e48838f0f44d8721a7e692071c6943b88792e0d114564e1fc27a70f2d0289dc00102e2014c4373aabdb82ed82933ec77e524a1325fe6d3993fbc3094a2026471",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/essentials-0.0.1/essentials-0.0.1.pack"
       }
     ]
@@ -912,6 +926,7 @@
         "date": "2023-07-31T07:41:51.693757Z",
         "requires": "echo>=0.0.0",
         "sha512sum": "3e1974e72f0f50dfa8837baa1df7b14795af221ae44b730d70a1a72599adc46521c43a79503d39a659b5d83b016bb465f68ec18833420af2daeb2b44379d1355",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-event-filter/event-filter-v0.0.2.zip"
       },
       {
@@ -919,6 +934,7 @@
         "date": "2023-07-31T06:55:10.527967Z",
         "requires": "echo>=0.0.0",
         "sha512sum": "bbea79b91cfc66e9945f3011856a4211e050d7c26cd4f8a01858ce20a276dfc6a48f07cc1f0f731c55c33d6306fc0eba2ea2e502f19141e871b211538d9b6f26",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v.0.0.1-event-filter/event-filter-v0.0.1.zip"
       }
     ]
@@ -933,6 +949,7 @@
         "date": "2023-08-16T14:32:04.783427Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "478075de68ea11a16e7092b965c6cf0410cbf951985a232689fcd8fae92347e26e43dbe57ccab08189e147ebfbfe18ada6c789debdf2cac6455aaf331050d837",
+        "state": "",
         "url": "https://github.com/armory-plugins/spinnaker-multiple-pipelines/releases/download/v1.1.2/spinnaker-multiple-pipelines-v1.1.2.zip"
       },
       {
