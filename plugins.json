@@ -753,6 +753,14 @@
     "provider": "kubernetes",
     "releases": [
       {
+        "version": "3.0.0",
+        "date": "2023-08-31T16:15:49.596518Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "9fc8ef67852da4ff7f184082d5051759b22395b59f277a596c99fe2e4d9969387757132535b46bdf2f9ac20b8a0a83b03a4ca6d78167f2aed40af54079b30d6a",
+        "state": "",
+        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v3.0.0/k8s-custom-resource-status-v3.0.0.zip"
+      },
+      {
         "version": "2.0.3",
         "date": "2023-06-15T19:05:12.791789Z",
         "requires": "clouddriver>=0.0.0",
