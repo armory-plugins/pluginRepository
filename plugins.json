@@ -977,5 +977,19 @@
         "url": "https://github.com/armory-plugins/spinnaker-multiple-pipelines/releases/download/v1.1.0/spinnaker-multiple-pipelines-v1.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.GithubApi",
+    "description": "An example of a PF4J based plugin, that provides a new stage.",
+    "provider": "https://github.com/christosarvanitis",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-08-31T17:35:46.034342Z",
+        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "7dac570dba924ee0f366d8048635df8bd3898b36164265db7c722721e1781033f0f96a36a41c29c538b648a1e4cd0b206db689552fd3b1b7c2cf9d105dfae6b7",
+        "url": "https://github.com/armory-plugins/armory-ext/releases/download/github-api-0.0.1/github-api-0.0.1.zip"
+      }
+    ]
   }
 ]
