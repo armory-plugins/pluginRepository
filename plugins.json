@@ -980,8 +980,8 @@
   },
   {
     "id": "Armory.GithubApi",
-    "description": "An example of a PF4J based plugin, that provides a new stage.",
-    "provider": "https://github.com/christosarvanitis",
+    "description": "This plugin adds enhanced functionality of various Github related flows to Spinnaker",
+    "provider": "https://github.com/armory-io",
     "releases": [
       {
         "version": "0.0.2",
