@@ -980,9 +980,16 @@
   },
   {
     "id": "Armory.GithubApi",
-    "description": "An example of a PF4J based plugin, that provides a new stage.",
-    "provider": "https://github.com/christosarvanitis",
+    "description": "This plugin adds enhanced functionality of various Github related flows to Spinnaker",
+    "provider": "https://github.com/armory-io",
     "releases": [
+      {
+        "version": "0.0.2",
+        "date": "2023-09-04T10:22:39.943750Z",
+        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "aa66f9ff36dd1419132d566d92a8b1df4cf9b3b1ab6336c23c19a2cc076e030b62ca119e290a08c856c4350d7d6ec8e06318b675f9fca2ffc71dfa3bc9e24daa",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-github-api/github-api-v0.0.2.zip"
+      },
       {
         "version": "0.0.1",
         "date": "2023-08-31T17:35:46.034342Z",
