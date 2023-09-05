@@ -988,7 +988,7 @@
         "date": "2023-09-05T11:15:19.987505Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "bc79328e45503625a9b09afd3770c7fc8f821efa2ea9cdfff533582b8d2912040c7fb799b8688982d45f295e12e4ce29940562e96b1d2fb99856c7d7bb17e6da",
-        "url": "https://github.com/armory-plugins/armory-ext/releases/download/github-api-0.0.3/github-api-0.0.3.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.3-github-api/github-api-v0.0.3.zip"
       },
       {
         "version": "0.0.2",
