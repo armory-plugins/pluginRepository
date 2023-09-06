@@ -438,6 +438,14 @@
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
+        "version": "0.2.0",
+        "date": "2023-09-06T07:41:43.018303Z",
+        "requires": "deck>=0.0.0",
+        "sha512sum": "6c6cc9bcd4d62a03101e018035f9c29107d63a5fba3f2a248ab5f3126401c7ee128c4fcda82daaf7598184227e03b5385275073e33ae133915159b2c4a5796d6",
+        "state": "",
+        "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.2.0/armory-header-v0.2.0.zip"
+      },
+      {
         "version": "0.1.2",
         "date": "2022-09-30T18:03:14.426330Z",
         "requires": "deck>=0.0.0",
@@ -988,6 +996,7 @@
         "date": "2023-09-05T11:15:19.987505Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "bc79328e45503625a9b09afd3770c7fc8f821efa2ea9cdfff533582b8d2912040c7fb799b8688982d45f295e12e4ce29940562e96b1d2fb99856c7d7bb17e6da",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.3-github-api/github-api-v0.0.3.zip"
       },
       {
@@ -995,6 +1004,7 @@
         "date": "2023-09-04T10:22:39.943750Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "aa66f9ff36dd1419132d566d92a8b1df4cf9b3b1ab6336c23c19a2cc076e030b62ca119e290a08c856c4350d7d6ec8e06318b675f9fca2ffc71dfa3bc9e24daa",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.2-github-api/github-api-v0.0.2.zip"
       },
       {
@@ -1002,6 +1012,7 @@
         "date": "2023-08-31T17:35:46.034342Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "7dac570dba924ee0f366d8048635df8bd3898b36164265db7c722721e1781033f0f96a36a41c29c538b648a1e4cd0b206db689552fd3b1b7c2cf9d105dfae6b7",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-ext/releases/download/github-api-0.0.1/github-api-0.0.1.zip"
       }
     ]
