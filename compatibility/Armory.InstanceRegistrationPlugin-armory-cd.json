@@ -5,6 +5,18 @@
     "versions" : [ "0.0.10" ],
     "compatibility" : [ {
       "service" : "gate",
+      "version" : "2023.09.07.17.47.28.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.09.07.18.01.19.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/16592466874",
+      "startedAt" : "2023-09-07T18:09:17Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.09.01.15.44.50.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ ],
