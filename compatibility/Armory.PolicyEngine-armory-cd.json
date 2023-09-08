@@ -5,6 +5,18 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.08.29.18.18.43.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.08.29.18.41.17.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16626207771",
+      "startedAt" : "2023-09-08T18:10:42Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.08.29.05.07.45.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ ],
@@ -402,6 +414,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16603847251",
       "startedAt" : "2023-09-08T03:30:27Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.09.01.15.44.50.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16626207286",
+      "startedAt" : "2023-09-08T18:10:39Z"
     }, {
       "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
@@ -1097,6 +1118,15 @@
       "startedAt" : "2023-09-08T03:47:17Z"
     }, {
       "service" : "fiat",
+      "version" : "2023.08.24.21.54.55.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16626207752",
+      "startedAt" : "2023-09-08T18:10:42Z"
+    }, {
+      "service" : "fiat",
       "version" : "2023.08.22.18.06.01.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.2", "2.30.1" ],
@@ -1452,6 +1482,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16603846922",
       "startedAt" : "2023-09-08T03:30:27Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.08.29.18.44.20.master",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.0" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.08.29.19.03.03.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16626207273",
+      "startedAt" : "2023-09-08T18:10:41Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.08.29.05.45.59.release-1.31.x",
