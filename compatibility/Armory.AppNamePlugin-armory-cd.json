@@ -8,7 +8,7 @@
       "version" : "2023.08.29.05.07.45.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.31.1" ],
+      "platforms" : [ "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2023.08.29.05.24.08.release-2.31.x"
@@ -746,7 +746,7 @@
       "version" : "2023.08.28.17.11.42.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.31.1" ],
+      "platforms" : [ "1.31.2", "1.31.1" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16604068914",
       "startedAt" : "2023-09-08T03:47:11Z"
@@ -1112,7 +1112,7 @@
       "version" : "2023.08.29.05.45.59.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.31.1" ],
+      "platforms" : [ "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
         "version" : "2023.08.29.05.58.59.release-2.31.x"
