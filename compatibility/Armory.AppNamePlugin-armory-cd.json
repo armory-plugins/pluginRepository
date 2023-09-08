@@ -5,6 +5,18 @@
     "versions" : [ "0.2.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.09.07.17.59.31.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.09.08.02.56.41.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16592467207",
+      "startedAt" : "2023-09-07T18:09:18Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.08.29.18.18.43.master",
       "outcome" : "success",
       "stacks" : [ ],
@@ -416,6 +428,18 @@
       "startedAt" : "2023-09-08T03:30:27Z"
     }, {
       "service" : "gate",
+      "version" : "2023.09.07.17.47.28.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.09.07.18.01.19.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16592466598",
+      "startedAt" : "2023-09-07T18:09:14Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.09.01.15.44.50.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -797,7 +821,7 @@
       "version" : "2023.08.22.18.06.01.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.2", "2.30.1" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2023.08.22.18.19.54.release-2.30.x"
@@ -1149,6 +1173,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16603846797",
       "startedAt" : "2023-09-08T03:30:27Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.09.08.18.37.47.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16627384126",
+      "startedAt" : "2023-09-08T18:58:19Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.08.29.18.44.20.master",
