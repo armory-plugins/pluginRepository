@@ -404,6 +404,18 @@
       "startedAt" : "2023-09-08T03:30:27Z"
     }, {
       "service" : "gate",
+      "version" : "2023.09.01.15.43.46.release-1.31.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.31.2" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.09.01.16.17.50.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16625779088",
+      "startedAt" : "2023-09-08T17:54:36Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.08.29.05.01.02.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ ],
@@ -741,6 +753,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16603847470",
       "startedAt" : "2023-09-08T03:30:28Z"
+    }, {
+      "service" : "front50",
+      "version" : "2023.09.05.18.32.03.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/16519414454",
+      "startedAt" : "2023-09-05T18:45:08Z"
     }, {
       "service" : "front50",
       "version" : "2023.09.05.18.25.32.release-1.31.x",
