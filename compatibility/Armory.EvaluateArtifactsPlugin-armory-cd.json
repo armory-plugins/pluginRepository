@@ -1,4 +1,12 @@
 {
   "id" : "Armory.EvaluateArtifactsPlugin",
-  "releases" : [ ]
+  "releases" : [ {
+    "commit" : "f46fa57f28d2663c9df3afe87d8a815f7626a496",
+    "versions" : [ "0.1.1" ],
+    "compatibility" : [ ]
+  }, {
+    "commit" : "1f05b33c58d217e4aa4f3b00e3f994fea6d384e7",
+    "versions" : [ "0.0.10" ],
+    "compatibility" : [ ]
+  } ]
 }
