@@ -950,7 +950,7 @@
         "date": "2023-09-08T15:06:54.407252Z",
         "requires": "echo>=0.0.0",
         "sha512sum": "4870e054c8fbf5a879d7dcc7f17440238fc10b0291f9e9a5080fc60155bd39f37f54e392a53055251c25b506bce838ff26ed592d500f7fc4d0d78a104ed96181",
-        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/event-filter-v0.0.3/event-filter-v0.0.3.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.3-event-filter/event-filter-v0.0.3.zip"
       },
       {
         "version": "0.0.2",
