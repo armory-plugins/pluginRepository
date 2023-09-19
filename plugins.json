@@ -1062,7 +1062,7 @@
     "provider": "https://armory.io",
     "releases": [
       {
-        "version": "aws",
+        "version": "0.0.2",
         "date": "2023-09-19T11:32:52.710980Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "1cde6c90412d8e8de2fa7bfe4cb77b09ee8cc8c2721d6cb7664ce9a435961db3c4fcac264bf6d66a4ce1c57da1c725327c4ce5f157ed4bfb1ec1fb539aee19f1",
