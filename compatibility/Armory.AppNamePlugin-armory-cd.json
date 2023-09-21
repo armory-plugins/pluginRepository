@@ -434,6 +434,9 @@
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2023.09.21.17.50.23.release-2.30.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2023.09.07.18.01.19.release-2.30.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/16991910915",
@@ -454,6 +457,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.09.21.17.49.05.release-2.31.x"
+      }, {
         "name" : "gate-armory",
         "version" : "2023.09.01.16.17.50.release-2.31.x"
       } ],
