@@ -572,6 +572,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2023.09.21.17.51.24.release-2.27.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2023.04.01.01.41.08.release-2.27.x"
       }, {
         "name" : "gate-armory",
