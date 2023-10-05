@@ -1032,6 +1032,13 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
+        "version": "0.0.8",
+        "date": "2023-10-05T12:17:58.836019Z",
+        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "8975e12411e7c67948c59dc1381178ec0a4093247fa578edd76ad46244d77665580d8e688405c8bc5c4b6cff07cf21be8bfee325662e03149f39f6d8237352b9",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-api-0.0.8/github-api-0.0.8.zip"
+      },
+      {
         "version": "0.1.1",
         "date": "2023-10-03T12:44:12.047777Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
