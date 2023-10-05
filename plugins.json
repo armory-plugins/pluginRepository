@@ -1133,5 +1133,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/aws-sdk-0.0.2/aws-sdk-0.0.2.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.GitHubIntegration",
+    "description": "This plugin adds enhanced functionality of various Github related flows to Spinnaker",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2023-10-05T13:52:04.469093Z",
+        "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "56030baf0f23293aa7a05f8522085fd34b9c58e75807db9e144b2d0dae0d92b50f388a0cef231caffda8a019d7252d15f210be66d00e4d11798ec099e6679ace",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.0/github-integration-0.1.0.zip"
+      }
+    ]
   }
 ]
