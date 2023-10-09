@@ -769,10 +769,19 @@
     "provider": "kubernetes",
     "releases": [
       {
+        "version": "3.1.0",
+        "date": "2023-10-09T14:57:57.673438Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "5947e6c3790540c3bb457f5db746010839b4d405f17a335446e7940afeace8bc4884ede62b7e183d631a1d2a5b893253f2d5d066ed7956d5b1d74fb92ddbf419",
+        "state": "",
+        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v3.1.0/k8s-custom-resource-status-v3.1.0.zip"
+      },
+      {
         "version": "2.2.0",
         "date": "2023-10-09T14:50:42.493650Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "812757370edbb42b136d96fa51ca62606b35c7eddfb827b2ede4b4e10c1fb86b08745c7be0d20663c30cdbdb6b48cdd8619f02978f5ee6ab0810b9899aac37ef",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.2.0-k8s-custom-resource-status/k8s-custom-resource-status-v2.2.0.zip"
       },
       {
@@ -1043,6 +1052,7 @@
         "date": "2023-10-05T12:17:58.836019Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "8975e12411e7c67948c59dc1381178ec0a4093247fa578edd76ad46244d77665580d8e688405c8bc5c4b6cff07cf21be8bfee325662e03149f39f6d8237352b9",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-api-0.0.8/github-api-0.0.8.zip"
       },
       {
@@ -1050,6 +1060,7 @@
         "date": "2023-10-03T12:44:12.047777Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "7844c07a7c36caad95cb5692c1fd912ec7ba305f2b1c94a443e1dfa570041849a51571a0fd218e7a5b2140c54782ef7742d3b4328418e16f752ccedb8a296491",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-api-0.1.1/github-api-0.1.1.zip"
       },
       {
@@ -1151,6 +1162,7 @@
         "date": "2023-10-05T13:52:04.469093Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "56030baf0f23293aa7a05f8522085fd34b9c58e75807db9e144b2d0dae0d92b50f388a0cef231caffda8a019d7252d15f210be66d00e4d11798ec099e6679ace",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.0/github-integration-0.1.0.zip"
       }
     ]
