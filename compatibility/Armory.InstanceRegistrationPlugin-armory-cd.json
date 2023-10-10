@@ -361,7 +361,7 @@
       "service" : "gate",
       "version" : "2021.08.03.20.43.25.master",
       "outcome" : "success",
-      "stacks" : [ "2.27.1-rc8", "2.27.1-rc7", "2.27.1-rc6", "2.27.1-rc5", "2.27.1-rc4", "2.27.1-rc3", "2.27.1-rc2", "2.27.1" ],
+      "stacks" : [ "2.27.1-rc8", "2.27.1-rc7", "2.27.1-rc6", "2.27.1-rc5", "2.27.1-rc4", "2.27.1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
