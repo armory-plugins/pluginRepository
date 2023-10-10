@@ -592,7 +592,7 @@
       "service" : "clouddriver",
       "version" : "2021.10.19.23.47.12.release-1.27.x",
       "outcome" : "failure",
-      "stacks" : [ "2.27.1-rc4", "2.27.1-rc3", "2.27.1-rc2" ],
+      "stacks" : [ "2.27.1-rc4" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -1199,7 +1199,7 @@
       "service" : "clouddriver",
       "version" : "2021.10.19.23.47.12.release-1.27.x",
       "outcome" : "failure",
-      "stacks" : [ "2.27.1-rc4", "2.27.1-rc3", "2.27.1-rc2" ],
+      "stacks" : [ "2.27.1-rc4" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
