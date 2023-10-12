@@ -548,6 +548,9 @@
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2023.10.12.06.06.55.release-2.31.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2023.09.21.17.49.05.release-2.31.x"
       }, {
         "name" : "gate-armory",
@@ -988,6 +991,9 @@
       "stacks" : [ "2.31.0-rc1" ],
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2023.10.12.06.05.58.release-2.31.x"
+      }, {
         "name" : "front50-armory",
         "version" : "2023.09.21.17.40.52.release-2.31.x"
       }, {
