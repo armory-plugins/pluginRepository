@@ -28,7 +28,7 @@
       "service" : "clouddriver",
       "version" : "2023.09.20.19.03.35.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.3-rc1", "2.30.3" ],
+      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -638,7 +638,7 @@
       "service" : "clouddriver",
       "version" : "2023.09.20.19.03.35.release-1.30.x",
       "outcome" : "failure",
-      "stacks" : [ "2.30.3-rc1", "2.30.3" ],
+      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
