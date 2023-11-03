@@ -514,7 +514,7 @@
       "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
       "outcome" : "success",
-      "stacks" : [ "2.31.0-rc1" ],
+      "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -1042,7 +1042,7 @@
       "service" : "fiat",
       "version" : "2023.02.20.19.50.58.master",
       "outcome" : "failure",
-      "stacks" : [ "2.31.0-rc1" ],
+      "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1303,7 +1303,7 @@
       "service" : "clouddriver",
       "version" : "2023.09.20.19.42.06.release-1.31.x",
       "outcome" : "success",
-      "stacks" : [ "2.31.0-rc1" ],
+      "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
