@@ -5,6 +5,18 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.10.18.06.01.58.release-1.31.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.31.0-rc2" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.10.18.06.20.42.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/18350596837",
+      "startedAt" : "2023-11-03T20:06:20Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.10.18.06.01.45.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.4-rc1" ],
