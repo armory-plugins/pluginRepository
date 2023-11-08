@@ -7,7 +7,7 @@
       "service" : "gate",
       "version" : "2023.09.07.17.47.28.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
+      "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
