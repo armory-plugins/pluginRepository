@@ -5,6 +5,21 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2023.11.07.00.08.28.release-1.30.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.30.5-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.11.08.16.10.43.release-2.30.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2023.11.07.02.18.11.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/18425924753",
+      "startedAt" : "2023-11-07T02:25:55Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.10.18.06.01.58.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ "2.31.0-rc2" ],
@@ -499,7 +514,7 @@
       "service" : "gate",
       "version" : "2023.09.07.17.47.28.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
+      "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -886,7 +901,7 @@
       "service" : "front50",
       "version" : "2023.09.25.18.58.31.release-1.30.x",
       "outcome" : "success",
-      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
+      "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1264,7 +1279,7 @@
       "service" : "fiat",
       "version" : "2023.08.22.18.06.01.release-1.30.x",
       "outcome" : "failure",
-      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.2-rc1", "2.30.1-rc2", "2.30.4", "2.30.3", "2.30.2", "2.30.1" ],
+      "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.3-rc1", "2.30.2-rc1", "2.30.1-rc2", "2.30.4", "2.30.3", "2.30.2", "2.30.1" ],
       "platforms" : [ "1.30.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1696,7 +1711,7 @@
       "service" : "clouddriver",
       "version" : "2023.09.20.19.03.35.release-1.30.x",
       "outcome" : "failure",
-      "stacks" : [ "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
+      "stacks" : [ "2.30.5-rc1", "2.30.4-rc1", "2.30.3-rc1", "2.30.4", "2.30.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
