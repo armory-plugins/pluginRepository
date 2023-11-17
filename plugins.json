@@ -758,7 +758,7 @@
         "date": "2023-11-17T21:48:56.299478Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
         "sha512sum": "1ae348e015ed6f6e4df8c8a9e673093c670cbd8a82410d3150c964c8384afd02e4f912f98994a4f926bd7efebfbbfd1d4937ce40f56da732b575ea3ed7d757cb",
-        "url": "https://github.com/armory-plugins/cache-aws-agents-on-event-releases/releases/download/v0.2.0/cache-aws-agents-on-event-v0.2.0.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.2.0-aws-cats-on-event/cache-aws-agents-on-event-v0.2.0.zip"
       },
       {
         "version": "0.1.0",
