@@ -1254,5 +1254,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.0/github-integration-0.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.OverrideKubectlExceptions",
+    "description": "Override KubectlException plugin",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.0.23",
+        "date": "2023-11-20T15:15:01.003313Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "40894dd12b5f8b8a4ae2e5e03b82b2d6f80183fb0210dfcfa674d3674ba962f918139cc5b406d1fa87790f39a9fdf32886344b625a3e391f5777920b6e93064d",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/override-kubectl-exceptions-v0.0.23/override-kubectl-exceptions-v0.0.23.zip"
+      }
+    ]
   }
 ]
