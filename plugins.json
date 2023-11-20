@@ -758,6 +758,7 @@
         "date": "2023-11-17T21:48:56.299478Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0",
         "sha512sum": "1ae348e015ed6f6e4df8c8a9e673093c670cbd8a82410d3150c964c8384afd02e4f912f98994a4f926bd7efebfbbfd1d4937ce40f56da732b575ea3ed7d757cb",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.2.0-aws-cats-on-event/cache-aws-agents-on-event-v0.2.0.zip"
       },
       {
@@ -775,6 +776,14 @@
     "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
     "provider": "kubernetes",
     "releases": [
+      {
+        "version": "3.1.1",
+        "date": "2023-11-20T13:24:23.793677Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "ed7ad8500426cb268d41c90d371912fee573c8ffd21d467c4498d03cc6c3d7ba12427f9fd8dde23e044ef88fbf9ec1ed098ee87c61cdc572a5074f910df2b82a",
+        "state": "",
+        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v3.1.1/k8s-custom-resource-status-v3.1.1.zip"
+      },
       {
         "version": "3.1.0",
         "date": "2023-10-09T14:57:57.673438Z",
@@ -936,6 +945,7 @@
         "date": "2023-10-10T14:04:32.594363Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "c243ca9fb3b8e7325da424486b67d8317f372e5fdf52acb3dfd284884edfb4707301ee6e164d1600ad7247ac4f7fbb090125e3e4fe1a97727c1f5a2c0c43e5fc",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/terraformer-0.0.3/terraformer-0.0.3.zip"
       },
       {
@@ -1176,6 +1186,7 @@
         "date": "2023-11-20T09:16:09.677622Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "548ce0441b9494b64819716e50321b215b4d735bcf340ebb57dae968a4bed33fc377eb823860208f0cd0684e22d70dd2686dd7b5badfb0bbfe7cdc59dbf3d41e",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.3.0/github-integration-0.3.0.zip"
       },
       {
@@ -1183,6 +1194,7 @@
         "date": "2023-11-07T14:23:38.221703Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "3bfcc6f69d723e29104977a1722f3762444612c7c38ca7665960e1b9bcd38df58967e4996df1175fb33d6ee7a150c2799cd15907e5ab612fc80dc80ed10e66bd",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.2.4/github-integration-0.2.4.zip"
       },
       {
@@ -1190,6 +1202,7 @@
         "date": "2023-11-07T10:01:38.256841Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "de4bd6215f49a9129ac8af52e10735d1fa54603a0d7959439572dde7c121c24855f56c3e57fba09505b1ce7c4de34a0c973a3b6edab4929896aadbecf18edcdf",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.2.3/github-integration-0.2.3.zip"
       },
       {
@@ -1197,6 +1210,7 @@
         "date": "2023-11-07T05:37:36.308045Z",
         "requires": "echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "6237eaa0f7f3ce9302090579a81133260448c5a5730f4677183264536d676ef9506e547e361b42ca0cffb6843a95237f76bce09f6d06a232490596899181e1ce",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.2.2/github-integration-0.2.2.zip"
       },
       {
@@ -1204,6 +1218,7 @@
         "date": "2023-11-06T14:13:44.293526Z",
         "requires": "echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "b191b7355759b5624aef2d1d0455615f66148df79700d2cde4f10d219c17759b19500f1dbdb58302b4d8f14a88fcd1cf0a8866b1ec189ee15ee083c76b1e47d5",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.2.1/github-integration-0.2.1.zip"
       },
       {
@@ -1211,6 +1226,7 @@
         "date": "2023-11-06T13:02:37.851863Z",
         "requires": "echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "293f8e1f551ea94fc4de60417c9c0fc35d0478543ec1c981bcb0958ff50f2e768adc8f248bb1403d0099badbe9bccf9d8d1a3c3b35facdd42fe2a0b6d0d6df19",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.2.0/github-integration-0.2.0.zip"
       },
       {
@@ -1218,6 +1234,7 @@
         "date": "2023-11-06T11:30:10.670791Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "efa4f24ae4838322600bba30589f8aca43f34d743b1fed4644ee726cb7bf774b833480e25f586115f3bf98d3bb998512eddfa5ceb142301e2f70f856f53a25de",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.2/github-integration-0.1.2.zip"
       },
       {
@@ -1225,6 +1242,7 @@
         "date": "2023-10-18T14:14:06.219071Z",
         "requires": "echo>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "e1bbebc5f2de96dc04707b1653e05366b9bfa2b0cbd413e50d77c1d71b6d050572613d81c131e45013190c15cb155c1caf1022ef49ee00040a279c4e73e397dd",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.1/github-integration-0.1.1.zip"
       },
       {
