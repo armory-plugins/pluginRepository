@@ -1172,6 +1172,13 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
+        "version": "0.3.0",
+        "date": "2023-11-20T09:16:09.677622Z",
+        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "548ce0441b9494b64819716e50321b215b4d735bcf340ebb57dae968a4bed33fc377eb823860208f0cd0684e22d70dd2686dd7b5badfb0bbfe7cdc59dbf3d41e",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.3.0/github-integration-0.3.0.zip"
+      },
+      {
         "version": "0.2.4",
         "date": "2023-11-07T14:23:38.221703Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
