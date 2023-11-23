@@ -1254,5 +1254,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.1.0/github-integration-0.1.0.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.SelfServeErrorManagement",
+    "description": "Self Serve Error Management plugin",
+    "provider": "https://armory.io",
+    "releases": [
+      {
+        "version": "0.0.1",
+        "date": "2023-11-23T15:32:01.396037Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "3fbbcf4e02322723dbc81fc4fb8459310c3cb9cbddb6cc5259791e735f427b217650607711b55f6dd1f2c716d5a88f9996178ce91a03adf3242c16f9f19e3839",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/self-serve-error-management-0.0.1/self-serve-error-management-0.0.1.zip"
+      }
+    ]
   }
 ]
