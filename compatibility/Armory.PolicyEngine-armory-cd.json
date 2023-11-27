@@ -583,7 +583,7 @@
       "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
       "outcome" : "success",
-      "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
+      "stacks" : [ "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -997,7 +997,7 @@
       "service" : "front50",
       "version" : "2023.09.05.18.25.32.release-1.31.x",
       "outcome" : "success",
-      "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
+      "stacks" : [ "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ "1.31.2" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -1357,7 +1357,7 @@
       "service" : "fiat",
       "version" : "2023.08.28.17.11.42.release-1.31.x",
       "outcome" : "failure",
-      "stacks" : [ ],
+      "stacks" : [ "2.31.0-rc3" ],
       "platforms" : [ "1.31.2", "1.31.1" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -1797,6 +1797,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/18763216713",
       "startedAt" : "2023-11-16T21:23:33Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2023.11.22.08.49.50.release-1.31.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.31.0-rc3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.22.09.16.59.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/18923791865",
+      "startedAt" : "2023-11-22T09:25:26Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.09.20.19.42.06.release-1.31.x",
