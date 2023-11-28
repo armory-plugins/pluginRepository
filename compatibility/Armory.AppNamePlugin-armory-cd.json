@@ -20,6 +20,15 @@
       "startedAt" : "2023-11-27T15:12:58Z"
     }, {
       "service" : "orca",
+      "version" : "2023.11.07.00.08.45.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.3" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/19091067578",
+      "startedAt" : "2023-11-28T10:40:11Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.11.07.00.08.28.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.5-rc1", "2.30.5" ],
