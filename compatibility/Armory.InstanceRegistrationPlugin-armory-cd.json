@@ -26,7 +26,7 @@
       "version" : "2023.09.01.15.44.50.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
+      "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/18763905745",
       "startedAt" : "2023-11-16T21:48:23Z"
