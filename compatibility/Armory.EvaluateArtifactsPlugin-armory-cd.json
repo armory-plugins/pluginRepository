@@ -23,7 +23,7 @@
       "version" : "2023.11.07.00.08.28.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.5-rc1", "2.30.5" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.30.5" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2023.11.08.16.10.43.release-2.30.x"
@@ -591,7 +591,7 @@
       "version" : "2023.11.07.00.08.28.release-1.30.x",
       "outcome" : "failure",
       "stacks" : [ "2.30.5-rc1", "2.30.5" ],
-      "platforms" : [ ],
+      "platforms" : [ "1.30.5" ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2023.11.08.16.10.43.release-2.30.x"
