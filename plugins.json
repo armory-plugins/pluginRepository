@@ -1276,5 +1276,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/self-serve-error-management-0.0.1/self-serve-error-management-0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.Insights",
+    "description": "This plugin adds enhanced metrics aggregates for product usage",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.0",
+        "date": "2023-11-29T05:15:58.674727Z",
+        "requires": "gate>=0.0.0,orca>=0.0.0",
+        "sha512sum": "661d8547d7c3cd1ebd8845ad180486da14972faa34c4f4e405860b999ec114c2d59e43d3cd5dc9cc61e2b8379a40219f2152d93c7229c1885cd7cfd43d1f0a11",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/insights-0.0.0/insights-0.0.0.zip"
+      }
+    ]
   }
 ]
