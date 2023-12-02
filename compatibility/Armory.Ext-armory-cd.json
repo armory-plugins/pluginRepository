@@ -1,8 +1,4 @@
 {
   "id" : "Armory.Ext",
-  "releases" : [ {
-    "commit" : "476542b68343c8f23546dba224a1aecd28fc75c2",
-    "versions" : [ ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
