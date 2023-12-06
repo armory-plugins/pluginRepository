@@ -1,8 +1,4 @@
 {
   "id" : "Armory.AppNamePlugin",
-  "releases" : [ {
-    "commit" : "d3dc7897a0bdbf9c7877dd31348cf18a8f919ab3",
-    "versions" : [ "0.2.0" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
