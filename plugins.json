@@ -1279,7 +1279,7 @@
   },
   {
     "id": "Armory.Insights",
-    "description": "This plugin adds enhanced metrics aggregates for product usage",
+    "description": "This plugin adds enhanced metrics aggregates to enable DORA-style reporting for users",
     "provider": "https://github.com/armory-io",
     "releases": [
       {
