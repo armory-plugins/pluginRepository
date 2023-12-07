@@ -5,6 +5,18 @@
     "versions" : [ "0.4.0" ],
     "compatibility" : [ {
       "service" : "clouddriver",
+      "version" : "2023.11.22.08.49.55.release-1.30.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.6" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.22.09.17.06.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/19428115785",
+      "startedAt" : "2023-12-07T21:13:45Z"
+    }, {
+      "service" : "clouddriver",
       "version" : "2023.11.22.08.49.50.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0", "2.31.0-rc3" ],
@@ -635,6 +647,18 @@
     "commit" : "6643d521a9c83f9518d07d1dbe4244e386779e3e",
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
+      "service" : "clouddriver",
+      "version" : "2023.11.22.08.49.55.release-1.30.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.6" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.22.09.17.06.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/19428115787",
+      "startedAt" : "2023-12-07T21:13:47Z"
+    }, {
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.50.release-1.31.x",
       "outcome" : "failure",
