@@ -1685,6 +1685,18 @@
       "startedAt" : "2023-12-06T02:40:20Z"
     }, {
       "service" : "clouddriver",
+      "version" : "2023.11.22.08.49.55.release-1.30.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.30.6" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2023.11.22.09.17.06.release-2.30.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/19428115796",
+      "startedAt" : "2023-12-07T21:13:46Z"
+    }, {
+      "service" : "clouddriver",
       "version" : "2023.11.22.08.49.50.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ "2.31.0", "2.31.0-rc3" ],
