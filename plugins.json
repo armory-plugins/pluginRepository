@@ -1290,5 +1290,19 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/insights-0.0.1/insights-0.0.1.zip"
       }
     ]
+  },
+  {
+    "id": "Armory.CloudWatch",
+    "description": "This plugin adds the CloudWatch metric store to Spinnaker Kayenta.",
+    "provider": "https://github.com/armory-io",
+    "releases": [
+      {
+        "version": "0.0.2",
+        "date": "2023-12-08T16:04:17.590567Z",
+        "requires": "kayenta>=0.0.0,deck>=0.0.0",
+        "sha512sum": "dcb58097e76f0a32c952e008962b748983cbf1dc4ff9c8af994226bc1309a6dd79838c6a66d695b6fd0c1afb658e4a90f0eb5247e78736fa1a4d4c095047dcab",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/cloudwatch-metrics-0.0.2/cloudwatch-metrics-0.0.2.zip"
+      }
+    ]
   }
 ]
