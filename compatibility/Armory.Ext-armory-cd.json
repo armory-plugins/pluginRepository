@@ -319,8 +319,8 @@
         "name" : "igor-armory",
         "version" : "2022.09.14.16.39.54.master"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9215501289",
-      "startedAt" : "2022-11-01T00:22:29Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9346383074",
+      "startedAt" : "2022-11-07T21:11:53Z"
     }, {
       "service" : "igor",
       "version" : "2022.08.19.03.10.49.release-1.28.x",
