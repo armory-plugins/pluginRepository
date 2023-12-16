@@ -331,8 +331,8 @@
         "name" : "igor-armory",
         "version" : "2022.09.14.16.39.54.master"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9346383074",
-      "startedAt" : "2022-11-07T21:11:53Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9438285228",
+      "startedAt" : "2022-11-11T15:41:35Z"
     }, {
       "service" : "igor",
       "version" : "2022.08.19.03.10.49.release-1.28.x",
@@ -436,8 +436,8 @@
         "name" : "gate-armory",
         "version" : "2022.04.27.05.44.01.release-2.27.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9437850692",
-      "startedAt" : "2022-11-11T15:17:55Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-ext/runs/9438049582",
+      "startedAt" : "2022-11-11T15:28:25Z"
     }, {
       "service" : "gate",
       "version" : "2022.04.27.05.20.04.release-1.28.x",
