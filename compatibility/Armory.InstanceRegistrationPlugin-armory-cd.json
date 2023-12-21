@@ -23,6 +23,15 @@
       "startedAt" : "2023-12-21T03:46:17Z"
     }, {
       "service" : "gate",
+      "version" : "2023.09.01.15.44.50.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/19848423737",
+      "startedAt" : "2023-12-21T04:09:54Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.0", "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
@@ -41,6 +50,21 @@
       "startedAt" : "2023-12-21T03:46:30Z"
     }, {
       "service" : "gate",
+      "version" : "2023.08.29.05.01.02.release-1.31.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.31.1" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.08.29.16.19.53.release-2.31.x"
+      }, {
+        "name" : "gate-armory",
+        "version" : "2023.08.29.05.12.01.release-2.31.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/19848424598",
+      "startedAt" : "2023-12-21T04:09:58Z"
+    }, {
+      "service" : "gate",
       "version" : "2023.08.18.23.02.38.release-1.30.x",
       "outcome" : "success",
       "stacks" : [ "2.30.2-rc1", "2.30.1-rc2", "2.30.1-rc1", "2.30.2", "2.30.1" ],
@@ -54,6 +78,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/19848050645",
       "startedAt" : "2023-12-21T03:46:07Z"
+    }, {
+      "service" : "gate",
+      "version" : "2023.06.05.20.11.44.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.31.0" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2023.06.05.20.25.21.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/19848423367",
+      "startedAt" : "2023-12-21T04:09:53Z"
     }, {
       "service" : "gate",
       "version" : "2023.04.07.01.27.28.release-1.30.x",
