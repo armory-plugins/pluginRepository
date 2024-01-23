@@ -441,7 +441,10 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.01.23.14.57.49.release-2.32.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/19848424230",
       "startedAt" : "2023-12-21T04:09:59Z"
     }, {
