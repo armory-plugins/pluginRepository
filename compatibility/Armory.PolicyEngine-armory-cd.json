@@ -677,6 +677,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "front50-armory",
+        "version" : "2024.01.23.15.42.49.release-2.30.x"
+      }, {
+        "name" : "front50-armory",
         "version" : "2023.09.26.07.25.54.release-2.30.x"
       }, {
         "name" : "front50-armory",
@@ -692,6 +695,12 @@
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
+        "version" : "2024.01.23.15.54.17.release-2.32.x"
+      }, {
+        "name" : "front50-armory",
+        "version" : "2024.01.23.15.42.16.release-2.32.x"
+      }, {
+        "name" : "front50-armory",
         "version" : "2023.12.21.03.05.39.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/19848424361",
@@ -703,6 +712,9 @@
       "stacks" : [ "2.31.0", "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ "1.31.3", "1.31.2" ],
       "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.01.23.15.43.12.release-2.31.x"
+      }, {
         "name" : "front50-armory",
         "version" : "2023.10.12.06.05.58.release-2.31.x"
       }, {
