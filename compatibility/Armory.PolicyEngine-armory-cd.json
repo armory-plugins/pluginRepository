@@ -41,6 +41,9 @@
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.01.23.19.43.37.release-2.32.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.01.23.09.20.04.release-2.32.x"
       }, {
         "name" : "orca-armory",
@@ -443,6 +446,9 @@
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.01.23.19.44.45.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.01.23.14.57.49.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/19848424230",
@@ -694,6 +700,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.01.23.19.45.33.release-2.32.x"
+      }, {
         "name" : "front50-armory",
         "version" : "2024.01.23.15.54.17.release-2.32.x"
       }, {
@@ -1081,6 +1090,9 @@
       "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.01.23.19.43.51.release-2.32.x"
+      }, {
         "name" : "fiat-armory",
         "version" : "2024.01.23.16.09.57.release-2.32.x"
       }, {
