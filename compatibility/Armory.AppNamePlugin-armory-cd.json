@@ -434,6 +434,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.01.31.16.06.47.release-2.30.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2023.09.29.14.51.35.release-2.30.x"
       }, {
         "name" : "gate-armory",
@@ -452,6 +455,9 @@
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.01.31.16.05.53.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.01.23.19.44.45.release-2.32.x"
       }, {
         "name" : "gate-armory",
@@ -466,6 +472,9 @@
       "stacks" : [ "2.31.0", "2.31.0-rc3", "2.31.0-rc2", "2.31.0-rc1" ],
       "platforms" : [ "1.31.3", "1.31.2" ],
       "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.01.31.16.10.43.release-2.31.x"
+      }, {
         "name" : "gate-armory",
         "version" : "2023.10.12.06.06.55.release-2.31.x"
       }, {
