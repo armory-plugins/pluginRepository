@@ -438,6 +438,13 @@
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
+        "version": "0.2.2",
+        "date": "2024-02-01T08:25:13.244132Z",
+        "requires": "deck>=0.0.0",
+        "sha512sum": "200bd4c1df49d43fc1cd930e49369503c8a9bf4a129b625d0558533af852a376127d92d1b27ed88a8b4ef10814c9e99d6a886b080a48cf9b6f70f4c497aa875f",
+        "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.2.2/armory-header-v0.2.2.zip"
+      },
+      {
         "version": "0.2.1",
         "date": "2023-09-29T10:56:44.701137Z",
         "requires": "deck>=0.0.0",
