@@ -442,6 +442,7 @@
         "date": "2024-02-01T08:25:13.244132Z",
         "requires": "deck>=0.0.0",
         "sha512sum": "200bd4c1df49d43fc1cd930e49369503c8a9bf4a129b625d0558533af852a376127d92d1b27ed88a8b4ef10814c9e99d6a886b080a48cf9b6f70f4c497aa875f",
+        "state": "",
         "url": "https://github.com/armory-plugins/armory-header/releases/download/v0.2.2/armory-header-v0.2.2.zip"
       },
       {
@@ -960,6 +961,7 @@
         "date": "2023-12-19T18:49:55.177700Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "f09ac8128d2e88bc7a3c9ad412ff8e37a252659d51dad13ebbd00cc00cff90d567a58f681a4f4fc0500597791708e478e8536548c2015d4ada95b889d28ea93b",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/terraformer-0.1.1/terraformer-0.1.1.zip"
       },
       {
@@ -967,6 +969,7 @@
         "date": "2023-12-19T12:23:51.077325Z",
         "requires": "gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "698b893913facaa0ce75cab60c72832b41c6d59b4a73ee357e1b20b706029207d16d1a4f85a52bf7379cac2e8c75c0ba179e6ad2582fc1cfc10a814cd1c6ff82",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/terraformer-0.1.0/terraformer-0.1.0.zip"
       },
       {
@@ -1215,6 +1218,7 @@
         "date": "2023-11-21T15:53:39.115496Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "dce9d23f232e25577c9ddd4a115b5b448e2e2ef7668409a3a3625c29b01f867c31d7d4b48bb7c81b5e70676c21bc3b386cf852ad150fa2a6b89774c54a346bb3",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/github-integration-0.3.1/github-integration-0.3.1.zip"
       },
       {
@@ -1301,6 +1305,7 @@
         "date": "2023-11-23T15:32:01.396037Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "3fbbcf4e02322723dbc81fc4fb8459310c3cb9cbddb6cc5259791e735f427b217650607711b55f6dd1f2c716d5a88f9996178ce91a03adf3242c16f9f19e3839",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/self-serve-error-management-0.0.1/self-serve-error-management-0.0.1.zip"
       }
     ]
@@ -1315,6 +1320,7 @@
         "date": "2023-12-05T21:36:59.148960Z",
         "requires": "gate>=0.0.0,orca>=0.0.0",
         "sha512sum": "2e41c7e12cf8fb98f6255dc53c2a2986db84879e8ed0fc209f22b6aa18cf6d573d22ca932247c63bf27d34ba6e688ae2f5ec59f987bf950024a48a4e807c0e9b",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/insights-0.0.1/insights-0.0.1.zip"
       }
     ]
@@ -1329,6 +1335,7 @@
         "date": "2023-12-08T16:04:17.590567Z",
         "requires": "kayenta>=0.0.0,deck>=0.0.0",
         "sha512sum": "dcb58097e76f0a32c952e008962b748983cbf1dc4ff9c8af994226bc1309a6dd79838c6a66d695b6fd0c1afb658e4a90f0eb5247e78736fa1a4d4c095047dcab",
+        "state": "",
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/cloudwatch-metrics-0.0.2/cloudwatch-metrics-0.0.2.zip"
       }
     ]
