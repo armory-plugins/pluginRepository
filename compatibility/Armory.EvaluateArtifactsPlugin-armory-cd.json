@@ -40,7 +40,7 @@
       "service" : "orca",
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -287,7 +287,7 @@
       "service" : "orca",
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
