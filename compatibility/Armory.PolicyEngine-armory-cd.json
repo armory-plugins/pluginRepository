@@ -40,7 +40,7 @@
       "service" : "orca",
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -325,7 +325,7 @@
       "service" : "front50",
       "version" : "2023.09.05.18.32.03.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -454,7 +454,7 @@
       "service" : "fiat",
       "version" : "2023.08.24.21.54.55.master",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -622,7 +622,7 @@
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.43.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
