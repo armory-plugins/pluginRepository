@@ -31,7 +31,7 @@
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.43.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -245,7 +245,7 @@
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.43.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
