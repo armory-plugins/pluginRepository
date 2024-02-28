@@ -38,6 +38,9 @@
       "platforms" : [ "1.31.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.02.28.09.00.55.release-2.31.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.02.27.14.39.53.release-2.31.x"
       }, {
         "name" : "orca-armory",
@@ -302,6 +305,9 @@
       "stacks" : [ "2.31.1-rc1", "2.31.0", "2.31.0-rc3" ],
       "platforms" : [ "1.31.3" ],
       "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.02.28.09.00.55.release-2.31.x"
+      }, {
         "name" : "orca-armory",
         "version" : "2024.02.27.14.39.53.release-2.31.x"
       }, {
