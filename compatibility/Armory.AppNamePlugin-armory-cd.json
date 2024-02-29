@@ -5,6 +5,18 @@
     "versions" : [ "0.2.1" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2024.02.27.15.33.36.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.1-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.02.27.15.52.19.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/22038608571",
+      "startedAt" : "2024-02-27T15:59:39Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.02.13.00.21.01.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.0" ],
@@ -271,7 +283,7 @@
       "service" : "gate",
       "version" : "2024.02.01.16.29.20.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2" ],
+      "stacks" : [ "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -463,7 +475,7 @@
       "service" : "fiat",
       "version" : "2023.08.24.21.54.55.master",
       "outcome" : "success",
-      "stacks" : [ "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
+      "stacks" : [ "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -603,6 +615,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/21568385710",
       "startedAt" : "2024-02-14T14:15:01Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.02.27.14.37.13.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.1-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.02.27.15.07.53.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/22036845068",
+      "startedAt" : "2024-02-27T15:22:09Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.12.12.10.42.47.master",
