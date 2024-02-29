@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
+        "version" : "2024.02.29.19.23.00.release-2.32.x"
+      }, {
+        "name" : "clouddriver-armory",
         "version" : "2024.02.27.15.07.53.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/22036844565",
@@ -239,6 +242,9 @@
       "stacks" : [ "2.32.1-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.02.29.19.23.00.release-2.32.x"
+      }, {
         "name" : "clouddriver-armory",
         "version" : "2024.02.27.15.07.53.release-2.32.x"
       } ],
