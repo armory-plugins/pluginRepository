@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.02.29.19.19.09.release-2.32.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.02.27.15.52.19.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/22038608571",
