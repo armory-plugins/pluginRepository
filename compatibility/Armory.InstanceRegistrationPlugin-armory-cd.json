@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.03.01.09.18.12.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.02.27.08.29.49.release-2.32.x"
       }, {
         "name" : "gate-armory",
