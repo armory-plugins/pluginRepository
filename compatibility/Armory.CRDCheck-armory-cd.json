@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
+        "version" : "2024.03.01.09.15.46.release-2.32.x"
+      }, {
+        "name" : "clouddriver-armory",
         "version" : "2024.02.29.19.23.00.release-2.32.x"
       }, {
         "name" : "clouddriver-armory",
@@ -242,6 +245,9 @@
       "stacks" : [ "2.32.1-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.03.01.09.15.46.release-2.32.x"
+      }, {
         "name" : "clouddriver-armory",
         "version" : "2024.02.29.19.23.00.release-2.32.x"
       }, {
