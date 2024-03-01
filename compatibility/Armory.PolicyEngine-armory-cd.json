@@ -635,6 +635,9 @@
       "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
+        "version" : "2024.03.01.11.25.33.release-2.32.x"
+      }, {
+        "name" : "fiat-armory",
         "version" : "2024.01.24.16.14.16.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/21568391326",
