@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.03.01.09.17.06.release-2.32.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.02.29.19.19.09.release-2.32.x"
       }, {
         "name" : "orca-armory",
@@ -289,6 +292,9 @@
       "stacks" : [ "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.03.01.09.18.12.release-2.32.x"
+      }, {
         "name" : "gate-armory",
         "version" : "2024.02.27.08.29.49.release-2.32.x"
       }, {
@@ -625,6 +631,9 @@
       "stacks" : [ "2.32.1-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.03.01.09.15.46.release-2.32.x"
+      }, {
         "name" : "clouddriver-armory",
         "version" : "2024.02.29.19.23.00.release-2.32.x"
       }, {
