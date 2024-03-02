@@ -859,5 +859,9 @@
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/21568381679",
       "startedAt" : "2024-02-14T14:14:57Z"
     } ]
+  }, {
+    "commit" : "d3dc7897a0bdbf9c7877dd31348cf18a8f919ab3",
+    "versions" : [ "0.2.0" ],
+    "compatibility" : [ ]
   } ]
 }
