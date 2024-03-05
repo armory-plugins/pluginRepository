@@ -524,6 +524,9 @@
       "platforms" : [ "1.31.3", "1.31.2" ],
       "extensions" : [ {
         "name" : "front50-armory",
+        "version" : "2024.03.05.15.43.15.release-2.31.x"
+      }, {
+        "name" : "front50-armory",
         "version" : "2024.02.28.09.03.03.release-2.31.x"
       }, {
         "name" : "front50-armory",
