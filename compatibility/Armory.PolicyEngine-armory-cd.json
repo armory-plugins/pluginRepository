@@ -5,6 +5,18 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2024.03.08.19.21.42.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.4" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.03.08.19.41.39.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22451421604",
+      "startedAt" : "2024-03-08T19:50:30Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.02.27.15.33.36.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc2", "2.32.1-rc1" ],
@@ -287,6 +299,18 @@
       "startedAt" : "2024-03-06T09:55:48Z"
     }, {
       "service" : "gate",
+      "version" : "2024.03.08.19.17.43.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.4" ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.03.08.19.34.12.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22450944510",
+      "startedAt" : "2024-03-08T19:34:32Z"
+    }, {
+      "service" : "gate",
       "version" : "2024.02.01.16.29.20.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc2", "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2" ],
@@ -458,6 +482,18 @@
       "startedAt" : "2024-03-06T09:55:24Z"
     }, {
       "service" : "front50",
+      "version" : "2024.03.08.19.18.53.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.4" ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.03.08.19.35.36.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22450944062",
+      "startedAt" : "2024-03-08T19:34:31Z"
+    }, {
+      "service" : "front50",
       "version" : "2023.12.12.09.59.08.master",
       "outcome" : "success",
       "stacks" : [ ],
@@ -612,6 +648,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22335605295",
       "startedAt" : "2024-03-06T09:55:44Z"
+    }, {
+      "service" : "fiat",
+      "version" : "2024.03.08.16.48.59.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.4" ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.03.08.16.57.58.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22446227838",
+      "startedAt" : "2024-03-08T17:10:18Z"
     }, {
       "service" : "fiat",
       "version" : "2023.12.05.21.35.14.master",
@@ -783,6 +831,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22335607481",
       "startedAt" : "2024-03-06T09:55:47Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.03.08.19.52.28.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.4" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.03.08.20.08.23.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/22451965985",
+      "startedAt" : "2024-03-08T20:07:30Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.02.27.14.37.13.release-1.32.x",
