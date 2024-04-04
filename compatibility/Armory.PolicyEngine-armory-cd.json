@@ -5,6 +5,18 @@
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2024.04.02.15.59.15.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.04.04.10.23.05.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/23442062862",
+      "startedAt" : "2024-04-04T13:06:11Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.03.14.16.21.01.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ "2.31.1-rc2", "2.31.1" ],
@@ -311,6 +323,18 @@
       "startedAt" : "2024-04-03T14:15:59Z"
     }, {
       "service" : "gate",
+      "version" : "2024.03.25.21.57.21.release-1.32.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.03.25.22.27.15.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/23442062820",
+      "startedAt" : "2024-04-04T13:06:14Z"
+    }, {
+      "service" : "gate",
       "version" : "2024.03.08.19.17.43.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
@@ -496,7 +520,7 @@
       "service" : "front50",
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -664,7 +688,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -850,7 +874,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
