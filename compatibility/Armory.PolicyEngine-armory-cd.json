@@ -496,7 +496,7 @@
       "service" : "front50",
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "front50-armory",
@@ -664,7 +664,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -850,7 +850,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
