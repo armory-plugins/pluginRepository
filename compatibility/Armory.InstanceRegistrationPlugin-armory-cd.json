@@ -7,7 +7,7 @@
       "service" : "gate",
       "version" : "2024.03.25.21.57.21.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc2", "2.32.2-rc1" ],
+      "stacks" : [ "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
