@@ -7,7 +7,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -269,7 +269,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
