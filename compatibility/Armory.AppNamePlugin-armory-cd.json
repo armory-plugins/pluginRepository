@@ -17,6 +17,18 @@
       "startedAt" : "2024-04-16T22:55:48Z"
     }, {
       "service" : "orca",
+      "version" : "2024.04.15.22.28.52.release-1.32.x",
+      "outcome" : "success",
+      "stacks" : [ "2.32.2-rc5" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.04.15.22.46.06.release-2.32.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/23851797016",
+      "startedAt" : "2024-04-15T22:52:17Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.04.02.15.59.15.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1" ],
@@ -346,7 +358,7 @@
       "service" : "gate",
       "version" : "2024.03.25.21.57.21.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1" ],
+      "stacks" : [ "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -553,7 +565,7 @@
       "service" : "fiat",
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -751,7 +763,7 @@
       "service" : "clouddriver",
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
+      "stacks" : [ "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.1" ],
       "platforms" : [ "1.32.4" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
