@@ -5,6 +5,15 @@
     "versions" : [ "0.4.0" ],
     "compatibility" : [ {
       "service" : "clouddriver",
+      "version" : "2024.04.19.16.06.52.release-1.33.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.33.2" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/24033648828",
+      "startedAt" : "2024-04-19T16:24:56Z"
+    }, {
+      "service" : "clouddriver",
       "version" : "2024.04.18.17.26.20.release-1.34.x",
       "outcome" : "failure",
       "stacks" : [ ],
@@ -296,6 +305,15 @@
     "commit" : "6643d521a9c83f9518d07d1dbe4244e386779e3e",
     "versions" : [ "0.3.0" ],
     "compatibility" : [ {
+      "service" : "clouddriver",
+      "version" : "2024.04.19.16.06.52.release-1.33.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.33.2" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/24033648339",
+      "startedAt" : "2024-04-19T16:24:55Z"
+    }, {
       "service" : "clouddriver",
       "version" : "2024.04.18.17.26.20.release-1.34.x",
       "outcome" : "failure",
