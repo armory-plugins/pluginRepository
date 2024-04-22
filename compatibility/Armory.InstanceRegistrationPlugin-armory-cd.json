@@ -8,7 +8,7 @@
       "version" : "2024.04.17.00.47.42.release-1.33.x",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.33.1" ],
+      "platforms" : [ "1.33.2", "1.33.1" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/23905496286",
       "startedAt" : "2024-04-17T01:11:58Z"
