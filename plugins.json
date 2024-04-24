@@ -1048,6 +1048,13 @@
         "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.1.0-event-filter/event-filter-v0.1.0.zip"
       },
       {
+        "version": "0.0.5",
+        "date": "2024-04-23T15:56:53.360911Z",
+        "requires": "echo>=0.0.0",
+        "sha512sum": "7533be2b18a555f11e602d08e9853a310e71edf680892a1fbfc56ceff85d17becfd9f9ecd6f0b1470a6fcbd4d3dd8c13923c1fbc04d411aeb9f08de4c9a610bb",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v0.0.5-event-filter/event-filter-v0.0.5.zip"
+      },
+      {
         "version": "0.0.4",
         "date": "2023-09-22T14:48:43.138225Z",
         "requires": "echo>=0.0.0",
