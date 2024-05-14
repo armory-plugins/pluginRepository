@@ -7,7 +7,7 @@
       "service" : "orca",
       "version" : "2024.05.09.17.58.27.release-1.32.x",
       "outcome" : "success",
-      "stacks" : [ "2.32.3-rc2" ],
+      "stacks" : [ "2.32.3-rc3", "2.32.3-rc2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -386,7 +386,7 @@
       "service" : "orca",
       "version" : "2024.05.09.17.58.27.release-1.32.x",
       "outcome" : "failure",
-      "stacks" : [ "2.32.3-rc2" ],
+      "stacks" : [ "2.32.3-rc3", "2.32.3-rc2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
