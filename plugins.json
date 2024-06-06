@@ -399,6 +399,13 @@
     "provider": "https://github.com/armory-plugins",
     "releases": [
       {
+        "version": "0.2.0",
+        "date": "2024-06-06T08:24:11.163392Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "dc5b4ecf44776e95a078267c310abc38313ef166e22af004a541c878752458a26b6dbadcf29d3300458fdb1dfb3b4e22fda7c0da599a251697ce5242f524fab0",
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.2.0/evaluate-artifacts-v0.2.0.zip"
+      },
+      {
         "version": "0.1.1",
         "date": "2021-11-01T20:47:11.285511Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
