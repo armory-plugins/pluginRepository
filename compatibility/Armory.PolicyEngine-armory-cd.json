@@ -14,6 +14,18 @@
       "startedAt" : "2024-06-12T03:07:31Z"
     }, {
       "service" : "orca",
+      "version" : "2024.06.12.02.19.43.release-1.34.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.3" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.06.12.02.32.32.release-2.34.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/26107742123",
+      "startedAt" : "2024-06-12T02:36:41Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.05.09.17.58.27.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3" ],
@@ -257,7 +269,7 @@
       "version" : "2024.04.16.22.30.44.master",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.34.2", "1.34.1", "1.34.0" ],
+      "platforms" : [ "1.34.3", "1.34.2", "1.34.1", "1.34.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/25743176920",
       "startedAt" : "2024-06-03T15:43:40Z"
@@ -392,7 +404,7 @@
       "version" : "2024.04.16.22.32.00.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.34.2", "1.34.1", "1.34.0" ],
+      "platforms" : [ "1.34.3", "1.34.2", "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2024.04.16.22.51.44.master"
@@ -500,7 +512,7 @@
       "version" : "2024.04.06.04.25.40.master",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.34.2", "1.34.1", "1.34.0" ],
+      "platforms" : [ "1.34.3", "1.34.2", "1.34.1", "1.34.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.04.06.04.39.28.master"
@@ -624,6 +636,18 @@
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/26100025964",
       "startedAt" : "2024-06-11T21:41:27Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.06.11.19.47.52.release-1.34.x",
+      "outcome" : "failure",
+      "stacks" : [ ],
+      "platforms" : [ "1.34.3" ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.06.11.20.00.33.release-2.34.x"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/26096800012",
+      "startedAt" : "2024-06-11T20:06:56Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.05.07.00.14.24.release-1.32.x",
