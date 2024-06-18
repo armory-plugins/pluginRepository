@@ -50,6 +50,15 @@
       "startedAt" : "2024-06-18T21:34:36Z"
     }, {
       "service" : "orca",
+      "version" : "2024.04.17.00.52.59.release-1.33.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.33.2", "1.33.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26392733021",
+      "startedAt" : "2024-06-18T21:56:14Z"
+    }, {
+      "service" : "orca",
       "version" : "2024.04.16.22.34.47.master",
       "outcome" : "success",
       "stacks" : [ ],
@@ -140,6 +149,21 @@
       "startedAt" : "2024-06-18T21:34:42Z"
     }, {
       "service" : "orca",
+      "version" : "2023.12.12.10.03.50.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.33.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.12.14.17.44.13.master"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2023.12.12.10.24.55.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26392733621",
+      "startedAt" : "2024-06-18T21:56:15Z"
+    }, {
+      "service" : "orca",
       "version" : "2023.11.07.16.19.53.release-1.31.x",
       "outcome" : "success",
       "stacks" : [ "2.31.1-rc1", "2.31.0", "2.31.0-rc3" ],
@@ -204,6 +228,18 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26392056731",
       "startedAt" : "2024-06-18T21:34:23Z"
+    }, {
+      "service" : "orca",
+      "version" : "2023.08.29.18.18.43.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2023.08.29.18.41.17.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26392733045",
+      "startedAt" : "2024-06-18T21:56:14Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
