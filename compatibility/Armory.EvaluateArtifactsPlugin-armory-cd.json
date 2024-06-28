@@ -20,6 +20,9 @@
       "platforms" : [ "1.34.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2024.06.28.14.26.26.release-2.34.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2024.06.12.02.32.32.release-2.34.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26107741970",
@@ -275,6 +278,9 @@
       "stacks" : [ ],
       "platforms" : [ "1.34.3" ],
       "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2024.06.28.14.26.26.release-2.34.x"
+      }, {
         "name" : "orca-armory",
         "version" : "2024.06.12.02.32.32.release-2.34.x"
       } ],
