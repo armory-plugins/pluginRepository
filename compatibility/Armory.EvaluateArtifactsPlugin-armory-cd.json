@@ -16,7 +16,7 @@
       "service" : "orca",
       "version" : "2024.06.12.02.19.43.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.34.0-rc1" ],
       "platforms" : [ "1.34.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -275,7 +275,7 @@
       "service" : "orca",
       "version" : "2024.06.12.02.19.43.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ ],
+      "stacks" : [ "2.34.0-rc1" ],
       "platforms" : [ "1.34.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
