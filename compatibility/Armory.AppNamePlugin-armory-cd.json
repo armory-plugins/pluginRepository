@@ -398,6 +398,24 @@
       "startedAt" : "2024-06-27T15:14:53Z"
     }, {
       "service" : "fiat",
+      "version" : "2024.04.27.01.37.20.master",
+      "outcome" : "success",
+      "stacks" : [ "2.34.0-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "fiat-armory",
+        "version" : "2024.06.28.14.26.54.release-2.34.x"
+      }, {
+        "name" : "fiat-armory",
+        "version" : "2024.04.30.15.43.57.release-2.34.x"
+      }, {
+        "name" : "fiat-armory",
+        "version" : "2024.04.27.01.58.42.master"
+      } ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/26894500319",
+      "startedAt" : "2024-07-01T14:08:45Z"
+    }, {
+      "service" : "fiat",
       "version" : "2024.04.16.23.54.56.release-1.33.x",
       "outcome" : "success",
       "stacks" : [ ],
