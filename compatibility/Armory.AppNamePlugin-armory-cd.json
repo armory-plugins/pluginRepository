@@ -16,7 +16,7 @@
       "service" : "orca",
       "version" : "2024.06.12.02.19.43.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.0-rc1" ],
+      "stacks" : [ "2.34.0-rc2", "2.34.0-rc1" ],
       "platforms" : [ "1.34.3" ],
       "extensions" : [ {
         "name" : "orca-armory",
@@ -262,7 +262,7 @@
       "service" : "gate",
       "version" : "2024.04.17.02.19.43.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.0-rc1" ],
+      "stacks" : [ "2.34.0-rc2", "2.34.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
@@ -400,7 +400,7 @@
       "service" : "fiat",
       "version" : "2024.04.27.01.37.20.master",
       "outcome" : "success",
-      "stacks" : [ "2.34.0-rc1" ],
+      "stacks" : [ "2.34.0-rc2", "2.34.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
@@ -547,7 +547,7 @@
       "service" : "clouddriver",
       "version" : "2024.06.27.18.12.36.release-1.34.x",
       "outcome" : "success",
-      "stacks" : [ "2.34.0-rc1" ],
+      "stacks" : [ "2.34.0-rc2", "2.34.0-rc1" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
