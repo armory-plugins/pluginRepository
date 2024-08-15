@@ -1398,7 +1398,7 @@
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
         "sha512sum": "dd38caa8587a90ef94a1b2bc987b1aad9df12cade646b3881815ea4156a4bc4a65786d75de078c61903d7fc8251d70815585b033a002ef62f0a104bf57823acf",
         "state": "",
-        "url": "https://github.com/armory-plugins/armory-observability-plugin-releases/releases/download/v1.5.0/armory-observability-plugin-v1.5.0.zip"
+        "url": "https://github.com/armory-plugins/armory-observability-plugin/releases/download/v1.5.0/armory-observability-plugin-v1.5.0.zip"
       }
     ]
   }
