@@ -1391,6 +1391,14 @@
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
         "sha512sum": "49b88136892da538e227c163889db64e4d67bce12c187b592f7699f15c483f59807f88376f04e0d0a9985cd2a46a18490bbc56017583bab7f1815cec619fa570",
         "url": "https://github.com/armory-plugins/armory-observability-plugin/releases/download/v1.6.0/armory-observability-plugin-v1.6.0.zip"
+      },
+      {
+        "version": "1.5.0",
+        "date": "2024-04-11T08:43:03.560815Z",
+        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+        "sha512sum": "dd38caa8587a90ef94a1b2bc987b1aad9df12cade646b3881815ea4156a4bc4a65786d75de078c61903d7fc8251d70815585b033a002ef62f0a104bf57823acf",
+        "state": "",
+        "url": "https://github.com/armory-plugins/armory-observability-plugin-releases/releases/download/v1.5.0/armory-observability-plugin-v1.5.0.zip"
       }
     ]
   }
