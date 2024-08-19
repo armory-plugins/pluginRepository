@@ -20,7 +20,7 @@
       "version" : "2024.08.13.08.18.00.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.35.0" ],
+      "platforms" : [ "1.35.1", "1.35.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28695553017",
       "startedAt" : "2024-08-13T08:35:28Z"
