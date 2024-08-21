@@ -146,7 +146,7 @@
       "version" : "2024.03.08.19.21.42.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.03.08.19.41.39.release-2.32.x"
@@ -227,7 +227,7 @@
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.02.08.15.28.19.release-2.32.x"
@@ -264,18 +264,6 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/28175087319",
       "startedAt" : "2024-07-31T18:14:16Z"
-    }, {
-      "service" : "orca",
-      "version" : "2023.08.29.18.18.43.master",
-      "outcome" : "success",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ {
-        "name" : "orca-armory",
-        "version" : "2023.08.29.18.41.17.master"
-      } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/26392733045",
-      "startedAt" : "2024-06-18T21:56:14Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
@@ -438,7 +426,7 @@
       "version" : "2024.03.08.19.21.42.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.03.08.19.41.39.release-2.32.x"
@@ -519,7 +507,7 @@
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.02.08.15.28.19.release-2.32.x"
@@ -556,18 +544,6 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/28175086879",
       "startedAt" : "2024-07-31T18:14:15Z"
-    }, {
-      "service" : "orca",
-      "version" : "2023.08.29.18.18.43.master",
-      "outcome" : "success",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ {
-        "name" : "orca-armory",
-        "version" : "2023.08.29.18.41.17.master"
-      } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/25743177068",
-      "startedAt" : "2024-06-03T15:43:38Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
@@ -673,7 +649,7 @@
       "version" : "2024.03.08.19.21.42.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.03.08.19.41.39.release-2.32.x"
@@ -754,7 +730,7 @@
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.02.08.15.28.19.release-2.32.x"
@@ -791,18 +767,6 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/25731340697",
       "startedAt" : "2024-06-03T11:53:29Z"
-    }, {
-      "service" : "orca",
-      "version" : "2023.08.29.18.18.43.master",
-      "outcome" : "failure",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ {
-        "name" : "orca-armory",
-        "version" : "2023.08.29.18.41.17.master"
-      } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/evaluate-artifacts/runs/25743177054",
-      "startedAt" : "2024-06-03T15:43:39Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
