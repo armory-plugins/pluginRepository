@@ -21,7 +21,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.08.21.11.22.58.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28695553017",
       "startedAt" : "2024-08-13T08:35:28Z"
     }, {
@@ -34,8 +37,8 @@
         "name" : "gate-armory",
         "version" : "2024.07.01.11.01.36.release-2.34.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175107959",
-      "startedAt" : "2024-07-31T18:14:44Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057479187",
+      "startedAt" : "2024-08-21T13:06:54Z"
     }, {
       "service" : "gate",
       "version" : "2024.04.17.00.47.42.release-1.33.x",
@@ -64,8 +67,8 @@
         "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175088295",
-      "startedAt" : "2024-07-31T18:14:16Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057453806",
+      "startedAt" : "2024-08-21T13:06:27Z"
     }, {
       "service" : "gate",
       "version" : "2024.03.08.19.17.43.release-1.32.x",
@@ -76,8 +79,8 @@
         "name" : "gate-armory",
         "version" : "2024.03.08.19.34.12.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175103189",
-      "startedAt" : "2024-07-31T18:14:37Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057471788",
+      "startedAt" : "2024-08-21T13:06:45Z"
     }, {
       "service" : "gate",
       "version" : "2024.02.01.16.29.20.release-1.32.x",
@@ -94,8 +97,8 @@
         "name" : "gate-armory",
         "version" : "2024.02.01.16.44.24.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175093057",
-      "startedAt" : "2024-07-31T18:14:22Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057458830",
+      "startedAt" : "2024-08-21T13:06:34Z"
     }, {
       "service" : "gate",
       "version" : "2023.12.12.09.59.18.master",
@@ -130,8 +133,8 @@
         "name" : "gate-armory",
         "version" : "2024.01.23.14.57.49.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175103827",
-      "startedAt" : "2024-07-31T18:14:37Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057473299",
+      "startedAt" : "2024-08-21T13:06:46Z"
     }, {
       "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
@@ -160,8 +163,8 @@
         "name" : "gate-armory",
         "version" : "2023.09.01.16.17.50.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/28175078307",
-      "startedAt" : "2024-07-31T18:14:04Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057439561",
+      "startedAt" : "2024-08-21T13:06:13Z"
     } ]
   } ]
 }
