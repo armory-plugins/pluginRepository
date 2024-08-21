@@ -146,7 +146,7 @@
       "version" : "2024.03.08.19.21.42.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.03.08.19.41.39.release-2.32.x"
@@ -227,7 +227,7 @@
       "version" : "2023.11.07.00.08.45.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
         "version" : "2024.02.08.15.28.19.release-2.32.x"
@@ -264,18 +264,6 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/28175087277",
       "startedAt" : "2024-07-31T18:14:16Z"
-    }, {
-      "service" : "orca",
-      "version" : "2023.08.29.18.18.43.master",
-      "outcome" : "failure",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ {
-        "name" : "orca-armory",
-        "version" : "2023.08.29.18.41.17.master"
-      } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/25743176909",
-      "startedAt" : "2024-06-03T15:43:39Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
@@ -359,7 +347,7 @@
       "version" : "2024.03.08.19.17.43.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc3", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2024.03.08.19.34.12.release-2.32.x"
@@ -398,7 +386,7 @@
       "version" : "2023.09.01.15.44.50.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2024.02.01.15.26.18.release-2.32.x"
@@ -521,7 +509,7 @@
       "version" : "2024.03.08.19.18.53.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2024.03.08.19.35.36.release-2.32.x"
@@ -545,7 +533,7 @@
       "version" : "2023.09.05.18.32.03.release-1.32.x",
       "outcome" : "success",
       "stacks" : [ "2.32.1-rc2", "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "front50-armory",
         "version" : "2024.03.05.15.55.17.release-2.32.x"
@@ -668,7 +656,7 @@
       "version" : "2024.03.08.16.48.59.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.3-rc3", "2.32.3-rc2", "2.32.3-rc1", "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.3", "2.32.2", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.04.03.10.25.13.release-2.32.x"
@@ -707,7 +695,7 @@
       "version" : "2023.08.24.21.54.55.master",
       "outcome" : "failure",
       "stacks" : [ "2.32.1-rc2", "2.32.1-rc1", "2.32.0", "2.32.0-rc4", "2.32.0-rc3", "2.32.0-rc2", "2.32.0-rc1" ],
-      "platforms" : [ "1.32.3", "1.32.2", "1.32.1", "1.32.0" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.03.01.11.25.33.release-2.32.x"
@@ -911,7 +899,7 @@
       "version" : "2024.03.08.19.52.28.release-1.32.x",
       "outcome" : "failure",
       "stacks" : [ "2.32.2-rc6", "2.32.2-rc5", "2.32.2-rc4", "2.32.2-rc3", "2.32.2-rc2", "2.32.2-rc1", "2.32.1-rc3", "2.32.2", "2.32.1" ],
-      "platforms" : [ "1.32.4" ],
+      "platforms" : [ ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
         "version" : "2024.03.08.20.08.23.release-2.32.x"
@@ -1004,15 +992,6 @@
       "startedAt" : "2024-07-31T18:14:24Z"
     }, {
       "service" : "clouddriver",
-      "version" : "2023.11.20.21.45.13.release-1.32.x",
-      "outcome" : "failure",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.3" ],
-      "extensions" : [ ],
-      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/25743178941",
-      "startedAt" : "2024-06-03T15:43:43Z"
-    }, {
-      "service" : "clouddriver",
       "version" : "2023.09.20.19.42.06.release-1.31.x",
       "outcome" : "failure",
       "stacks" : [ "2.31.0-rc2", "2.31.0-rc1" ],
@@ -1032,18 +1011,6 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/28175079171",
       "startedAt" : "2024-07-31T18:14:06Z"
-    }, {
-      "service" : "clouddriver",
-      "version" : "2023.08.29.18.44.20.master",
-      "outcome" : "failure",
-      "stacks" : [ ],
-      "platforms" : [ "1.32.2", "1.32.1", "1.32.0" ],
-      "extensions" : [ {
-        "name" : "clouddriver-armory",
-        "version" : "2023.08.29.19.03.03.master"
-      } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/25743177076",
-      "startedAt" : "2024-06-03T15:43:42Z"
     } ]
   } ]
 }
