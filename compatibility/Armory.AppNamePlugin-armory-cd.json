@@ -34,8 +34,8 @@
         "name" : "orca-armory",
         "version" : "2024.07.17.09.36.19.release-2.34.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175109409",
-      "startedAt" : "2024-07-31T18:14:45Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057479905",
+      "startedAt" : "2024-08-21T13:06:55Z"
     }, {
       "service" : "orca",
       "version" : "2024.06.12.02.21.19.release-1.33.x",
@@ -58,8 +58,8 @@
         "name" : "orca-armory",
         "version" : "2024.06.12.02.32.32.release-2.34.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175108702",
-      "startedAt" : "2024-07-31T18:14:44Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057475705",
+      "startedAt" : "2024-08-21T13:06:50Z"
     }, {
       "service" : "orca",
       "version" : "2024.05.09.17.58.27.release-1.32.x",
@@ -70,8 +70,8 @@
         "name" : "orca-armory",
         "version" : "2024.05.09.18.13.00.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175098216",
-      "startedAt" : "2024-07-31T18:14:29Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057464128",
+      "startedAt" : "2024-08-21T13:06:37Z"
     }, {
       "service" : "orca",
       "version" : "2024.05.07.00.09.39.release-1.32.x",
@@ -82,8 +82,8 @@
         "name" : "orca-armory",
         "version" : "2024.05.07.00.30.50.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175097651",
-      "startedAt" : "2024-07-31T18:14:30Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057462863",
+      "startedAt" : "2024-08-21T13:06:36Z"
     }, {
       "service" : "orca",
       "version" : "2024.04.17.00.52.59.release-1.33.x",
@@ -115,8 +115,8 @@
         "name" : "orca-armory",
         "version" : "2024.04.15.22.46.06.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175089105",
-      "startedAt" : "2024-07-31T18:14:17Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057454436",
+      "startedAt" : "2024-08-21T13:06:30Z"
     }, {
       "service" : "orca",
       "version" : "2024.04.02.15.59.15.release-1.32.x",
@@ -127,8 +127,8 @@
         "name" : "orca-armory",
         "version" : "2024.04.04.10.23.05.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175099301",
-      "startedAt" : "2024-07-31T18:14:31Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057466476",
+      "startedAt" : "2024-08-21T13:06:40Z"
     }, {
       "service" : "orca",
       "version" : "2024.03.14.16.21.01.release-1.31.x",
@@ -139,8 +139,8 @@
         "name" : "orca-armory",
         "version" : "2024.03.14.16.52.46.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175081913",
-      "startedAt" : "2024-07-31T18:14:08Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057444690",
+      "startedAt" : "2024-08-21T13:06:19Z"
     }, {
       "service" : "orca",
       "version" : "2024.03.08.19.21.42.release-1.32.x",
@@ -151,8 +151,8 @@
         "name" : "orca-armory",
         "version" : "2024.03.08.19.41.39.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175103450",
-      "startedAt" : "2024-07-31T18:14:37Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057471604",
+      "startedAt" : "2024-08-21T13:06:47Z"
     }, {
       "service" : "orca",
       "version" : "2024.02.27.15.33.36.release-1.32.x",
@@ -169,8 +169,8 @@
         "name" : "orca-armory",
         "version" : "2024.02.27.15.52.19.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175099398",
-      "startedAt" : "2024-07-31T18:14:32Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057466503",
+      "startedAt" : "2024-08-21T13:06:40Z"
     }, {
       "service" : "orca",
       "version" : "2024.02.13.00.21.01.release-1.32.x",
@@ -181,8 +181,8 @@
         "name" : "orca-armory",
         "version" : "2024.02.13.08.55.38.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175101651",
-      "startedAt" : "2024-07-31T18:14:35Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057470864",
+      "startedAt" : "2024-08-21T13:06:46Z"
     }, {
       "service" : "orca",
       "version" : "2023.12.12.10.03.50.master",
@@ -220,8 +220,8 @@
         "name" : "orca-armory",
         "version" : "2023.11.07.16.49.32.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175085315",
-      "startedAt" : "2024-07-31T18:14:12Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057446267",
+      "startedAt" : "2024-08-21T13:06:20Z"
     }, {
       "service" : "orca",
       "version" : "2023.11.07.00.08.45.release-1.32.x",
@@ -250,8 +250,8 @@
         "name" : "orca-armory",
         "version" : "2023.12.21.02.59.59.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175093519",
-      "startedAt" : "2024-07-31T18:14:24Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057460230",
+      "startedAt" : "2024-08-21T13:06:34Z"
     }, {
       "service" : "orca",
       "version" : "2023.10.18.06.01.58.release-1.31.x",
@@ -262,8 +262,8 @@
         "name" : "orca-armory",
         "version" : "2023.10.18.06.20.42.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175087288",
-      "startedAt" : "2024-07-31T18:14:15Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057449162",
+      "startedAt" : "2024-08-21T13:06:25Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.01.22.15.58.master",
@@ -277,8 +277,8 @@
         "name" : "orca-armory",
         "version" : "2022.04.04.16.22.09.master"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175078704",
-      "startedAt" : "2024-07-31T18:14:04Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057439643",
+      "startedAt" : "2024-08-21T13:06:13Z"
     }, {
       "service" : "gate",
       "version" : "2024.08.17.03.15.23.release-1.34.x",
@@ -297,7 +297,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.2", "1.35.1", "1.35.0" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "gate-armory",
+        "version" : "2024.08.21.11.22.58.master"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28695552896",
       "startedAt" : "2024-08-13T08:35:28Z"
     }, {
@@ -310,8 +313,8 @@
         "name" : "gate-armory",
         "version" : "2024.07.01.11.01.36.release-2.34.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175108419",
-      "startedAt" : "2024-07-31T18:14:42Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057474219",
+      "startedAt" : "2024-08-21T13:06:47Z"
     }, {
       "service" : "gate",
       "version" : "2024.04.17.00.47.42.release-1.33.x",
@@ -340,8 +343,8 @@
         "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175088221",
-      "startedAt" : "2024-07-31T18:14:17Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057455139",
+      "startedAt" : "2024-08-21T13:06:30Z"
     }, {
       "service" : "gate",
       "version" : "2024.03.08.19.17.43.release-1.32.x",
@@ -352,8 +355,8 @@
         "name" : "gate-armory",
         "version" : "2024.03.08.19.34.12.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175103435",
-      "startedAt" : "2024-07-31T18:14:36Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057471706",
+      "startedAt" : "2024-08-21T13:06:46Z"
     }, {
       "service" : "gate",
       "version" : "2024.02.01.16.29.20.release-1.32.x",
@@ -370,8 +373,8 @@
         "name" : "gate-armory",
         "version" : "2024.02.01.16.44.24.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175094015",
-      "startedAt" : "2024-07-31T18:14:24Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057460260",
+      "startedAt" : "2024-08-21T13:06:38Z"
     }, {
       "service" : "gate",
       "version" : "2023.12.12.09.59.18.master",
@@ -406,8 +409,8 @@
         "name" : "gate-armory",
         "version" : "2024.01.23.14.57.49.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175103910",
-      "startedAt" : "2024-07-31T18:14:37Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057474353",
+      "startedAt" : "2024-08-21T13:06:47Z"
     }, {
       "service" : "gate",
       "version" : "2023.09.01.15.43.46.release-1.31.x",
@@ -436,8 +439,8 @@
         "name" : "gate-armory",
         "version" : "2023.09.01.16.17.50.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175077849",
-      "startedAt" : "2024-07-31T18:14:02Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057440192",
+      "startedAt" : "2024-08-21T13:06:14Z"
     }, {
       "service" : "fiat",
       "version" : "2024.08.16.23.56.14.release-1.34.x",
@@ -475,8 +478,8 @@
         "name" : "fiat-armory",
         "version" : "2024.04.27.01.58.42.master"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175108432",
-      "startedAt" : "2024-07-31T18:14:45Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057475070",
+      "startedAt" : "2024-08-21T13:06:48Z"
     }, {
       "service" : "fiat",
       "version" : "2024.04.16.23.54.56.release-1.33.x",
@@ -511,8 +514,8 @@
         "name" : "fiat-armory",
         "version" : "2024.03.08.16.57.58.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175088824",
-      "startedAt" : "2024-07-31T18:14:18Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057453857",
+      "startedAt" : "2024-08-21T13:06:28Z"
     }, {
       "service" : "fiat",
       "version" : "2023.12.05.21.35.14.master",
@@ -535,8 +538,8 @@
         "name" : "fiat-armory",
         "version" : "2023.11.22.15.42.19.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175080927",
-      "startedAt" : "2024-07-31T18:14:07Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057444686",
+      "startedAt" : "2024-08-21T13:06:18Z"
     }, {
       "service" : "fiat",
       "version" : "2023.08.24.21.54.55.master",
@@ -550,8 +553,8 @@
         "name" : "fiat-armory",
         "version" : "2024.01.24.16.14.16.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175093288",
-      "startedAt" : "2024-07-31T18:14:22Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057460304",
+      "startedAt" : "2024-08-21T13:06:36Z"
     }, {
       "service" : "fiat",
       "version" : "2023.02.20.19.50.58.master",
@@ -604,8 +607,8 @@
         "name" : "fiat-armory",
         "version" : "2023.02.20.20.00.50.master"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175077821",
-      "startedAt" : "2024-07-31T18:14:02Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057439556",
+      "startedAt" : "2024-08-21T13:06:14Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.08.20.16.45.10.release-1.35.x",
@@ -658,8 +661,8 @@
         "name" : "clouddriver-armory",
         "version" : "2024.06.28.08.16.48.release-2.34.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175107837",
-      "startedAt" : "2024-07-31T18:14:42Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057479290",
+      "startedAt" : "2024-08-21T13:06:52Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.06.11.21.28.47.release-1.33.x",
@@ -691,8 +694,8 @@
         "name" : "clouddriver-armory",
         "version" : "2024.05.07.00.28.50.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175096849",
-      "startedAt" : "2024-07-31T18:14:28Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057462177",
+      "startedAt" : "2024-08-21T13:06:35Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.04.19.16.06.52.release-1.33.x",
@@ -751,8 +754,8 @@
         "name" : "clouddriver-armory",
         "version" : "2024.03.08.20.08.23.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175088203",
-      "startedAt" : "2024-07-31T18:14:17Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057454279",
+      "startedAt" : "2024-08-21T13:06:29Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.02.27.14.37.13.release-1.32.x",
@@ -769,8 +772,8 @@
         "name" : "clouddriver-armory",
         "version" : "2024.02.27.15.07.53.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175099021",
-      "startedAt" : "2024-07-31T18:14:32Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057469038",
+      "startedAt" : "2024-08-21T13:06:43Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.02.27.14.37.01.release-1.31.x",
@@ -784,8 +787,8 @@
         "name" : "clouddriver-armory",
         "version" : "2024.02.27.15.07.38.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175084344",
-      "startedAt" : "2024-07-31T18:14:12Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057444889",
+      "startedAt" : "2024-08-21T13:06:19Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.12.12.10.42.47.master",
@@ -811,8 +814,8 @@
         "name" : "clouddriver-armory",
         "version" : "2023.11.22.09.16.59.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175085310",
-      "startedAt" : "2024-07-31T18:14:11Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057446297",
+      "startedAt" : "2024-08-21T13:06:21Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.11.22.08.49.43.release-1.32.x",
@@ -835,8 +838,8 @@
         "name" : "clouddriver-armory",
         "version" : "2023.12.21.02.57.29.release-2.32.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175093336",
-      "startedAt" : "2024-07-31T18:14:24Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057460318",
+      "startedAt" : "2024-08-21T13:06:36Z"
     }, {
       "service" : "clouddriver",
       "version" : "2023.09.20.19.42.06.release-1.31.x",
@@ -856,8 +859,8 @@
         "name" : "clouddriver-armory",
         "version" : "2023.09.20.20.00.47.release-2.31.x"
       } ],
-      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28175077783",
-      "startedAt" : "2024-07-31T18:14:05Z"
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057439560",
+      "startedAt" : "2024-08-21T13:06:12Z"
     } ]
   }, {
     "commit" : "d3dc7897a0bdbf9c7877dd31348cf18a8f919ab3",
