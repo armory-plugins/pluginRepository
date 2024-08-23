@@ -8,7 +8,7 @@
       "version" : "2024.08.20.16.45.10.release-1.35.x",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.35.2" ],
+      "platforms" : [ "1.35.3", "1.35.2" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/29013828262",
       "startedAt" : "2024-08-20T17:03:12Z"
@@ -264,7 +264,7 @@
       "version" : "2024.08.20.16.45.10.release-1.35.x",
       "outcome" : "failure",
       "stacks" : [ ],
-      "platforms" : [ "1.35.2" ],
+      "platforms" : [ "1.35.3", "1.35.2" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/armory-crdcheck-plugin/runs/29013828237",
       "startedAt" : "2024-08-20T17:03:11Z"
