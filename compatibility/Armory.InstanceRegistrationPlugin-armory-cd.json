@@ -65,6 +65,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "gate-armory",
+        "version" : "2024.08.26.11.53.09.release-2.32.x"
+      }, {
+        "name" : "gate-armory",
         "version" : "2024.03.25.22.27.15.release-2.32.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/instance-registration/runs/29057453806",
