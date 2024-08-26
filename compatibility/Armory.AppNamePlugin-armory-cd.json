@@ -512,6 +512,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "fiat-armory",
+        "version" : "2024.08.26.11.04.40.release-2.32.x"
+      }, {
+        "name" : "fiat-armory",
         "version" : "2024.04.03.10.25.13.release-2.32.x"
       }, {
         "name" : "fiat-armory",
