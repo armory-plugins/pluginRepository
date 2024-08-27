@@ -20,7 +20,7 @@
       "version" : "2024.08.13.08.26.10.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
+      "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/28696378226",
       "startedAt" : "2024-08-13T08:52:40Z"
@@ -296,7 +296,7 @@
       "version" : "2024.08.13.08.18.00.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
+      "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
         "name" : "gate-armory",
         "version" : "2024.08.21.11.22.58.master"
@@ -461,7 +461,7 @@
       "version" : "2024.08.06.19.16.43.master",
       "outcome" : "success",
       "stacks" : [ ],
-      "platforms" : [ "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
+      "platforms" : [ "1.35.4", "1.35.3", "1.35.2", "1.35.1", "1.35.0" ],
       "extensions" : [ {
         "name" : "fiat-armory",
         "version" : "2024.08.26.10.09.17.master"
@@ -618,6 +618,15 @@
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29057439556",
       "startedAt" : "2024-08-21T13:06:14Z"
+    }, {
+      "service" : "clouddriver",
+      "version" : "2024.08.27.16.52.09.release-1.35.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.35.4" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29323520300",
+      "startedAt" : "2024-08-27T17:21:13Z"
     }, {
       "service" : "clouddriver",
       "version" : "2024.08.20.16.45.10.release-1.35.x",
