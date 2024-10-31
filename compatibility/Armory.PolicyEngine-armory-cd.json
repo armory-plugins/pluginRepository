@@ -303,7 +303,10 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.35.4", "1.35.3" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "front50-armory",
+        "version" : "2024.10.31.10.12.52.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/29176599009",
       "startedAt" : "2024-08-23T16:41:28Z"
     }, {
@@ -570,7 +573,10 @@
       "outcome" : "failure",
       "stacks" : [ ],
       "platforms" : [ "1.35.4" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.10.31.10.08.08.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/29323520696",
       "startedAt" : "2024-08-27T17:21:11Z"
     }, {
