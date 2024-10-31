@@ -414,7 +414,10 @@
       "outcome" : "success",
       "stacks" : [ ],
       "platforms" : [ "1.35.4" ],
-      "extensions" : [ ],
+      "extensions" : [ {
+        "name" : "clouddriver-armory",
+        "version" : "2024.10.31.10.08.08.release-2.35.x"
+      } ],
       "checkRunUrl" : "https://github.com/armory-plugins/appname-plugin/runs/29323520300",
       "startedAt" : "2024-08-27T17:21:13Z"
     }, {
