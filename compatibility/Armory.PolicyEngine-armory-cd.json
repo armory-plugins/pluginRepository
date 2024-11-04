@@ -305,6 +305,9 @@
       "platforms" : [ "1.35.4", "1.35.3" ],
       "extensions" : [ {
         "name" : "front50-armory",
+        "version" : "2024.11.04.22.29.54.release-2.35.x"
+      }, {
+        "name" : "front50-armory",
         "version" : "2024.10.31.10.12.52.release-2.35.x"
       } ],
       "checkRunUrl" : "https://github.com/armory-plugins/policy-engine/runs/29176599009",
