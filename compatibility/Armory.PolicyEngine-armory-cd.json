@@ -301,7 +301,7 @@
       "service" : "front50",
       "version" : "2024.08.23.16.11.34.release-1.35.x",
       "outcome" : "failure",
-      "stacks" : [ ],
+      "stacks" : [ "2.35.0-rc1" ],
       "platforms" : [ "1.35.4", "1.35.3" ],
       "extensions" : [ {
         "name" : "front50-armory",
