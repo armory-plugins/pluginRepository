@@ -7,7 +7,7 @@
       "service" : "clouddriver",
       "version" : "2024.11.20.00.29.49.master",
       "outcome" : "failure",
-      "stacks" : [ ],
+      "stacks" : [ "2.36.0-rc1" ],
       "platforms" : [ "1.36.0" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
@@ -152,7 +152,7 @@
       "service" : "clouddriver",
       "version" : "2024.11.20.00.29.49.master",
       "outcome" : "failure",
-      "stacks" : [ ],
+      "stacks" : [ "2.36.0-rc1" ],
       "platforms" : [ "1.36.0" ],
       "extensions" : [ {
         "name" : "clouddriver-armory",
