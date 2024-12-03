@@ -96,14 +96,6 @@
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "eda05055a3e3511a7119f5ca808ad2a4fbb6e4059fd27ffd8db9082b2ae962c66d33556e69bc052412aefe361fcf8627a802575aa6e86863a2111d7adabf20af",
         "state": "",
-        "url": "https://github.com/armory-plugins/policy-engine/releases/download/v0.4.0/policy-engine-0.4.0.zip"
-      },
-      {
-        "version": "0.4.0",
-        "date": "2024-12-02T18:03:34.815556471Z",
-        "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "eda05055a3e3511a7119f5ca808ad2a4fbb6e4059fd27ffd8db9082b2ae962c66d33556e69bc052412aefe361fcf8627a802575aa6e86863a2111d7adabf20af",
-        "state": "",
         "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.4.0/policy-engine-0.4.0.zip"
       },
       {
