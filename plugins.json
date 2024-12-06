@@ -75,22 +75,6 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
-        "version": "0.4.0-snapshot.edgar.002",
-        "date": "2024-12-03T00:56:15.404504857Z",
-        "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "e9377b8383f88561e177fb2356c1b4df437cc1d6d62fffb73f80df685c07ede3610ed44285c2a72b9e5ad0952c0ff61f3167fee419f54f0d49c5e4b4bd1633ed",
-        "state": "",
-        "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.4.0-snapshot.edgar.002/policy-engine-0.4.0-snapshot.edgar.002.zip"
-      },
-      {
-        "version": "0.4.0-snapshot.edgar.001",
-        "date": "2024-12-02T22:39:47.457486005Z",
-        "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "5ed526d7971c151d1114120e5430e370bbcaeaa8c1fb3930c978534725c474e3d6a7204bfbcf84d5b7ac20487f0064f115273ae60aab08f0f4638833bd43b030",
-        "state": "",
-        "url": "https://github.com/armory-plugins/policy-engine-releases/releases/download/v0.4.0-snapshot.edgar.001/policy-engine-0.4.0-snapshot.edgar.001.zip"
-      },
-      {
         "version": "0.4.0",
         "date": "2024-12-02T18:03:34.815556471Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
