@@ -1397,6 +1397,13 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.0.3",
+        "date": "2025-02-07T19:09:47.642737Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "331bc99f742cff523de9378ba6d32c383ed44d743c56867c24051a2ad3a5b0d7280ba761713fb7b920cd3d0fbc3cce9f24d50ffa27d8db6276fd853f36a31a0f",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/self-serve-error-management-0.0.3/self-serve-error-management-0.0.3.zip"
+      },
+      {
         "version": "0.0.1",
         "date": "2023-11-23T15:32:01.396037Z",
         "requires": "clouddriver>=0.0.0",
