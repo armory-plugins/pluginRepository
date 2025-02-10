@@ -810,11 +810,11 @@
     "releases": [
       {
         "version": "2.0.6",
-        "date": "2025-02-10T19:58:26.966305Z",
+        "date": "2025-02-10T20:38:02.160996Z",
         "requires": "clouddriver>=0.0.0",
-        "sha512sum": "a964a5be826498fa8eeaf9562a170ffa81a3164f6529f672f30ba6f2d02583f16a32306e0ce500b19896c9834cfc640e5f7c7c635511fa982975b78893154b33",
+        "sha512sum": "500840c8b709e8efb2b11ad8f3a4483b23db433d012f4cd521bf542cc64b1a8065b37abf11ce5aeb504d97a4af033fa200213e5e6e0222bacd2a53ec3516eac8",
         "state": "",
-        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/v2.0.6-k8s-custom-resource-status/k8s-custom-resource-status-2.0.6.zip"
+        "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/2.0.6/k8s-custom-resource-status-2.0.6.zip"
       },
       {
         "version": "3.1.5",
