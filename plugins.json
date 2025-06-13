@@ -1481,11 +1481,11 @@
     "provider": "https://github.com/armory-io",
     "releases": [
       {
-        "version": "0.0.5",
-        "date": "2025-06-12T12:44:19.103504521Z",
+        "version": "0.0.7",
+        "date": "2025-06-13T15:16:54.086110352Z",
         "requires": "gate>=0.0.0,deck>=0.0.0",
-        "sha512sum": "1ebba5b90880ce9117601ecaaac69746d2a03f7c82afcb727708e3da4497e7c9fe94f7e479ee42bc080a8fc4fd6d734cf27b15315c0dcdb1ce87f294f9e8532a",
-        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/global-banner-0.0.5/global-banner-0.0.5.zip"
+        "sha512sum": "252135e014cc336e667b0e649132414cbba406b9ec363b185cfc7d464f591fa2296d4528d83a078f836fca78ab6380a7a295190c5af02f46a92c55f0b4d60301",
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/global-banner-0.0.7/global-banner-0.0.7.zip"
       }
     ]
   }
