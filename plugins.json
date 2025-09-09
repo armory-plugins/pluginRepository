@@ -5,6 +5,13 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.6.0",
+        "date": "2025-09-09T15:26:43.255812420Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "56a771aaf899579bf037571c8ad6b1d438785965eeaa695c7d0a98d02803b241430ae377e6961d8ee938d7ccae1dd7ac0f53e684e87a60853ad354feb7f5a3dc",
+        "url": "https://github.com/armory-plugins/external-accounts-releases/releases/download/v0.5.2/external-accounts-v0.5.2.zip"
+      },
+      {
         "version": "0.1.0",
         "date": "2020-12-16T15:50:07.761125Z",
         "requires": "clouddriver>=0.0.0",
