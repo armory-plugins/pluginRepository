@@ -1,6 +1,6 @@
 [
     {
       "id": "ArmoryPluginsRepo",
-      "url": "https://raw.githubusercontent.com/armory-plugins/pluginRepository/master/plugins.json"
+      "url": "https://raw.githubusercontent.com/coveord/spinnaker-armory-plugin-repository/main/plugins.json"
     }
 ]
