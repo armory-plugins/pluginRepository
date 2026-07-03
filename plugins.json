@@ -435,7 +435,7 @@
         "date": "2026-07-03T09:35:40.652463518Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "0836b282377befcd486dfc494b12ed5aacf654138eae0aafeef094e1266d2635313a6d382520d41e993ea6885a3583bcd5fc6a24b2054b2b68729f3d1b44d435",
-        "url": "https://github.com//releases/download/v0.3.0/evaluate-artifacts-0.3.0.zip"
+        "url": "https://github.com/armory-plugins/evaluate-artifacts/releases/download/v0.3.0/evaluate-artifacts-0.3.0.zip"
       },
       {
         "version": "0.2.0",
