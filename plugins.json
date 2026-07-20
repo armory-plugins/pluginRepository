@@ -72,7 +72,7 @@
         "date": "2026-07-20T10:35:11.004895894Z",
         "requires": "clouddriver>=0.0.0,gate>=0.0.0,orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "13ae2b11701d95e416443beb583b39675bef80ecd4466d68f7f5feaaf5e60a359a81fda0408a61521c1d233942c49741650374c69362d07335fdcea8e2536608",
-        "url": "https://github.com//releases/download/v0.3.1/appname-plugin-0.3.1.zip"
+        "url": "https://github.com/armory-plugins/pluginRepository/releases/download/0.3.1-appname-plugin/appNamePlugin-0.3.1.zip"
       },
       {
         "version": "0.2.0",
